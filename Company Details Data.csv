@@ -1,0 +1,51 @@
+ticker,company_name,sector,industry,follower_count,no_of_analysts
+EVRG,"Evergy, Inc.",Utilities,Electric Utilities,50,59
+SPSC,"SPS Commerce, Inc.",Information Technology,Internet Software & Services,29,83
+MUSA,"Murphy USA, Inc.",Consumer Discretionary,Specialty Retail,6,5
+AAP,Advance Auto Parts Inc.,Consumer Discretionary,Specialty Retail,195,276
+TLRY,"Tilray, Inc.",Health Care,Pharmaceuticals,224,280
+JJSF,J&J Snack Foods Corp.,Consumer Staples,Food Products,51,160
+MTN,Vail Resorts Inc.,Consumer Discretionary,"Hotels, Restaurants & Leisure",116,281
+ARRS,Arris Group Inc.,Information Technology,Communications Equipment,78,148
+MINI,"Mobile Mini, Inc.",Industrials,Commercial Services & Supplies,29,66
+BZUN,Baozun Inc.,Information Technology,Internet Software & Services,129,178
+NBR,Nabors Industries Ltd.,Energy,Energy Equipment & Services,72,151
+TNL,Travel + Leisure Co.,Consumer Discretionary,"Hotels, Restaurants & Leisure",118,199
+ABC,AmerisourceBergen Corporation,Health Care,Health Care Providers & Services,107,123
+LSCC,Lattice Semiconductor Corporation,Information Technology,Semiconductors,63,95
+JLL,Jones Lang Lasalle Inc.,Financials,Real Estate Development,53,70
+MRK,Merck & Co. Inc.,Health Care,Pharmaceuticals,804,478
+ETSY,"Etsy, Inc.",Information Technology,Internet Software & Services,665,547
+GEL,Genesis Energy LP,Energy,"Oil, Gas & Consumable Fuels",20,36
+MYE,Myers Industries Inc.,Materials,Containers & Packaging,12,36
+IDXX,"IDEXX Laboratories, Inc.",Health Care,Health Care Equipment & Supplies,121,149
+ZEUS,"Olympic Steel, Inc.",Materials,Metals & Mining,14,33
+HRC,"Hill-Rom Holdings, Inc.",Health Care,Health Care Equipment & Supplies,57,163
+AAIC,Arlington Asset Investment Corp,Financials,Capital Markets,22,55
+NSP,"Insperity, Inc.",Industrials,Professional Services,35,77
+XNCR,"Xencor, Inc.",Health Care,Biotechnology,14,28
+NKE,Nike Inc.,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2785,2642
+LORL,"Loral Space & Communications, Inc.",Consumer Discretionary,Media,14,13
+QRVO,"QorvoTM, Inc.",Information Technology,Semiconductors,308,496
+IVZ,Invesco Ltd.,Financials,Capital Markets,50,46
+FICO,Fair Isaac Corp.,Information Technology,Software,79,175
+DATA,"Tableau Software, Inc.",Information Technology,Software,409,682
+ASTE,"Astec Industries, Inc.",Industrials,Machinery,24,47
+WES,"Western Midstream Partners, LP",Energy,"Oil, Gas & Consumable Fuels",15,38
+APEI,"American Public Education, Inc.",Consumer Discretionary,Diversified Consumer Services,20,45
+AZN,AstraZeneca PLC,Health Care,Pharmaceuticals,173,133
+XLNX,Xilinx Inc.,Information Technology,Semiconductors,398,468
+HDSN,"Hudson Technologies, Inc.",Industrials,Commercial Services & Supplies,30,68
+PYPL,"PayPal Holdings, Inc.",Information Technology,Internet Software & Services,1480,1558
+IDA,"IdaCorp, Inc.",Utilities,Electric Utilities,16,20
+BRBR,"BellRing Brands, Inc.",Consumer Staples,Personal Products,7,8
+ZGNX,"Zogenix, Inc.",Health Care,Pharmaceuticals,15,26
+TLYS,"Tilly's, Inc.",Consumer Discretionary,Specialty Retail,34,78
+WTRG,"Essential Utilities, Inc.",Utilities,Water Utilities,61,50
+AEP,"American Electric Power Co., Inc.",Utilities,Electric Utilities,457,120
+CORT,Corcept Therapeutics Incorporated,Health Care,Pharmaceuticals,47,85
+KO,The Coca-Cola Company,Consumer Staples,Beverages,2044,963
+KSU,Kansas City Southern,Industrials,Road & Rail,158,215
+NVS,Novartis AG,Health Care,Pharmaceuticals,27,23
+MTG,MGIC Investment Corporation,Financials,Thrifts & Mortgage Finance,38,99
+ACTG,Acacia Research Corporation,Industrials,Professional Services,35,63

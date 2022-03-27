@@ -1,0 +1,678 @@
+analyst_id,analyst_name,analyst_role,join_date,confidence_score,error_rate,accuracy_percentile,points,points_estimate,stocks,pending
+Sentinel,Sentinel,,,,,,,,,
+QuantTrader007,Frederick Tremblay,Financial Professional Buy Side Asset Manager,Apr-14,7.9,,,,,,0
+BillB1210,Bill,Non Professional Financials Professional Services,Jul-14,8.4,16.5,5900,"25,430",13.6,"1,870",35
+Analyst_5770830,Analyst_5770830,,Jul-19,7.1,,,,,,0
+bsirirat,Bob S.,Non Professional Financials Real Estate Development,Jul-13,6.9,,,,,,0
+Medic2525,Medic2525,Non Professional Health Care Health Care Providers & Services,Apr-19,8.3,28,2400,-53,-5.3,10,2
+Analyst_8298118,Analyst_8298118,Non Professional Other Other,Feb-20,7.1,,,,,,0
+Analyst_8030355,Analyst_8030355,Non Professional Information Technology Semiconductors,Aug-16,9,,,,,,0
+Mehrwert,Mehrwert,Financial Professional Independent Other,Jul-16,8,23.5,6600,189,17.2,11,0
+smiles18,Sean,Non Professional Financials Professional Services,Mar-19,6.9,,,,,,0
+serpyou,serpyou,,Mar-18,8.8,17.8,6400,"1,145",20.1,57,0
+AetCap,AetCap,Financial Professional Buy Side Other,Apr-14,7.7,,,,,,0
+Spekoliunas,Zilvinas Speteliunas,Financials,Oct-16,8.8,,,,,,0
+MTS_Insights,Jacob Hess,Non Professional Financials Diversified Financial Services,Feb-17,8.4,,,,,,0
+Canaccord_188,David Hynes Jr.,Financial Professional Sell Side Broker,Mar-19,4.1,31.9,2800,20,0.7,28,156
+Canaccord_96,David Hynes Jr.,Financial Professional Sell Side Broker,Mar-19,4.1,31.9,2800,20,0.7,28,156
+Canaccord_188,David Hynes Jr.,Financial Professional Sell Side Broker,Sep-15,4.5,,,,,,0
+Canaccord_96,David Hynes Jr.,Financial Professional Sell Side Broker,Sep-15,4.5,,,,,,0
+Madmoni,Madmoni,Non Professional Student,Oct-17,7.4,14.2,4800,288,13.7,21,7
+Oppenheimer_55,"Koji Ikeda, CFA",Financial Professional Sell Side Broker,Dec-16,3.5,18.8,1000,-134,-15.8,9,35
+Needham_26,Scott Berg,Financial Professional Sell Side Broker,Sep-15,4.1,29.7,2400,-53,-2.5,21,111
+Analyst_4523383,Analyst_4523383,Non Professional Student,Sep-18,7.9,53.3,5500,21,21,1,0
+Analyst_4678270,Analyst_4678270,Non Professional Other Other,Apr-19,7.1,,,,,,0
+Dolwhale,Dolwhale,,Jan-18,8.2,,,,,,0
+Analyst_8134075,Analyst_8134075,Financial Professional Buy Side Hedge Fund,Apr-19,8.7,,,,,,0
+Analyst_8082280,Analyst_8082280,,,,,,,,,
+rama2050,Ram,Non Professional Information Technology IT Services,Apr-16,8.1,,,,,,0
+Analyst_5597176,Analyst_5597176,Non Professional Other Other,Oct-19,6.8,,,,,,0
+Analyst_783524,Analyst_783524,Non Professional Telecommunication Services Diversified Telecommunications,Feb-20,8,,,,,,0
+Oppenheimer_8,Brian Schwartz,Financial Professional Sell Side Broker,Feb-14,3.7,25.7,2500,-97,-6.3,19,132
+Malette,Malette,Financial Professional Buy Side Hedge Fund,May-16,8.1,11,5800,270,19.3,14,1
+KDRODU220,KDRODU220,Non Professional Industrials Construction & Engineering,Jul-18,8.5,,,,,,0
+Analyst_4444249,Analyst_4444249,Non Professional Financials Capital Markets,Feb-19,7.9,,,,,,0
+ZTrade,Zach Mazzeo,Financial Professional Independent Other,Oct-17,7.7,,,,,,0
+Jefferies_26,"Bret Jordan, CFA",Financial Professional Sell Side Broker,Apr-16,5.3,59.5,0,-47,-47,1,1
+Dr_Meso,Dr_Meso,Non Professional Materials Paper & Forest Products,Jan-15,7.8,,,,,,0
+DHW,DHW,Non Professional Information Technology Software,Mar-16,7,,,,,,0
+rbrandx,robert brand,Non Professional Information Technology Internet Software & Services,May-13,8.6,14.4,6100,"1,220",14.2,86,5
+Analyst_7111857,Analyst_7111857,Non Professional Other Other,Apr-19,7.1,,,,,,0
+Oppenheimer_26,"Brian Nagel, CFA",Financial Professional Sell Side Broker,Feb-14,4.4,39.1,2100,-77,-9.6,16,40
+Jagator904,Jagator904,Financial Professional Independent Independent Research,Jan-18,7.9,13.8,6000,542,15.1,36,10
+Analyst_9166593,Analyst_9166593,Financial Professional Independent Independent Research,Mar-18,6.7,,,,,,0
+MSS_2Q19,"MSShaalan_2Q19, CFA, FRM",Financial Professional Buy Side Other,Nov-18,6.2,,,,,,0
+peepdapatty,peepdapatty,,Mar-19,5.5,,,,,,0
+Analyst_6421915,Analyst_6421915,,Jun-18,4.3,57,0,-42,-42,1,0
+NM501169,NM501169,Financial Professional Sell Side Broker,Dec-15,3.7,,,,,,0
+SW928706,SW928706,Financial Professional Sell Side Broker,Dec-15,4.5,,,,,,0
+Szymon2000,Szymon2000,Non Professional Student,Jul-19,7,,,,,,0
+TV447703,TV447703,Financial Professional Sell Side Broker,May-18,5.9,12.4,2100,-2,-0.2,9,44
+Analyst_8022521,Analyst_8022521,Non Professional Other Other,Apr-19,7.6,,,,,,0
+Analyst_2206610,Analyst_2206610,Non Professional Consumer Staples Food & Staples Retailing,Dec-16,7.3,,,,,,0
+Analyst_3715541,Analyst_3715541,,Mar-16,7,13.7,4600,250,11.9,21,0
+Analyst_397314,Analyst_397314,Non Professional Information Technology IT Services,Nov-18,5.7,,,,,,0
+Analyst_3642898,Analyst_3642898,,Dec-17,6.5,,,,,,0
+mebrantley2,mebrantley2,Financial Professional Independent Independent Research,May-19,7.2,7.8,300,-24,-24,1,0
+Wx_Torn,Wx_Torn,Non Professional Information Technology Internet Software & Services,Oct-15,7.6,14,4600,219,8.4,26,0
+R_C12R,Ron,Non Professional Industrials Aerospace & Defense,May-16,8.1,16.1,5500,304,14.5,21,6
+JBBOEVE,JBBOEVE,Non Professional Health Care Pharmaceuticals,Apr-19,7.1,,,,,,0
+Analyst_4139725,Analyst_4139725,Non Professional Other Other,Nov-19,7.1,,,,,,0
+Analyst_9052899,Analyst_9052899,,Jul-19,7.1,,,,,,0
+Proximilar,Proximilar AI,Financial Professional Independent Other,Jan-17,8.6,,,,,,0
+Analyst_2777191,Analyst_2777191,Non Professional Student,Sep-16,7.7,,,,,,0
+Roth_36,Scott Fortune,Financial Professional Sell Side Broker,Oct-18,6.6,48.9,3800,6,6,1,11
+willgott,willgott,Financial Professional Independent Other,Jul-16,8.2,21.6,5400,7,1.4,5,1
+Analyst_4496393,Analyst_4496393,Non Professional Other Other,Sep-18,7,,,,,,0
+Analyst_1597357,Analyst_1597357,Non Professional Other Other,Nov-18,7.2,,,,,,0
+JCL_Test,JCL_Test,Non Professional Student,Oct-18,8,,,,,,0
+kingfeade5,kingfeade5,Financials,May-18,7.1,,,,,,0
+Analyst_6834198,Analyst_6834198,,Oct-16,8.3,,,,,,0
+Fer_Aldana,Fernando Aldana,Non Professional Industrials Building Products,May-16,8.2,,,,,,0
+satheesha,satheesha,Non Professional Information Technology Computers & Peripherals,Feb-14,8,,,,,,0
+TraderJoe,TraderJoe,Non Professional Information Technology Software,Feb-16,8,30.3,6400,34,17,2,0
+Analyst_5046485,Analyst_5046485,Non Professional Other Other,Sep-18,7.1,,,,,,0
+Analyst_589894,Analyst_589894,Non Professional Other Other,Sep-18,7.1,,,,,,0
+DrTsunamy,DrTsunamy,Non Professional Health Care Health Care Providers & Services,Oct-18,5.7,,,,,,0
+Analyst_4032815,Analyst_4032815,Non Professional Other Other,Oct-18,6.9,,,,,,0
+Analyst_4943094,Analyst_4943094,Non Professional Other Other,Oct-18,7.1,,,,,,0
+Analyst_8178497,Analyst_8178497,Non Professional Other Other,Oct-18,7.1,,,,,,0
+Analyst_8893876,Analyst_8893876,Non Professional Other Other,Oct-18,7.1,,,,,,0
+Analyst_3923486,Analyst_3923486,Non Professional Other Other,Oct-18,7.1,,,,,,0
+coolraz,coolraz,Financial Professional Independent Other,Nov-14,4.2,,,,,,0
+Analyst_3738745,Analyst_3738745,Non Professional Other Other,Nov-18,7.1,,,,,,0
+mrosario211,mrosario211,Non Professional Consumer Discretionary Hotels Restaurants & Leisure,Jun-18,7.6,,,,,,0
+Analyst_4664093,Analyst_4664093,Non Professional Other Other,Nov-18,6.7,,,,,,0
+Analyst_4782037,Analyst_4782037,"Non Professional Energy Oil, Gas & Consumable Fuels",Feb-14,7.4,,,,,,0
+wjbuckner,wjbuckner,Non Professional Materials Construction Materials,Dec-13,7.6,,,,,,0
+androsForm,androsForm,Financial Professional Independent Independent Research,Jan-17,8,,,,,,0
+Analyst_9407649,Analyst_9407649,Non Professional Other Other,Dec-18,7.3,,,,,,0
+Meadows,Andrew Meadows,Non Professional Health Care Health Care Providers & Services,Nov-18,7.3,,,,,,0
+eptest,eptest,Non Professional Information Technology Software,Jul-18,3.8,,,,,,0
+Analyst_4145617,Analyst_4145617,Non Professional Consumer Discretionary Leisure Equipment & Products,Jan-14,7.2,,,,,,0
+mojaveshadows,mojaveshadows,Health Care,Oct-18,7.6,,,,,,0
+Analyst_1873045,Analyst_1873045,Non Professional Student,Aug-17,6.4,17.9,200,-35,-35,1,0
+Farda,Farda,Non Professional Industrials Machinery,Feb-17,7.7,,,,,,0
+Analyst_9745390,Analyst_9745390,Non Professional Other Other,Feb-19,7.2,,,,,,0
+Analyst_9162611,Analyst_9162611,Non Professional Other Other,Feb-19,7.2,,,,,,0
+MorgaTron,MorgaTron,,Jan-17,5.9,,,,,,0
+Analyst_8431614,Analyst_8431614,Non Professional Other Other,Feb-19,7.1,,,,,,0
+Analyst_1893104,Analyst_1893104,,Jul-18,6.5,42.1,4900,4,2,2,0
+Analyst_5670915,Analyst_5670915,Non Professional Other Other,Feb-19,7.1,,,,,,0
+kartikkamath,Kartik,Non Professional Utilities Multi-Utilities,Aug-15,6.7,,,,,,0
+Analyst_5731993,Analyst_5731993,Non Professional Other Other,Feb-19,7,,,,,,0
+Analyst_715437,Analyst_715437,Non Professional Other Other,Mar-19,7.2,,,,,,0
+Analyst_2729300,Analyst_2729300,,Feb-19,7,,,,,,0
+Analyst_5422285,Analyst_5422285,Non Professional Other Other,Jan-19,7,,,,,,0
+coffeepster,coffeepster,Non Professional Information Technology Internet Software & Services,Nov-17,8.5,,,,,,0
+shendricks,Scott Hendricks,Non Professional Industrials Commercial Services & Supplies,Oct-12,8.4,15.9,5800,"3,146",11.6,271,15
+IDK_really,IDK_really,,Jan-19,8.4,,,,,,0
+AMTRAX,AMTRAX,Financial Professional Independent Independent Research,Nov-17,7.3,,,,,,0
+larrylai,larrylai,Financial Professional Independent Independent Research,Mar-14,7.9,15.5,5900,"2,608",11.9,220,15
+Analyst_7089436,Analyst_7089436,Non Professional Financials Diversified Financial Services,May-19,7.1,,,,,,0
+Analyst_9387580,Analyst_9387580,Non Professional Financials Diversified Financial Services,Oct-17,8.5,,,,,,0
+Analyst_8118309,Analyst_8118309,Non Professional Other Other,Apr-19,7.2,,,,,,0
+Zyjzhang,Zyjzhang,Non Professional Academia,Apr-19,7.2,,,,,,0
+dalton,dalton,Non Professional Student,Apr-16,8.4,1.9,6700,29,29,1,0
+Analyst_656238,Analyst_656238,,Jan-18,7.8,,,,,,0
+Analyst_8060388,Analyst_8060388,,Oct-16,7.2,,,,,,0
+maggieb,maggieb,Non Professional Consumer Discretionary Media,May-18,7.7,,,,,,0
+thedinomyte,thedinomyte,Non Professional Materials Chemicals,Oct-11,7.9,,,,,,0
+Old_Mayor,Rob Ford,Financial Professional Buy Side Asset Manager,Jun-15,8.1,15.3,5600,"3,678",12,307,5
+PCLA,PCLA,Financial Professional Independent Independent Research,Jan-14,7.8,,,,,,0
+Analyst_5795851,Analyst_5795851,,Apr-19,8,,,,,,0
+Analyst_4442599,Analyst_4442599,Non Professional Student,Oct-17,3.6,19.7,1300,-50,-10,5,11
+thatsarahlewis,Sarah,Non Professional Information Technology Internet & Catalog Retail,Jun-18,6.3,19.4,4400,114,3.6,32,3
+Analyst_5740786,Analyst_5740786,Financial Professional Independent Independent Research,Nov-18,8.8,,,,,,0
+Analyst_6740683,Analyst_6740683,Non Professional Other Other,Sep-18,7.2,,,,,,0
+Bill_Maurer,Bill_Maurer,Financial Professional Independent Independent Research,Jul-15,9.6,15.9,6000,"1,683",15.9,106,1
+Analyst_2420286,Analyst_2420286,Non Professional Industrials Airlines,Apr-18,7.9,,,,,,0
+Europac_7,Aaron Grey,Financial Professional Sell Side Broker,Mar-19,7.6,42.7,8700,24,24,2,20
+Analyst_8626722,Analyst_8626722,,Mar-18,7.5,,,,,,0
+loopie,loopie,Non Professional Health Care Biotechnology,Jul-15,8.1,13.5,5800,194,11.4,17,0
+Simpson_Homer,Simpson_Homer,Non Professional default default,Aug-19,7.2,,,,,,0
+AAFED,AAFED,Non Professional Information Technology IT Services,Feb-19,7.8,17.7,4700,"1,715",5.7,299,202
+oliversl,oliversl,Non Professional Information Technology IT Services,Jul-18,8.1,2.1,8000,21,21,1,0
+SM_Georg,SM_Georg,Non Professional Student,Jan-14,8.4,,,,,,0
+andluger,andluger,Non Professional Financials Diversified Financial Services,Oct-18,8,11.7,5500,72,10.3,7,0
+jtwvegas1,james wilson,,Oct-11,5.3,,,,,,0
+Analyst_6769479,Analyst_6769479,Non Professional Health Care Health Care Equipment & Supplies,Jun-19,6,,,,,,0
+Analyst_7621949,Analyst_7621949,,May-19,6.9,,,,,,0
+OpusPgladiator,OpusPgladiator,,,,,,,,,
+UcanQuote_me,UcanQuote_me,,,,,,,,,
+JacksonWeeks,JacksonWeeks,,,,,,,,,
+Analyst_2278908,Analyst_2278908,,,,,,,,,
+ShaunO,ShaunO,,,,,,,,,
+Analyst_8075381,Analyst_8075381,,,,,,,,,
+MisguidedBroker,MisguidedBroker,,,,,,,,,
+Analyst_5601928,Analyst_5601928,,,,,,,,,
+hyperionives,hyperionives,,,,,,,,,
+Ocelogic,Ocelogic,,,,,,,,,
+Analyst_1762176,Analyst_1762176,,,,,,,,,
+leadingblind,leadingblind,,,,,,,,,
+mjosal5658,mjosal5658,,,,,,,,,
+Ono,Ono,,,,,,,,,
+Analyst_6732193,Analyst_6732193,,,,,,,,,
+anishjv11,anishjv11,,,,,,,,,
+Analyst_9514488,Analyst_9514488,,,,,,,,,
+GregTripple,GregTripple,,,,,,,,,
+snekse,snekse,,,,,,,,,
+Jennifer1421,Jennifer1421,,,,,,,,,
+Analyst_14804,Analyst_14804,,,,,,,,,
+Analyst_5840956,Analyst_5840956,,,,,,,,,
+Analyst_3826229,Analyst_3826229,,,,,,,,,
+Rolu,Rolu,,,,,,,,,
+Analyst_5963436,Analyst_5963436,,,,,,,,,
+savimiki,savimiki,,,,,,,,,
+bdarbe11,bdarbe11,,,,,,,,,
+Heybone,Heybone,,,,,,,,,
+bsears2386,bsears2386,,,,,,,,,
+Analyst_2270270,Analyst_2270270,,,,,,,,,
+Analyst_4545975,Analyst_4545975,,,,,,,,,
+Analyst_5132873,Analyst_5132873,,,,,,,,,
+Analyst_8755382,Analyst_8755382,,,,,,,,,
+Analyst_3610920,Analyst_3610920,,,,,,,,,
+Dominantstock,Dominantstock,,,,,,,,,
+Analyst_7781223,Analyst_7781223,,,,,,,,,
+Analyst_8230762,Analyst_8230762,,,,,,,,,
+theoldcurrency,theoldcurrency,,,,,,,,,
+MaxBek,MaxBek,,,,,,,,,
+Analyst_7576977,Analyst_7576977,,,,,,,,,
+Analyst_7363224,Analyst_7363224,,,,,,,,,
+Sphinx3peat,Sphinx3peat,,,,,,,,,
+Ollie,Ollie,,,,,,,,,
+slong300,slong300,,,,,,,,,
+thiagocaproni,thiagocaproni,,,,,,,,,
+Analyst_2904632,Analyst_2904632,,,,,,,,,
+Analyst_4653448,Analyst_4653448,,,,,,,,,
+Analyst_4853345,Analyst_4853345,,,,,,,,,
+Analyst_780817,Analyst_780817,,,,,,,,,
+Analyst_5653902,Analyst_5653902,,,,,,,,,
+Analyst_7480344,Analyst_7480344,,,,,,,,,
+HelgeJohansson,HelgeJohansson,,,,,,,,,
+Analyst_164009,Analyst_164009,,,,,,,,,
+Analyst_1035877,Analyst_1035877,,,,,,,,,
+Analyst_7269239,Analyst_7269239,,,,,,,,,
+coby255,coby255,,,,,,,,,
+oakcrest12,oakcrest12,,,,,,,,,
+Analyst_9717313,Analyst_9717313,,,,,,,,,
+Analyst_9145273,Analyst_9145273,,,,,,,,,
+Analyst_7022441,Analyst_7022441,,,,,,,,,
+Analyst_5000000,Analyst_5000000,,,,,,,,,
+Analyst_599346,Analyst_599346,,,,,,,,,
+DB849598,DB849598,,,,,,,,,
+GV751454,GV751454,,,,,,,,,
+Sam0808,Sam0808,,,,,,,,,
+p4b1o,p4b1o,,,,,,,,,
+Plreiss,Plreiss,,,,,,,,,
+osxanalyst,osxanalyst,,,,,,,,,
+omni,omni,,,,,,,,,
+RandomTexan,RandomTexan,,,,,,,,,
+Analyst_9275680,Analyst_9275680,,,,,,,,,
+trevorcourtney,trevorcourtney,,,,,,,,,
+bubbybubster,bubbybubster,,,,,,,,,
+jkesh93,jkesh93,,,,,,,,,
+ritesh000,ritesh000,,,,,,,,,
+Analyst_9958202,Analyst_9958202,,,,,,,,,
+New_Moon,New_Moon,,,,,,,,,
+ggeorgiev,ggeorgiev,,,,,,,,,
+Bigmar,Bigmar,,,,,,,,,
+Analyst_7841845,Analyst_7841845,,,,,,,,,
+RWDKPD,RWDKPD,,,,,,,,,
+Aledrew11,Aledrew11,,,,,,,,,
+KalaKuo,KalaKuo,,,,,,,,,
+Analyst_3261386,Analyst_3261386,,,,,,,,,
+Analyst_1971239,Analyst_1971239,,,,,,,,,
+Analyst_2855865,Analyst_2855865,,,,,,,,,
+Analyst_7923460,Analyst_7923460,,,,,,,,,
+Analyst_4660988,Analyst_4660988,,,,,,,,,
+Analyst_7822701,Analyst_7822701,,,,,,,,,
+Dem,Dem,,,,,,,,,
+Analyst_5039344,Analyst_5039344,,,,,,,,,
+Analyst_7720394,Analyst_7720394,,,,,,,,,
+Analyst_9163475,Analyst_9163475,,,,,,,,,
+Analyst_3001273,Analyst_3001273,,,,,,,,,
+Analyst_3807326,Analyst_3807326,,,,,,,,,
+Analyst_3962869,Analyst_3962869,,,,,,,,,
+Analyst_3259229,Analyst_3259229,,,,,,,,,
+Analyst_3295734,Analyst_3295734,,,,,,,,,
+Analyst_8520293,Analyst_8520293,,,,,,,,,
+karowlinger,karowlinger,,,,,,,,,
+ssshh21,ssshh21,,,,,,,,,
+castle44,castle44,,,,,,,,,
+aaaa7777,aaaa7777,,,,,,,,,
+hxg121130,hxg121130,,,,,,,,,
+Analyst_259155,Analyst_259155,,,,,,,,,
+Analyst_9244357,Analyst_9244357,,,,,,,,,
+panda_w,panda_w,,,,,,,,,
+Trex_Securities,Trex_Securities,,,,,,,,,
+Analyst_4163911,Analyst_4163911,,,,,,,,,
+aja051000,aja051000,,,,,,,,,
+dimarcam,dimarcam,,,,,,,,,
+Bigorangedave,Bigorangedave,,,,,,,,,
+skr140130,skr140130,,,,,,,,,
+Yuekang_Yang,Yuekang_Yang,,,,,,,,,
+Analyst_8551843,Analyst_8551843,,,,,,,,,
+Analyst_5299105,Analyst_5299105,,,,,,,,,
+mdainvest,mdainvest,,,,,,,,,
+Analyst_3493572,Analyst_3493572,,,,,,,,,
+Analyst_4850242,Analyst_4850242,,,,,,,,,
+Analyst_2882644,Analyst_2882644,,,,,,,,,
+Analyst_4932528,Analyst_4932528,,,,,,,,,
+Drogness,Drogness,,,,,,,,,
+Analyst_1752640,Analyst_1752640,,,,,,,,,
+Analyst_3685260,Analyst_3685260,,,,,,,,,
+dbarkalov,dbarkalov,,,,,,,,,
+Analyst_8202295,Analyst_8202295,,,,,,,,,
+Analyst_7868068,Analyst_7868068,,,,,,,,,
+Hoysala,Hoysala,,,,,,,,,
+Analyst_9925162,Analyst_9925162,,,,,,,,,
+AhmedTheGreat7,AhmedTheGreat7,,,,,,,,,
+Analyst_3466390,Analyst_3466390,,,,,,,,,
+OrangeVanilla,OrangeVanilla,,,,,,,,,
+Analyst_9039028,Analyst_9039028,,,,,,,,,
+Analyst_4146227,Analyst_4146227,,,,,,,,,
+LaCheeserie,LaCheeserie,,,,,,,,,
+SS_GQS,SS_GQS,,,,,,,,,
+Kyzmoff,Kyzmoff,,,,,,,,,
+Analyst_6414753,Analyst_6414753,,,,,,,,,
+Time_Seller,Time_Seller,,,,,,,,,
+serp,serp,,,,,,,,,
+Analyst_9279011,Analyst_9279011,,,,,,,,,
+Analyst_4083154,Analyst_4083154,,,,,,,,,
+KiraS,KiraS,,,,,,,,,
+AlecUrtu,AlecUrtu,,,,,,,,,
+Analyst_7781474,Analyst_7781474,,,,,,,,,
+Analyst_8055103,Analyst_8055103,,,,,,,,,
+Analyst_3645752,Analyst_3645752,,Nov-16,4.5,,,,,,0
+PavTrader,PavTrader,Non Professional Information Technology Software,Apr-19,7.2,,,,,,0
+Analyst_3842688,Analyst_3842688,Non Professional Financials Professional Services,Jan-18,6.9,,,,,,0
+PublicOpinion,PublicOpinion,"Non Professional Consumer Discretionary Textiles, Apparel & Luxury Goods",Dec-18,6.9,,,,,,0
+MellowBuda,MellowBuda,,Feb-19,8.3,,,,,,0
+Analyst_anth,Anthony Lara,Non Professional Information Technology IT Services,Aug-15,8.6,27.2,7200,27,13.5,2,0
+Analyst_508786,Analyst_508786,Non Professional Information Technology IT Services,Jan-14,8.4,12.3,8000,20,10,2,0
+Analyst_1828642,Analyst_1828642,Non Professional Other Other,Apr-19,7.2,,,,,,0
+Analyst_3930070,Analyst_3930070,Non Professional Other Other,May-19,7.3,,,,,,0
+SmartTrader,Avinash,Non Professional Information Technology Internet Software & Services,Jan-16,9.1,6.4,5300,-1,-0.5,2,0
+theodore_bauer,theodore_bauer,Non Professional Student,Jan-19,7,,,,,,0
+FinTastic,FinTastic,Non Professional Information Technology Internet & Catalog Retail,Mar-19,9.7,,,,,,0
+MatthewJH,MatthewJH,Student,Mar-19,7.9,,,,,,0
+Abbasmash,Abbas Mashaollah,Financial Professional Buy Side Private Equity,Apr-18,7.9,13.7,5700,"1,218",13.5,90,9
+amr7,amr7,Non Professional Financials Diversified Financial Services,Mar-19,7,,,,,,0
+arpan69,arpan69,Non Professional Information Technology IT Services,Apr-14,7.8,4,4900,20,20,1,0
+Analyst_4751723,Analyst_4751723,Non Professional Information Technology IT Services,Jan-19,8,,,,,,0
+Analyst_8725318,Analyst_8725318,Non Professional Other Other,Aug-19,7.2,,,,,,0
+Analyst_7497946,Analyst_7497946,,Jan-18,5.9,,,,,,0
+IT_Champion,IT_Champion,Non Professional Information Technology Internet Software & Services,Apr-17,7.6,14,5800,193,11.4,17,0
+Analyst_358468,Analyst_358468,,Jun-18,7.7,,,,,,0
+Analyst_1418670,Analyst_1418670,Non Professional Other Other,Jul-19,7.5,,,,,,0
+Dave_R,Dave_R,"Non Professional Consumer Discretionary Textiles, Apparel & Luxury Goods",Apr-16,6.1,,,,,,0
+Analyst_8766422,Analyst_8766422,Non Professional Other Other,Jul-19,7,,,,,,0
+Analyst_7986085,Analyst_7986085,Financial Professional Buy Side Hedge Fund,Jan-16,5,26.3,2300,-109,-7.8,14,16
+alex86881124,alex86881124,Non Professional Health Care Health Care Providers & Services,Oct-14,6.6,,,,,,0
+ktxmatrix,ktxmatrix,Non Professional Information Technology Software,Nov-17,6.2,,,,,,0
+defjam,defjam,Non Professional Academia,Mar-14,8.4,18.1,4900,38,7.6,5,0
+lect,lect,Non Professional Financials Capital Markets,Jun-19,7.1,,,,,,0
+SmitandCo,SmitandCo,Non Professional Financials Diversified Financial Services,Mar-19,7.6,15.4,6000,714,14,51,2
+JJM,JJM,Financial Professional Buy Side Asset Manager,Oct-17,7.6,16.3,5700,26,8.7,3,0
+MSS_3Q19,MSS_3Q19,,Sep-19,6.9,,,,,,0
+Analyst_7881232,Analyst_7881232,Financial Professional Independent Independent Research,Jul-19,7,,,,,,0
+RaghuRam,RaghuRam,Non Professional Information Technology Software,Aug-19,7.8,,,,,,0
+Analyst_877516,Analyst_877516,,Aug-18,6.8,,,,,,0
+Analyst_4332023,Analyst_4332023,Non Professional Other Other,Oct-19,7.3,,,,,,0
+Analyst_1078932,Analyst_1078932,Non Professional Information Technology IT Services,Apr-18,5.7,,,,,,0
+Roth_17,Darren Aftahi,Financial Professional Sell Side Broker,Oct-15,5.3,18.7,5300,64,12.8,5,26
+Analyst_9165124,Analyst_9165124,,May-19,7.5,,,,,,0
+RStu0718,Ryan Stuczynski,Financial Professional Independent Independent Research,May-12,6.4,,,,,,0
+SmoShow,SmoShow,"Non Professional Energy Oil, Gas & Consumable Fuels",Jan-19,8.3,,,,,,0
+rksmythe,rksmythe,"Non Professional Consumer Discretionary Textiles, Apparel & Luxury Goods",Nov-15,7.8,,,,,,0
+greenbananas,greenbananas,Non Professional Information Technology Software,Jan-18,8.2,,,,,,0
+francescozunino,francescozunino,Non Professional Financials Diversified Financial Services,Sep-18,8.4,14.7,4600,279,12.1,23,1
+Analyst_4451595,Analyst_4451595,,Mar-19,7.2,,,,,,0
+iMarcelo,iMarcelo,Non Professional Information Technology Internet Software & Services,Feb-12,7.6,,,,,,0
+Analyst_6836835,Analyst_6836835,Non Professional Other Other,Jan-20,7.1,,,,,,0
+Latheef,Latheef,Non Professional Information Technology Internet Software & Services,Oct-16,6,,,,,,0
+Analyst_6955214,Analyst_6955214,Non Professional Other Other,Dec-19,7,,,,,,0
+WonterC,WonterC,Non Professional Student,Feb-20,8,13.9,5600,54,4.9,11,0
+TubbyBubbles,TubbyBubbles,Non Professional Industrials Transportation Infrastructure,Jan-20,7,,,,,,0
+rrg1964,rrg1964,Financial Professional Independent Other,Jun-16,7.5,9.7,6200,198,15.2,13,0
+Analyst_4321238,Analyst_4321238,,,,,,,,,
+ES892458,ES892458,,,,,,,,,
+Canaccord_14,Mark Massaro,Financial Professional Sell Side Broker,Jan-15,4.3,,,,,,0
+Canaccord_197,Mark Massaro,Financial Professional Sell Side Broker,Jan-15,4.3,,,,,,0
+Canaccord_14,Mark Massaro,Financial Professional Sell Side Broker,Mar-19,4.2,61.5,1000,-46,-15.3,3,0
+Canaccord_197,Mark Massaro,Financial Professional Sell Side Broker,Mar-19,4.2,61.5,1000,-46,-15.3,3,0
+Armour65,Armour65,Non Professional Academia,Aug-18,8.4,,,,,,0
+Analyst_umbi,Analyst_umbi,Non Professional Utilities Multi-Utilities,Sep-18,7.1,35.4,2900,-19,-4.8,4,1
+Analyst_1610758,Analyst_1610758,Non Professional Other Other,Jan-20,6.9,,,,,,0
+Jefferies_64,Martin Englert,Financial Professional Sell Side Broker,Apr-16,4.7,,,,,,0
+tlm1tlm,tlm1tlm,Non Professional Information Technology Paper & Forest Products,May-17,7.4,,,,,,0
+AlphaAnalyst,AlphaAnalyst,,Jan-18,8.5,,,,,,0
+Donbenoni,Donbenoni,Financial Professional Buy Side Asset Manager,Aug-17,7.3,,,,,,0
+Giacomo,Giacomo,,Oct-18,7.7,,,,,,0
+tradersergi,tradersergi,Non Professional Student,Jul-17,6.6,,,,,,0
+DK321722,DK321722,Financial Professional Sell Side Broker,Dec-15,7,14.1,1100,-91,-15.2,6,1
+Needham_34,Mike Matson,Financial Professional Sell Side Broker,Jul-17,6.1,17,4500,146,6.1,24,159
+EMH,EMH,,Jul-19,6.5,,,,,,0
+Analyst_2625626,Analyst_2625626,Non Professional Other Other,Jul-19,7.5,,,,,,0
+Analyst_6458245,Analyst_6458245,Non Professional Other Other,Jun-19,6.9,,,,,,0
+Analyst_2080299,Analyst_2080299,Non Professional Other Other,Jul-19,6.5,,,,,,0
+Vitaly,Vitaly,Non Professional Information Technology Office Electronics,Nov-19,8.5,21.3,6400,501,15.7,32,9
+Analyst_2111537,Analyst_2111537,Non Professional Other Other,Apr-19,7,,,,,,0
+Analyst_3829396,Analyst_3829396,Non Professional Other Other,Mar-19,7.2,,,,,,0
+Suntrust_5,Tobey Sommer,Financial Professional Sell Side Broker,Dec-13,4.3,24.4,1600,-275,-12.8,22,22
+Roth_19,"Jeff Martin, CFA",Financial Professional Sell Side Broker,Oct-15,6.5,5.5,4100,76,13.8,6,23
+Analyst_8593144,Analyst_8593144,Non Professional Student,May-19,6,,,,,,0
+Analyst_3970101,Analyst_3970101,Non Professional Other Other,Feb-20,7,,,,,,0
+Analyst_8036067,Analyst_8036067,Non Professional Other Other,Apr-19,7.2,,,,,,0
+Analyst_4301392,Analyst_4301392,Non Professional Other Other,May-19,7.2,,,,,,0
+Canaccord_202,"Arlinda Lee, Ph.D.",Financial Professional Sell Side Broker,Mar-19,5.8,40,3600,-25,-2.8,9,21
+Canaccord_115,"Arlinda Lee, Ph.D.",Financial Professional Sell Side Broker,Mar-19,5.8,40,3600,-25,-2.8,9,21
+Canaccord_202,"Arlinda Lee, Ph.D.",Financial Professional Sell Side Broker,Dec-15,4.2,,,,,,0
+Canaccord_115,"Arlinda Lee, Ph.D.",Financial Professional Sell Side Broker,Dec-15,4.2,,,,,,0
+Cantor_22,Alethia Young,Financial Professional Sell Side Broker,Sep-18,4.9,35.8,3000,-93,-2.9,35,34
+iid_investor,iid_investor,Non Professional Health Care Pharmaceuticals,Sep-15,7.5,,,,,,0
+Tag_5,"Cristina Fernández, CPA",Financial Professional Sell Side Broker,Oct-15,7.4,16.4,5800,81,23.1,5,45
+Analyst_3466341,Analyst_3466341,Non Professional Academia,Oct-15,7.9,,,,,,0
+Analyst_211431,Analyst_211431,Non Professional Other Other,Sep-18,7.3,,,,,,0
+schmidtke_jake,schmidtke_jake,Non Professional Health Care Health Care Providers & Services,Oct-16,4.1,,,,,,0
+Analyst_7054907,Analyst_7054907,,Mar-18,4.6,,,,,,0
+Sasas,Saulius,Financial Professional Independent Independent Research,May-17,8.5,,,,,,1
+Analyst_2890626,Analyst_2890626,Non Professional Financials Diversified Financial Services,Jul-18,7.8,,,,,,0
+Analyst_9676000,Analyst_9676000,Financial Professional Buy Side Asset Manager,Jan-17,8.6,5.1,6200,942,16.2,58,30
+Analyst_7004333,Analyst_7004333,,Dec-16,7.2,,,,,,0
+Analyst_317132,Analyst_317132,Non Professional Consumer Discretionary Diversified Consumer Services,Mar-18,8.3,,,,,,0
+Analyst_347051,Analyst_347051,Non Professional Other Other,Sep-18,7.5,,,,,,0
+Kalos,Giuseppe Calì,Financial Professional Independent Independent Research,Apr-16,8.6,,,,,,0
+Tag_1,"Kelly Chen, CFA",Financial Professional Sell Side Broker,Oct-15,6.3,,,,,,0
+Analyst_2843224,Analyst_2843224,,Jan-18,2.5,,,,,,0
+rpajam,rpajam,Non Professional Financials Insurance,Aug-14,7,12.8,3900,152,4.3,35,131
+Analyst_76071,Analyst_76071,,Feb-16,8.3,3.2,7800,-2,-2,1,0
+Gino,Gino,Non Professional Financials Capital Markets,Aug-18,4.3,,,,,,0
+Analyst_3532040,Analyst_3532040,Financial Professional Sell Side Investment Bank,Sep-18,7.3,,,,,,0
+USD_20,Graybill John,Non Professional Student,Sep-14,7.8,,,,,,0
+sugarfysh,sugarfysh,Non Professional Information Technology Internet Software & Services,Sep-16,6,,,,,,0
+Gkater,Gkater,Non Professional Financials Professional Services,Jan-14,6.8,,,,,,0
+PawnWu,PawnWu,Financial Professional Independent Independent Research,Jan-18,4.4,,,,,,0
+nino872,nino872,Non Professional Financials Professional Services,Jul-18,6.9,,,,,,0
+Analyst_7355989,Analyst_7355989,,Aug-18,6.7,,,,,,0
+Analyst_2806104,Analyst_2806104,,Sep-18,6.9,,,,,,0
+Analyst_6588992,Analyst_6588992,,Sep-18,7.3,,,,,,0
+kgalan,kgalan,Financial Professional Buy Side Private Equity,Jul-17,5.2,,,,,,0
+Analyst_4852455,Analyst_4852455,,Jul-18,7.1,,,,,,0
+MartyLarty,Marty Lardy,Buy Side,Oct-16,8.3,,,,,,0
+Analyst_1247336,Analyst_1247336,Non Professional Other Other,Dec-18,6.7,,,,,,0
+p_a_arty,p_a_arty,Financial Professional Independent Other,Nov-18,8.7,,,,,,0
+Big_Mac,Big_Mac,Financial Professional Buy Side Asset Manager,Nov-14,8.1,,,,,,0
+Analyst_4637522,Analyst_4637522,,Feb-18,6.5,,,,,,0
+Analyst_9583612,Analyst_9583612,Financial Professional Independent Independent Research,Nov-17,6,,,,,,0
+Analyst_6747565,Analyst_6747565,Non Professional Health Care Biotechnology,Feb-17,8.3,,,,,,0
+Analyst_1487257,Analyst_1487257,,Oct-18,7.5,,,,,,0
+Analyst_883247,Analyst_883247,Non Professional Materials Paper & Forest Products,Oct-15,8.7,17.4,6100,"1,233",16.6,75,14
+LuckyGuess,LuckyGuess,Non Professional Materials Paper & Forest Products,Mar-18,6,,,,,,0
+jfffrmm,jfffrmm,"Non Professional Information Technology Electronic Equip., Instruments",Jul-16,8.3,,,,,,0
+Analyst_6186275,Analyst_6186275,Non Professional Financials Professional Services,Nov-17,8.4,,,,,,0
+Analyst_5827312,Analyst_5827312,"Non Professional Energy Oil, Gas & Consumable Fuels",Nov-18,6.5,,,,,,0
+Analyst_2752012,Analyst_2752012,Non Professional Other Other,Nov-18,7.8,,,,,,0
+NBalian,NBalian,Non Professional Student,Jun-18,4,,,,,,0
+Analyst_9138660,Analyst_9138660,Financial Professional Independent Independent Research,Apr-18,9.2,13,6000,236,14.8,16,4
+Anthony_V,Anthony_V,Non Professional Industrials Commercial Services & Supplies,Feb-19,7.2,,,,,,0
+Analyst_2544715,Analyst_2544715,,Mar-19,7.1,,,,,,0
+Analyst_1302988,Analyst_1302988,Non Professional Other Other,Mar-19,7.2,,,,,,0
+Analyst_4911795,Analyst_4911795,,Mar-19,7.1,,,,,,0
+eteodorescu,eteodorescu,Non Professional Telecommunication Services Wireless Telecommunication Services,May-18,4.4,,,,,,0
+Eric_Liou,Eric_Liou,Financial Professional Buy Side Asset Manager,Jan-17,8.2,,,,,,0
+Analyst_1147792,Analyst_1147792,Non Professional Consumer Staples Personal Products,Feb-19,8.4,4.9,5300,6,6,1,0
+daryldejori,Daryl de Jori,Financial Professional Independent Other,Oct-12,6.7,,,,,,0
+Analyst_9183911,Analyst_9183911,Non Professional Information Technology IT Services,Feb-19,7.1,,,,,,0
+adiabatic,Shreeder Adibhatla,Non Professional Industrials Aerospace & Defense,Aug-15,7.5,12.4,4500,67,4.2,16,2
+Analyst_4110103,Analyst_4110103,,Jan-19,8.6,,,,,,0
+Needham_32,Rick Patel,Financial Professional Sell Side Broker,Jul-17,4.7,44.6,700,-58,-12.9,8,32
+Newoptionz,Stephen Williams,Non Professional Industrials Industrial Conglomerates,Jul-15,5.7,14.5,4100,-3,-1,3,4
+Analyst_4503990,Analyst_4503990,Non Professional Other Other,Jun-19,7.2,,,,,,0
+Canaccord_144,Camilo Lyon,Financial Professional Sell Side Broker,Mar-19,3.2,,,,,,0
+rkwong00,rkwong00,Non Professional Student,Apr-14,5.8,,,,,,0
+Analyst_6475473,Analyst_6475473,,May-19,7.3,,,,,,0
+Analyst_9693329,Analyst_9693329,Non Professional Other Other,Jun-19,7.2,,,,,,0
+Analyst_5026178,Analyst_5026178,Non Professional Health Care Pharmaceuticals,Jun-19,7.3,,,,,,0
+Analyst_5448955,Analyst_5448955,Non Professional Financials Professional Services,Jul-15,7.3,,,,,,0
+Analyst_1217889,Analyst_1217889,Non Professional Financials Capital Markets,Jun-19,7.2,,,,,,0
+Analyst_Ash,Analyst_Ash,Non Professional Materials Paper & Forest Products,Jan-18,7.5,7.3,5500,-6,-6,1,0
+Analyst_8212457,Analyst_8212457,,Jun-19,6.8,,,,,,0
+JorgeART95,JorgeART95,,Aug-17,7.9,,,,,,0
+lpisano7,lpisano7,"Non Professional Information Technology Electronic Equip., Instruments",Aug-17,7,,,,,,0
+Analyst_2363734,Analyst_2363734,Non Professional Other Other,Jun-19,7.5,,,,,,0
+Analyst_157971,Analyst_157971,,Jun-19,7,,,,,,0
+420,420,Non Professional Financials Consumer Finance,Oct-18,7,,,,,,0
+Analyst_2375387,Analyst_2375387,Non Professional Other Other,Jun-19,7.2,,,,,,0
+youngceltic,youngceltic,Financial Professional Independent Independent Research,Aug-18,7.1,,,,,,0
+Analyst_7885967,Analyst_7885967,Non Professional Other Other,May-19,7.2,,,,,,0
+kerryburrell,kerry burrell,Non Professional Financials Real Estate Development,Jun-13,8,10.3,5900,"2,693",16.3,165,5
+bizcad,Nicholas Stein,Non Professional Information Technology Software,Feb-15,7.6,12.5,5900,285,11.9,24,42
+Prahem,Prahem,Financial Professional Independent Independent Research,Apr-14,6.1,,,,,,0
+Analyst_7712061,Analyst_7712061,Non Professional Student,Apr-17,5.8,,,,,,0
+Analyst_8743487,Analyst_8743487,Non Professional Other Other,Jul-18,7.3,,,,,,0
+Yield_Curve,Heather OLoughlin Green,Financial Professional Independent Independent Research,Apr-16,9.1,,,,,,0
+clspie,Charles Spiegel,Non Professional Academia,Oct-15,6.8,4.4,6500,29,29,1,1
+Canaccord_12,T. Michael Walkley,Financial Professional Sell Side Broker,Jan-15,5.1,,,,,,0
+Canaccord_166,T. Michael Walkley,Financial Professional Sell Side Broker,Jan-15,5.1,,,,,,0
+Canaccord_12,T. Michael Walkley,Financial Professional Sell Side Broker,Mar-19,4.7,26.9,1800,-136,-8,18,100
+Canaccord_166,T. Michael Walkley,Financial Professional Sell Side Broker,Mar-19,4.7,26.9,1800,-136,-8,18,100
+Oppenheimer_7,Rick Schafer,Financial Professional Sell Side Broker,Feb-14,6.7,9.7,3200,-44,-6.3,14,74
+Needham_4,N. Quinn Bolton,Financial Professional Sell Side Broker,Jan-14,6.1,7.8,3700,100,4.5,22,131
+Analyst_2470481,Analyst_2470481,Non Professional Other Other,May-18,7,,,,,,0
+Analyst_4014777,Analyst_4014777,Non Professional Other Other,May-18,7.1,,,,,,0
+Analyst_3859840,Analyst_3859840,Non Professional Other Other,May-18,7.1,,,,,,0
+Analyst_4859493,Analyst_4859493,,,,,,,,,
+Analyst_3963950,Analyst_3963950,Non Professional Other Other,Jun-18,7,,,,,,0
+Analyst_7293427,Analyst_7293427,Non Professional Other Other,Jun-18,7,,,,,,0
+Analyst_1444558,Analyst_1444558,Non Professional Other Other,Jun-18,6.9,,,,,,0
+Analyst_1748761,Analyst_1748761,Non Professional Other Other,Jun-18,6.9,,,,,,0
+Analyst_1727754,Analyst_1727754,Non Professional Other Other,Jun-18,6.9,,,,,,0
+Analyst_7241955,Analyst_7241955,Non Professional Other Other,Jun-18,6.8,,,,,,0
+Analyst_879688,Analyst_879688,,Jun-17,3.2,,,,,,0
+Analyst_9946862,Analyst_9946862,Non Professional Other Other,Aug-18,5.9,,,,,,0
+talleninvests,talleninvests,Non Professional Consumer Discretionary Specialty Retail,Aug-16,8.7,3.4,3800,8,8,1,0
+Analyst_8744289,Analyst_8744289,Non Professional Financials Capital Markets,Aug-15,7.6,13.5,4700,53,26.5,2,0
+Analyst_994512,Analyst_994512,Non Professional Other Other,Aug-18,7,,,,,,0
+Analyst_8151073,Analyst_8151073,Non Professional Other Other,Aug-18,7,,,,,,0
+Analyst_1558539,Analyst_1558539,Non Professional Other Other,Aug-18,7,,,,,,0
+Analyst_2808560,Analyst_2808560,Non Professional Other Other,Aug-18,6.9,,,,,,0
+Analyst_8939179,Analyst_8939179,Non Professional Other Other,Aug-18,6.9,,,,,,0
+Analyst_6149090,Analyst_6149090,Non Professional Other Other,Aug-18,6.9,,,,,,0
+Analyst_8305999,Analyst_8305999,Non Professional Other Other,Aug-18,6.9,,,,,,0
+Analyst_4282144,Analyst_4282144,Non Professional Other Other,Aug-18,6.9,,,,,,0
+Analyst_4556622,Analyst_4556622,Non Professional Other Other,Sep-18,6.9,,,,,,0
+Analyst_8737251,Analyst_8737251,Non Professional Other Other,Nov-18,7.1,,,,,,0
+Analyst_7916488,Analyst_7916488,Non Professional Other Other,Nov-18,6.9,,,,,,0
+Analyst_3290108,Analyst_3290108,Non Professional Information Technology Internet & Catalog Retail,Jul-14,8.2,20.1,5000,22,3.7,6,0
+jimmypsu35,jimmypsu35,Non Professional Student,Jul-16,7,15.4,5800,27,5.4,5,2
+jmayhugh,jmayhugh,Non Professional Academia,Oct-18,7.2,,,,,,0
+Analyst_22388,Analyst_22388,Non Professional Other Other,Nov-18,7.1,,,,,,0
+Analyst_4518062,Analyst_4518062,Non Professional Information Technology IT Services,Feb-16,8,3.2,6100,79,26.3,3,2
+Analyst_4701590,Analyst_4701590,Non Professional Student,Feb-16,8,5.9,2300,-20,-20,1,0
+DingjunS,DingjunS,Non Professional Student,Oct-18,7.9,,,,,,0
+GarrettBaldwin,GarrettBaldwin,Financial Professional Independent Independent Research,Oct-15,6,,,,,,0
+Analyst_4517819,Analyst_4517819,Non Professional Other Other,Nov-18,7,,,,,,0
+Analyst_4562198,Analyst_4562198,Non Professional Other Other,Nov-18,6.9,,,,,,0
+Analyst_5392370,Analyst_5392370,Non Professional Other Other,Nov-18,6.7,,,,,,0
+Analyst_7667936,Analyst_7667936,Non Professional Other Other,Nov-18,6.9,,,,,,0
+Analyst_1136183,Analyst_1136183,Non Professional Other Other,Nov-18,6.8,,,,,,0
+Analyst_9516852,Analyst_9516852,Non Professional Other Other,Feb-19,7.3,,,,,,0
+Analyst_8798612,Analyst_8798612,Non Professional Other Other,Feb-19,7.3,,,,,,0
+Needham_6,Rajvindra Gill,Financial Professional Sell Side Broker,Jan-14,6.3,7.9,4200,37,2.5,15,84
+Analyst_1033358,Analyst_1033358,Non Professional Other Other,Apr-19,6.8,,,,,,0
+Analyst_8591831,Analyst_8591831,Non Professional Other Other,Feb-19,7,,,,,,0
+Analyst_7124008,Analyst_7124008,Non Professional Other Other,Feb-19,6.9,,,,,,0
+JD_500347619,JD_500347619,,Aug-18,7.6,,,,,,0
+Neil_Martin,Neil_Martin,Financial Professional Independent Other,Aug-16,6.8,13.8,5100,"1,026",8.3,124,399
+SEE_Autonomy,SEE_Autonomy,Financial Professional Independent Independent Research,Jul-18,7.5,,,,,,0
+Analyst_8058400,Analyst_8058400,Non Professional Consumer Staples Personal Products,May-15,8,,,,,,0
+Analyst_2450768,Analyst_2450768,Non Professional Other Other,Jul-19,7.1,,,,,,0
+shawncooney,Shawn P. Cooney,Non Professional Information Technology IT Services,Jan-19,8.4,13.9,5700,502,11.2,45,4
+Analyst_5174576,Analyst_5174576,,Oct-19,7.9,,,,,,0
+Analyst_6234046,Analyst_6234046,Non Professional Health Care Health Care Providers & Services,Mar-16,9.2,17.6,5900,42,10.5,4,0
+SunRay,SunRay,Non Professional Financials Diversified Financial Services,Oct-19,5.2,50.8,800,-5,-5,1,0
+powertempo,powertempo,Non Professional Industrials Machinery,Jul-18,7.1,,,,,,0
+Needham_33,Jack Andrews,Financial Professional Sell Side Broker,Jul-17,5.6,32.4,4700,104,8.3,18,104
+Oppenheimer_11,Ittai Kidron,Financial Professional Sell Side Broker,Feb-14,4.3,26.1,3200,-21,-0.8,30,133
+Analyst_5522138,Analyst_5522138,Non Professional Health Care Health Care Providers & Services,Oct-18,4.6,,,,,,0
+mjjackson,Mark Jackson,Financial Professional Buy Side Asset Manager,Feb-19,8.4,,,,,,0
+Aitvaras,Aitvaras,Non Professional Information Technology IT Services,Feb-19,7.3,,,,,,0
+Analyst_2056102,Analyst_2056102,,Jun-17,6.7,,,,,,0
+Analyst_9650665,Analyst_9650665,Non Professional Other Other,Apr-19,6.9,,,,,,0
+Analyst_7584031,Analyst_7584031,Non Professional Consumer Staples Beverages,Apr-16,7.3,,,,,,0
+s_sriniwas,s_sriniwas,Non Professional Information Technology IT Services,Feb-19,6.6,,,,,,0
+quietsubmarine,quietsubmarine,Financial Professional Buy Side Hedge Fund,Jun-19,9,,,,,,0
+Analyst_7921806,Analyst_7921806,,Jul-19,7.5,,,,,,0
+Jefferies_30,John DiFucci,Financial Professional Sell Side Broker,Apr-16,4.1,,,,,,0
+sunghoon,sunghoon,Financial Professional Buy Side Mutual Fund,Mar-14,6,,,,,,0
+asuram54,asuram54,Non Professional Information Technology Software,Dec-13,7.4,46.8,2200,1,0.3,3,0
+d_strizhi,d_strizhi,Non Professional Student,Oct-17,7.6,,,,,,0
+Analyst_4544965,"Michael Shlisky, CFA",Financial Professional Sell Side Broker,Oct-15,4.5,,,,,,0
+outlierforgood,outlierforgood,Financial Professional Sell Side Investment Bank,Nov-15,7.6,,,,,,0
+Binnz,Binnz,Non Professional Financials Consumer Finance,Aug-17,8.4,8.3,6800,124,20.7,6,0
+Analyst_3998229,Analyst_3998229,Non Professional Other Other,Apr-19,7,,,,,,0
+Analyst_4837125,Analyst_4837125,Non Professional Other Other,Apr-19,6.9,,,,,,0
+TheSquareMile,Square Mile,Financial Professional Sell Side Other,Oct-12,7,,,,,,0
+MarcTorra,MarcTorra,Non Professional Student,Dec-18,7.2,,,,,,0
+Analyst_5771037,Analyst_5771037,,Feb-20,7.1,,,,,,0
+CHASE03670,Chase Mallia,Non Professional Student,May-12,6.5,,,,,,0
+Analyst_6577656,Analyst_6577656,Non Professional Student,Feb-14,7.8,,,,,,0
+Suntrust_13,William Stein,Financial Professional Sell Side Broker,Oct-13,5,21.1,100,-540,-37.2,15,17
+permutant,permutant,Non Professional Academia,May-18,8.7,,,,,,0
+AllTheRiteMoves,Adam Sullivan,Financial Professional Buy Side Private Equity,Jan-14,7.3,,,,,,0
+Showkz99,David Shoko,Non Professional Financials Diversified Financial Services,Jul-15,7.4,13.8,5300,"1,556",10.7,146,5
+Analyst_7845614,Analyst_7845614,Non Professional Other Other,Jul-18,6.9,,,,,,0
+Analyst_2291916,Analyst_2291916,Financial Professional Sell Side Financial Advisor,Aug-14,7.7,,,,,,0
+BirdT,BirdT,Financial Professional Buy Side Asset Manager,Oct-13,5.1,21.9,4800,51,2,25,3
+cap24,cap24,Non Professional Information Technology Software,Apr-16,5.5,,,,,,0
+upandtotheright,Tom Telford,Financial Professional Independent Independent Research,May-12,8.9,4.3,6200,907,18.5,49,12
+Analyst_6625034,Analyst_6625034,Non Professional Other Other,Oct-18,7.4,,,,,,0
+Analyst_9922336,Analyst_9922336,Non Professional Other Other,Oct-18,7.1,,,,,,0
+theoriginalkim,theoriginalkim,Non Professional Consumer Discretionary Automobiles,Mar-17,2.4,,,,,,0
+KoolerAid,KoolerAid,Non Professional Information Technology Software,Jun-14,5.8,51.1,3600,-17,-5.7,3,0
+Analyst_6400189,Analyst_6400189,Non Professional Other Other,Dec-13,7.8,,,,,,0
+RecepOzgun,RecepOzgun,Non Professional Information Technology Semiconductors,Jul-16,8.7,,,,,,0
+Gdonaldson,Gdonaldson,Financial Professional Buy Side Asset Manager,Mar-14,8,7.3,5600,"1,020",17.3,59,0
+Analyst_9529251,Analyst_9529251,Non Professional Other Other,Nov-18,7.5,,,,,,0
+MikeBrew,MikeBrew,Non Professional Information Technology Software,Dec-18,6.5,,,,,,0
+Analyst_9303067,Analyst_9303067,Financial Professional Buy Side Asset Manager,Jul-17,8.2,,,,,,0
+Analyst_5834275,Analyst_5834275,Non Professional Other Other,Mar-18,8.4,,,,,,0
+Analyst_828799,Analyst_828799,,Oct-18,4.1,,,,,,0
+Analyst_6356544,Analyst_6356544,Non Professional Industrials Road & Rail,Nov-18,7.8,11.2,4500,126,11.5,11,1
+EddieQ,EddieQ,Non Professional Energy Energy Equipment & Services,Jul-18,7.8,,,,,,0
+Ruminative_fire,Ruminative_fire,Non Professional Student,Nov-16,6.7,,,,,,0
+stanleysuen,stanleysuen,Non Professional Information Technology Software,Jul-17,8.1,20.1,5200,-6,-6,1,0
+dsadhvani,dsadhvani,Non Professional Financials Insurance,Jul-16,8,12.6,3800,16,16,1,1
+Analyst_1450657,Analyst_1450657,,Jul-18,8.6,,,,,,0
+ramesh,ramesh,Financial Professional Buy Side Hedge Fund,May-14,7.1,,,,,,0
+Analyst_5099220,Analyst_5099220,Non Professional Academia,Jan-16,7.3,,,,,,1
+PIH_70,PIH_70,Financial Professional Sell Side Insurance Firm,Dec-17,7.7,4.5,6900,110,27.5,4,0
+Analyst_3536993,Analyst_3536993,,Apr-19,7.1,,,,,,0
+Analyst_9220482,Analyst_9220482,Non Professional Information Technology Internet Software & Services,Aug-14,6.2,8.3,4500,42,8.4,5,4
+Analyst_6875073,Analyst_6875073,Non Professional Other Other,Jan-19,7,,,,,,0
+Analyst_8261925,Analyst_8261925,Non Professional Other Other,Oct-18,7.2,,,,,,0
+Roth_8,Gerry Sweeney,Financial Professional Sell Side Broker,Oct-15,6.5,30.6,2900,10,1,10,19
+Analyst_8748018,Analyst_8748018,Financial Professional Buy Side Other,May-18,7.8,48.6,3000,-3,-3,1,1
+N3RDCAK3,N3RDCAK3,Non Professional Consumer Staples Food & Staples Retailing,May-17,6.6,,,,,,1
+knows_business,knows_business,Non Professional Materials Chemicals,Oct-18,6.9,,,,,,0
+Analyst_4557709,Analyst_4557709,Non Professional Other Other,Aug-19,7.1,,,,,,0
+Analyst_2821150,Analyst_2821150,Non Professional Consumer Discretionary Diversified Consumer Services,Jul-19,7.2,,,,,,0
+Analyst_6848110,Analyst_6848110,Non Professional Student,Nov-17,8,,,,,,0
+Parmigianino,Marco Rossi,Non Professional Energy Energy Equipment & Services,Oct-15,7.3,,,,,,0
+Themonster,Themonster,Non Professional Consumer Staples Household & Personal Products,May-18,5.9,,,,,,0
+Analyst_7852383,Analyst_7852383,Non Professional Financials Diversified Financial Services,Apr-19,7.1,,,,,,0
+mikelicosati,mikelicosati,Financial Professional Buy Side Hedge Fund,Aug-14,7.8,21.6,4500,21,2.6,8,2
+Analyst_6763211,Analyst_6763211,Non Professional Academia,Apr-15,8.3,,,,,,0
+Analyst_8012283,Analyst_8012283,Non Professional Health Care Life Sciences Tools & Services,Jan-19,3.5,,,,,,0
+Tappa69,Tappa69,Financial Professional Independent Other,Jul-16,8.6,,,,,,0
+Analyst_5650290,Analyst_5650290,,Apr-15,6.5,,,,,,0
+wlp3rd,wlp3rd,Non Professional Information Technology IT Services,Jan-14,7.6,13.2,5900,45,9,5,0
+Analyst_1224862,Analyst_1224862,Non Professional Financials Capital Markets,Jan-18,7.9,,,,,,0
+euribe25,euribe25,Financial Professional Independent Other,May-16,8,,,,,,0
+Analyst_3519937,Analyst_3519937,Non Professional Academia,Oct-16,7.2,16.7,6300,10,10,1,0
+VincentLauria,VincentLauria,Non Professional Information Technology Software,Aug-18,5.7,,,,,,0
+benkanter,benkanter,Non Professional Information Technology Internet Software & Services,Jun-15,7.5,,,,,,0
+analyst_999,analyst_999,Non Professional Information Technology Internet Software & Services,Mar-14,7.6,,,,,,0
+Ruben_Dominguez,Ruben Dominguez,Financial Professional Buy Side Hedge Fund,Oct-15,7.3,,,,,,0
+Analyst_419690,Analyst_419690,,Jun-19,7.2,,,,,,0
+Analyst_8720742,Analyst_8720742,Financial Professional Independent Independent Research,Apr-19,6.7,,,,,,0
+WillMcC,WillMcC,Non Professional Financials Diversified Financial Services,Oct-15,6,,,,,,0
+TylerAuggieD,Tyler Davis,Non Professional Consumer Discretionary Media,Aug-14,8.6,,,,,,0
+Analyst_5005312,Analyst_5005312,,Nov-17,6.3,,,,,,0
+racerguy22,racerguy22,Non Professional Academia,Oct-15,7.9,,,,,,0
+Analyst_5338396,Analyst_5338396,Non Professional Other Other,Oct-19,7.2,,,,,,0
+Analyst_5752209,Analyst_5752209,Non Professional Information Technology IT Services,Jun-16,7.1,,,,,,0
+newhighscore,New High Score,Non Professional Student,Apr-12,6.9,,,,,,0
+Analyst_5374494,Analyst_5374494,Non Professional Other Other,Oct-19,6.9,,,,,,0
+Analyst_730308,Analyst_730308,,Feb-19,8.3,,,,,,0
+Analyst_5792699,Analyst_5792699,,Oct-19,7.1,,,,,,0
+Nag,Nag,Non Professional Telecommunication Services Diversified Telecommunications,Nov-18,8,15.4,5900,50,12.5,4,5
+Analyst_1558912,Analyst_1558912,Non Professional Other Other,Jan-20,7.6,,,,,,0
+Analyst_9043987,Analyst_9043987,Non Professional Information Technology IT Services,Dec-18,5.5,,,,,,0
+Analyst_6260064,Analyst_6260064,Non Professional Other Other,Jan-20,7.2,,,,,,0
+VPJS,VPJS,Non Professional Materials Paper & Forest Products,Nov-17,8.3,6.2,5900,265,12.6,21,0
+Analyst_641217,Analyst_641217,,Jul-19,7,,,,,,0
+VMFrancis,VMFrancis,Non Professional Financials Insurance,Apr-19,8.5,,,,,,0
+yoohoohoo,yoohoohoo,Non Professional Information Technology IT Services,Apr-13,6.8,4.9,6000,10,10,1,4
+Analyst_7623901,Analyst_7623901,,Oct-16,5.5,11.7,4800,90,11.3,8,0
+Analyst_3133203,Analyst_3133203,,Jan-19,7.5,,,,,,0
+b1peterson,b1peterson,Non Professional Industrials Aerospace & Defense,Jul-14,7.5,60.1,0,-28,-28,1,1
+Analyst_3827228,Analyst_3827228,Non Professional Other Other,Jan-20,7.2,,,,,,0
+Needham_23,Serge Belanger,Financial Professional Sell Side Broker,Feb-14,6.9,17.3,4700,55,5,11,11
+Roth_5,"Dave King, CFA",Financial Professional Sell Side Broker,Oct-15,5.5,,,,,,0
+VanderVan15,VanderVan15,Financial Professional Independent Independent Research,May-19,7.2,,,,,,0
+Analyst_1622638,Analyst_1622638,Non Professional Other Other,Dec-19,7.2,,,,,,0
+AC831231,AC831231,Financial Professional Sell Side Broker,Mar-16,4.6,,,,,,0
+JackOloughlin,Jack,Non Professional Student,Mar-16,7.6,48.7,3400,-21,-10.5,2,0
+NR802552,NR802552,Financial Professional Sell Side Broker,Jul-17,3.6,14.1,1300,-66,-12,6,4
+Analyst_322563,Analyst_322563,Non Professional Other Other,Jun-19,6.8,,,,,,0
+PJH,PJH,Non Professional Information Technology IT Services,Dec-16,6.6,,,,,,0
+MarkyMark15,MarkyMark15,Non Professional Financials Professional Services,Dec-16,7.7,,,,,,0
+Analyst_7125667,Analyst_7125667,Non Professional Other Other,Feb-19,6.7,,,,,,0
+babhatti,babhatti,Non Professional Information Technology IT Services,Jun-19,6.3,,,,,,0
+Analyst_4055402,Analyst_4055402,Non Professional Other Other,Jul-19,7.1,,,,,,0
+Cantor_20,"Charles C. Duncan, Ph.D.",Financial Professional Sell Side Broker,Aug-18,6,41.9,4500,2,0.1,16,40
+Fincrease,Fincrease,Financial Professional Buy Side Proprietary Trading Firm,Oct-15,7.9,19.9,5200,233,15.5,15,0
+Analyst_8962719,Analyst_8962719,Non Professional Other Other,Mar-19,7.1,,,,,,0
+Analyst_897201,Analyst_897201,Non Professional Health Care Biotechnology,Oct-17,4.1,,,,,,0
+Analyst_7468729,Analyst_7468729,Financial Professional Buy Side Hedge Fund,Oct-17,6.1,47.7,1900,-9,-4.5,2,9
+StocksandSocks,StocksandSocks,Non Professional Student,Oct-16,4.4,,,,,,0
+Analyst_9220129,Analyst_9220129,Non Professional Other Other,Aug-18,5.3,,,,,,0
+Wyvern_23,Wyvern_23,Non Professional Health Care Health Care Technology,Jan-14,7.1,,,,,,0
+Analyst_9150565,Analyst_9150565,Non Professional Other Other,Mar-19,7.2,,,,,,0
+Cyrill_Keller,Cyrill_Keller,Financial Professional Buy Side Asset Manager,Sep-16,6.3,,,,,,0
+Suntrust_10,"William Chappell, Jr.",Financial Professional Sell Side Broker,Dec-13,4.9,20.9,900,-344,-14.6,24,22
+dulette5,dulette5,Financial Professional Independent Independent Research,Mar-19,7.3,,,,,,0
+newsdesk,newsdesk,Non Professional Student,Dec-15,4.8,,,,,,0
+Analyst_4020535,Analyst_4020535,Non Professional Information Technology Software,Oct-18,6.4,,,,,,0
+Helsou,Helsou,Non Professional Industrials Industrial Conglomerates,Jun-16,7.7,10.9,5000,93,23.3,4,0
+Analyst_8480453,Analyst_8480453,Non Professional Health Care Health Care Providers & Services,Apr-19,7.6,,,,,,0
+Analyst_193763,Analyst_193763,Non Professional Academia,Aug-16,8.1,8,6000,169,18.8,9,3
+JABOM_AM,JABOM_AM,Non Professional Student,Jul-17,5.8,,,,,,1
+Analyst_5533015,Analyst_5533015,Non Professional Other Other,Jul-19,7.5,,,,,,0
+Analyst_7906962,Analyst_7906962,,Jun-19,5.1,,,,,,0
+Jefferies_5,"Kevin Grundy, CPA",Financial Professional Sell Side Broker,Apr-16,5.6,,,,,,0
+JoeyBonez,JoeyBonez,Non Professional Utilities Electric Utilities,Apr-19,6.2,,,,,,0
+Analyst_5727836,Analyst_5727836,Non Professional Student,May-19,3.8,,,,,,0
+Analyst_7513134,Analyst_7513134,,Sep-19,7.4,,,,,,0
+Analyst_8740811,Analyst_8740811,Non Professional Industrials Machinery,Jul-19,6.5,,,,,,0
+Analyst_1593660,Analyst_1593660,,Oct-19,4.4,,,,,,0
+VincentAnselmi,Vincent Anselmi,,Jan-18,8.5,,,,,,0
+Alb3rt1,Alb3rt1,Non Professional Information Technology Internet & Catalog Retail,Jul-19,5,,,,,,0
+Analyst_5882975,Analyst_5882975,Non Professional Other Other,Oct-19,7.2,,,,,,0
+Nils1975,Nils1975,Non Professional Academia,Oct-11,9,5.3,8100,108,27,4,0
+Analyst_5113423,Analyst_5113423,Non Professional Other Other,Jan-20,7.1,,,,,,0
+GHS_5,Mark Levin,Financial Professional Sell Side Broker,Oct-16,6.2,,,,,,0
+Analyst_908965,Analyst_908965,Financial Professional Buy Side Other,May-14,7.6,10.9,5800,108,15.4,7,4
+Analyst_4454048,Analyst_4454048,,Nov-19,7.8,,,,,,0
+rsreina,rsreina,Non Professional Academia,Oct-14,7.9,10.5,5700,291,14.6,20,21
+jean_acciari,jean_acciari,Non Professional Telecommunication Services Diversified Telecommunications,Mar-18,8.4,,,,,,0
+Traders88,Traders88,Non Professional Information Technology IT Services,Mar-19,6.3,,,,,,0
+Analyst_8442101,Analyst_8442101,Non Professional Student,Dec-13,6.3,,,,,,0
+StockTurkey,StockTurkey,Financial Professional Independent Independent Research,Feb-17,9.1,,,,,,0
+Analyst_6782465,Analyst_6782465,Non Professional Other Other,Apr-19,6.7,,,,,,0
+matan6663,matan6663,Non Professional Student,Jun-19,7,,,,,,0
+Analyst_8059454,Analyst_8059454,Non Professional Financials Commercial Banks,Sep-19,6.8,,,,,,0
+Analyst_3545686,Analyst_3545686,Non Professional Student,Dec-19,6.8,5.5,6000,-5,-5,1,3

@@ -1,0 +1,2475 @@
+company_name,f_quarter,analyst_id,analyst_name,eps_estimation
+EVRG,FQ1 '19,Sentinel,Sentinel,0.44
+EVRG,FQ1 '19,QuantTrader007,Frederick Tremblay,0.41
+EVRG,FQ1 '19,Suntrust_2,Ali Agha,0.4
+EVRG,FQ1 '19,BillB1210,Bill,0.39
+EVRG,FQ2 '19,Suntrust_2,Ali Agha,0.57
+EVRG,FQ2 '19,QuantTrader007,Frederick Tremblay,0.61
+EVRG,FQ2 '19,Sentinel,Sentinel,0.66
+EVRG,FQ2 '19,BillB1210,Bill,0.66
+EVRG,FQ3 '19,QuantTrader007,Frederick Tremblay,1.57
+EVRG,FQ3 '19,BillB1210,Bill,1.56
+EVRG,FQ3 '19,Suntrust_2,Ali Agha,1.59
+EVRG,FQ3 '19,Analyst_5770830,Analyst_5770830,1.55
+EVRG,FQ3 '19,bsirirat,Bob S.,1.59
+EVRG,FQ3 '19,Medic2525,Medic2525,1.4
+EVRG,FQ4 '19,Suntrust_2,Ali Agha,0.32
+EVRG,FQ4 '19,BillB1210,Bill,0.34
+EVRG,FQ4 '19,QuantTrader007,Frederick Tremblay,0.29
+EVRG,FQ4 '19,Analyst_8298118,Analyst_8298118,0.28
+SPSC,FQ1 '19,Analyst_8030355,Analyst_8030355,0.28
+SPSC,FQ1 '19,Mehrwert,Mehrwert,0.28
+SPSC,FQ1 '19,QuantTrader007,Frederick Tremblay,0.28
+SPSC,FQ1 '19,smiles18,Sean,0.28
+SPSC,FQ1 '19,serpyou,serpyou,0.27
+SPSC,FQ1 '19,AetCap,AetCap,0.27
+SPSC,FQ1 '19,BillB1210,Bill,0.27
+SPSC,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.27
+SPSC,FQ1 '19,MTS_Insights,Jacob Hess,0.27
+SPSC,FQ1 '19,Sentinel,Sentinel,0.26
+SPSC,FQ1 '19,Canaccord_188,David Hynes Jr.,0.26
+SPSC,FQ1 '19,Madmoni,Madmoni,0.26
+SPSC,FQ1 '19,Oppenheimer_55,"Koji Ikeda, CFA",0.26
+SPSC,FQ1 '19,Needham_26,Scott Berg,0.26
+SPSC,FQ1 '19,Analyst_4523383,Analyst_4523383,0.26
+SPSC,FQ1 '19,Analyst_4678270,Analyst_4678270,0.26
+SPSC,FQ1 '19,Canaccord_96,David Hynes Jr.,0.23
+SPSC,FQ2 '19,Dolwhale,Dolwhale,0.3
+SPSC,FQ2 '19,Analyst_8134075,Analyst_8134075,0.3
+SPSC,FQ2 '19,BillB1210,Bill,0.29
+SPSC,FQ2 '19,Analyst_8082280,Analyst_8082280,0.3
+SPSC,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.29
+SPSC,FQ2 '19,serpyou,serpyou,0.29
+SPSC,FQ2 '19,rama2050,Ram,0.29
+SPSC,FQ2 '19,QuantTrader007,Frederick Tremblay,0.28
+SPSC,FQ2 '19,smiles18,Sean,0.28
+SPSC,FQ2 '19,Madmoni,Madmoni,0.27
+SPSC,FQ2 '19,Canaccord_188,David Hynes Jr.,0.27
+SPSC,FQ2 '19,Sentinel,Sentinel,0.27
+SPSC,FQ2 '19,Oppenheimer_55,"Koji Ikeda, CFA",0.26
+SPSC,FQ2 '19,Needham_26,Scott Berg,0.26
+SPSC,FQ2 '19,Canaccord_96,David Hynes Jr.,0.23
+SPSC,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.33
+SPSC,FQ3 '19,QuantTrader007,Frederick Tremblay,0.3
+SPSC,FQ3 '19,serpyou,serpyou,0.3
+SPSC,FQ3 '19,Needham_26,Scott Berg,0.14
+SPSC,FQ3 '19,Canaccord_188,David Hynes Jr.,0.29
+SPSC,FQ3 '19,Analyst_5597176,Analyst_5597176,0.28
+SPSC,FQ3 '19,bsirirat,Bob S.,0.28
+SPSC,FQ3 '19,Oppenheimer_55,"Koji Ikeda, CFA",0.14
+SPSC,FQ3 '19,BillB1210,Bill,0.44
+SPSC,FQ3 '19,Canaccord_96,David Hynes Jr.,0.24
+SPSC,FQ3 '19,Sentinel,Sentinel,0.28
+SPSC,FQ4 '19,Medic2525,Medic2525,0.35
+SPSC,FQ4 '19,BillB1210,Bill,0.34
+SPSC,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.34
+SPSC,FQ4 '19,Analyst_783524,Analyst_783524,0.34
+SPSC,FQ4 '19,Analyst_8030355,Analyst_8030355,0.33
+SPSC,FQ4 '19,QuantTrader007,Frederick Tremblay,0.32
+SPSC,FQ4 '19,serpyou,serpyou,0.32
+SPSC,FQ4 '19,Canaccord_188,David Hynes Jr.,0.31
+SPSC,FQ4 '19,Sentinel,Sentinel,0.31
+SPSC,FQ4 '19,Needham_26,Scott Berg,0.15
+SPSC,FQ4 '19,bsirirat,Bob S.,0.3
+SPSC,FQ4 '19,Oppenheimer_55,"Koji Ikeda, CFA",0.14
+SPSC,FQ4 '19,Oppenheimer_8,Brian Schwartz,0.29
+SPSC,FQ4 '19,Canaccord_96,David Hynes Jr.,0.26
+AAP,FQ1 '19,Malette,Malette,2.43
+AAP,FQ1 '19,MTS_Insights,Jacob Hess,2.42
+AAP,FQ1 '19,BillB1210,Bill,2.41
+AAP,FQ1 '19,Mehrwert,Mehrwert,2.4
+AAP,FQ1 '19,KDRODU220,KDRODU220,2.4
+AAP,FQ1 '19,Analyst_4444249,Analyst_4444249,2.4
+AAP,FQ1 '19,ZTrade,Zach Mazzeo,2.4
+AAP,FQ1 '19,Jefferies_26,"Bret Jordan, CFA",2.38
+AAP,FQ1 '19,Dr_Meso,Dr_Meso,2.38
+AAP,FQ1 '19,Medic2525,Medic2525,2.38
+AAP,FQ1 '19,DHW,DHW,2.38
+AAP,FQ1 '19,Sentinel,Sentinel,2.37
+AAP,FQ1 '19,rbrandx,robert brand,2.37
+AAP,FQ1 '19,Analyst_7111857,Analyst_7111857,2.36
+AAP,FQ1 '19,bsirirat,Bob S.,2.36
+AAP,FQ1 '19,QuantTrader007,Frederick Tremblay,2.35
+AAP,FQ1 '19,Oppenheimer_26,"Brian Nagel, CFA",2.31
+AAP,FQ1 '19,Jagator904,Jagator904,2.31
+AAP,FQ1 '19,Analyst_9166593,Analyst_9166593,2.3
+AAP,FQ1 '19,MSS_2Q19,"MSShaalan_2Q19, CFA, FRM",2.3
+AAP,FQ1 '19,peepdapatty,peepdapatty,2.3
+AAP,FQ1 '19,Analyst_6421915,Analyst_6421915,2.25
+AAP,FQ1 '19,NM501169,NM501169,2.15
+AAP,FQ1 '19,SW928706,SW928706,2.15
+AAP,FQ2 '19,Szymon2000,Szymon2000,1.98
+AAP,FQ2 '19,NM501169,NM501169,2.07
+AAP,FQ2 '19,SW928706,SW928706,2.07
+AAP,FQ2 '19,TV447703,TV447703,2.18
+AAP,FQ2 '19,Analyst_8022521,Analyst_8022521,2.18
+AAP,FQ2 '19,Oppenheimer_26,"Brian Nagel, CFA",2.2
+AAP,FQ2 '19,MSS_2Q19,"MSShaalan_2Q19, CFA, FRM",2.2
+AAP,FQ2 '19,Analyst_2206610,Analyst_2206610,2.22
+AAP,FQ2 '19,Analyst_3715541,Analyst_3715541,2.22
+AAP,FQ2 '19,QuantTrader007,Frederick Tremblay,2.23
+AAP,FQ2 '19,Analyst_397314,Analyst_397314,2.23
+AAP,FQ2 '19,Analyst_3642898,Analyst_3642898,2.24
+AAP,FQ2 '19,Jefferies_26,"Bret Jordan, CFA",2.25
+AAP,FQ2 '19,Sentinel,Sentinel,2.25
+AAP,FQ2 '19,Analyst_9166593,Analyst_9166593,2.25
+AAP,FQ2 '19,BillB1210,Bill,2.26
+AAP,FQ2 '19,Analyst_8082280,Analyst_8082280,2.27
+AAP,FQ2 '19,mebrantley2,mebrantley2,2.29
+AAP,FQ2 '19,Wx_Torn,Wx_Torn,2.29
+AAP,FQ2 '19,smiles18,Sean,2.29
+AAP,FQ2 '19,Jagator904,Jagator904,2.32
+AAP,FQ2 '19,Medic2525,Medic2525,2.32
+AAP,FQ3 '19,R_C12R,Ron,2.08
+AAP,FQ3 '19,TV447703,TV447703,2.07
+AAP,FQ3 '19,JBBOEVE,JBBOEVE,2.07
+AAP,FQ3 '19,Analyst_3715541,Analyst_3715541,2.07
+AAP,FQ3 '19,Analyst_4139725,Analyst_4139725,2.07
+AAP,FQ3 '19,bsirirat,Bob S.,2.07
+AAP,FQ3 '19,Analyst_3642898,Analyst_3642898,2.14
+AAP,FQ3 '19,Analyst_9052899,Analyst_9052899,2.15
+AAP,FQ3 '19,BillB1210,Bill,2.05
+AAP,FQ3 '19,Jefferies_26,"Bret Jordan, CFA",2.16
+AAP,FQ3 '19,rbrandx,robert brand,2.04
+AAP,FQ3 '19,Proximilar,Proximilar AI,2.16
+AAP,FQ3 '19,NM501169,NM501169,2.02
+AAP,FQ3 '19,SW928706,SW928706,2.02
+AAP,FQ3 '19,Oppenheimer_26,"Brian Nagel, CFA",2.18
+AAP,FQ3 '19,QuantTrader007,Frederick Tremblay,1.98
+AAP,FQ4 '19,Jefferies_26,"Bret Jordan, CFA",1.53
+AAP,FQ4 '19,Analyst_3642898,Analyst_3642898,1.43
+AAP,FQ4 '19,Proximilar,Proximilar AI,1.42
+AAP,FQ4 '19,NM501169,NM501169,1.41
+AAP,FQ4 '19,SW928706,SW928706,1.41
+AAP,FQ4 '19,BillB1210,Bill,1.41
+AAP,FQ4 '19,rbrandx,robert brand,1.4
+AAP,FQ4 '19,Analyst_2777191,Analyst_2777191,1.39
+AAP,FQ4 '19,R_C12R,Ron,1.39
+AAP,FQ4 '19,Sentinel,Sentinel,1.38
+AAP,FQ4 '19,TV447703,TV447703,1.37
+AAP,FQ4 '19,QuantTrader007,Frederick Tremblay,1.37
+AAP,FQ4 '19,Oppenheimer_26,"Brian Nagel, CFA",1.33
+TLRY,FQ1 '19,Roth_36,Scott Fortune,-0.08
+TLRY,FQ1 '19,willgott,willgott,-0.1
+TLRY,FQ1 '19,Analyst_4496393,Analyst_4496393,-0.13
+TLRY,FQ1 '19,Analyst_1597357,Analyst_1597357,-0.13
+TLRY,FQ1 '19,JCL_Test,JCL_Test,-0.13
+TLRY,FQ1 '19,Madmoni,Madmoni,-0.13
+TLRY,FQ1 '19,kingfeade5,kingfeade5,-0.13
+TLRY,FQ1 '19,BillB1210,Bill,-0.13
+TLRY,FQ1 '19,QuantTrader007,Frederick Tremblay,-0.13
+TLRY,FQ1 '19,Analyst_6834198,Analyst_6834198,-0.13
+TLRY,FQ1 '19,Fer_Aldana,Fernando Aldana,-0.13
+TLRY,FQ1 '19,satheesha,satheesha,-0.13
+TLRY,FQ1 '19,ZTrade,Zach Mazzeo,-0.13
+TLRY,FQ1 '19,TraderJoe,TraderJoe,-0.13
+TLRY,FQ1 '19,Analyst_5046485,Analyst_5046485,-0.14
+TLRY,FQ1 '19,Analyst_589894,Analyst_589894,-0.14
+TLRY,FQ1 '19,DrTsunamy,DrTsunamy,-0.14
+TLRY,FQ1 '19,Analyst_4032815,Analyst_4032815,-0.14
+TLRY,FQ1 '19,Analyst_4943094,Analyst_4943094,-0.14
+TLRY,FQ1 '19,Analyst_8178497,Analyst_8178497,-0.14
+TLRY,FQ1 '19,Analyst_8893876,Analyst_8893876,-0.14
+TLRY,FQ1 '19,Analyst_3923486,Analyst_3923486,-0.14
+TLRY,FQ1 '19,coolraz,coolraz,-0.14
+TLRY,FQ1 '19,Analyst_3738745,Analyst_3738745,-0.14
+TLRY,FQ1 '19,mrosario211,mrosario211,-0.14
+TLRY,FQ1 '19,bsirirat,Bob S.,-0.14
+TLRY,FQ1 '19,Analyst_4664093,Analyst_4664093,-0.14
+TLRY,FQ1 '19,Analyst_4782037,Analyst_4782037,-0.14
+TLRY,FQ1 '19,wjbuckner,wjbuckner,-0.14
+TLRY,FQ1 '19,androsForm,androsForm,-0.14
+TLRY,FQ2 '19,Analyst_9407649,Analyst_9407649,-0.22
+TLRY,FQ2 '19,Meadows,Andrew Meadows,-0.21
+TLRY,FQ2 '19,eptest,eptest,-0.2
+TLRY,FQ2 '19,Analyst_4145617,Analyst_4145617,-0.2
+TLRY,FQ2 '19,coolraz,coolraz,-0.2
+TLRY,FQ2 '19,mojaveshadows,mojaveshadows,-0.19
+TLRY,FQ2 '19,Analyst_1873045,Analyst_1873045,-0.18
+TLRY,FQ2 '19,Farda,Farda,-0.18
+TLRY,FQ2 '19,bsirirat,Bob S.,-0.17
+TLRY,FQ2 '19,Analyst_9745390,Analyst_9745390,-0.17
+TLRY,FQ2 '19,Analyst_9162611,Analyst_9162611,-0.17
+TLRY,FQ2 '19,Madmoni,Madmoni,-0.16
+TLRY,FQ2 '19,BillB1210,Bill,-0.16
+TLRY,FQ2 '19,R_C12R,Ron,-0.16
+TLRY,FQ2 '19,MorgaTron,MorgaTron,-0.16
+TLRY,FQ2 '19,Analyst_8431614,Analyst_8431614,-0.15
+TLRY,FQ2 '19,Analyst_1893104,Analyst_1893104,-0.15
+TLRY,FQ2 '19,Analyst_5670915,Analyst_5670915,-0.15
+TLRY,FQ2 '19,kartikkamath,Kartik,-0.15
+TLRY,FQ2 '19,QuantTrader007,Frederick Tremblay,-0.15
+TLRY,FQ2 '19,ZTrade,Zach Mazzeo,-0.15
+TLRY,FQ2 '19,Analyst_5731993,Analyst_5731993,-0.15
+TLRY,FQ2 '19,Sentinel,Sentinel,-0.15
+TLRY,FQ2 '19,Analyst_715437,Analyst_715437,-0.15
+TLRY,FQ2 '19,Analyst_2729300,Analyst_2729300,-0.15
+TLRY,FQ2 '19,Analyst_4782037,Analyst_4782037,-0.15
+TLRY,FQ2 '19,Analyst_5422285,Analyst_5422285,-0.14
+TLRY,FQ2 '19,coffeepster,coffeepster,-0.14
+TLRY,FQ2 '19,shendricks,Scott Hendricks,-0.14
+TLRY,FQ2 '19,IDK_really,IDK_really,-0.14
+TLRY,FQ3 '19,PM,PM,-0.27
+TLRY,FQ3 '19,AMTRAX,AMTRAX,-0.26
+TLRY,FQ3 '19,larrylai,larrylai,-0.28
+TLRY,FQ3 '19,Analyst_7089436,Analyst_7089436,-0.26
+TLRY,FQ3 '19,Analyst_9387580,Analyst_9387580,-0.28
+TLRY,FQ3 '19,MTS_Insights,Jacob Hess,-0.28
+TLRY,FQ3 '19,Sentinel,Sentinel,-0.29
+TLRY,FQ3 '19,bsirirat,Bob S.,-0.29
+TLRY,FQ3 '19,Analyst_8118309,Analyst_8118309,-0.29
+TLRY,FQ3 '19,Zyjzhang,Zyjzhang,-0.29
+TLRY,FQ3 '19,BillB1210,Bill,-0.29
+TLRY,FQ3 '19,dalton,dalton,-0.29
+TLRY,FQ3 '19,Analyst_656238,Analyst_656238,-0.29
+TLRY,FQ3 '19,Analyst_8060388,Analyst_8060388,-0.25
+TLRY,FQ3 '19,maggieb,maggieb,-0.3
+TLRY,FQ3 '19,thedinomyte,thedinomyte,-0.3
+TLRY,FQ3 '19,sak,George,-0.3
+TLRY,FQ3 '19,Dr_Meso,Dr_Meso,-0.3
+TLRY,FQ3 '19,coffeepster,coffeepster,-0.3
+TLRY,FQ3 '19,Old_Mayor,Rob Ford,-0.3
+TLRY,FQ3 '19,Madmoni,Madmoni,-0.24
+TLRY,FQ3 '19,PCLA,PCLA,-0.24
+TLRY,FQ3 '19,Analyst_5795851,Analyst_5795851,-0.24
+TLRY,FQ3 '19,Analyst_4442599,Analyst_4442599,-0.24
+TLRY,FQ3 '19,thatsarahlewis,Sarah,-0.31
+TLRY,FQ3 '19,rama2050,Ram,-0.31
+TLRY,FQ3 '19,shendricks,Scott Hendricks,-0.23
+TLRY,FQ3 '19,Analyst_5740786,Analyst_5740786,-0.23
+TLRY,FQ3 '19,QuantTrader007,Frederick Tremblay,-0.23
+TLRY,FQ4 '19,Analyst_397314,Analyst_397314,-0.3
+TLRY,FQ4 '19,Analyst_6740683,Analyst_6740683,-0.27
+TLRY,FQ4 '19,Bill_Maurer,Bill_Maurer,-0.26
+TLRY,FQ4 '19,Old_Mayor,Rob Ford,-0.26
+TLRY,FQ4 '19,smiles18,Sean,-0.26
+TLRY,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,-0.26
+TLRY,FQ4 '19,Analyst_2420286,Analyst_2420286,-0.25
+TLRY,FQ4 '19,Jagator904,Jagator904,-0.25
+TLRY,FQ4 '19,Europac_7,Aaron Grey,-0.24
+TLRY,FQ4 '19,Analyst_8626722,Analyst_8626722,-0.24
+TLRY,FQ4 '19,shendricks,Scott Hendricks,-0.24
+TLRY,FQ4 '19,loopie,loopie,-0.24
+TLRY,FQ4 '19,Mehrwert,Mehrwert,-0.24
+TLRY,FQ4 '19,rama2050,Ram,-0.24
+TLRY,FQ4 '19,BillB1210,Bill,-0.24
+TLRY,FQ4 '19,Simpson_Homer,Simpson_Homer,-0.24
+TLRY,FQ4 '19,QuantTrader007,Frederick Tremblay,-0.24
+TLRY,FQ4 '19,Analyst_656238,Analyst_656238,-0.24
+TLRY,FQ4 '19,AAFED,AAFED,-0.24
+TLRY,FQ4 '19,oliversl,oliversl,-0.24
+TLRY,FQ4 '19,SM_Georg,SM_Georg,-0.24
+TLRY,FQ4 '19,andluger,andluger,-0.24
+TLRY,FQ4 '19,jtwvegas1,james wilson,-0.23
+TLRY,FQ4 '19,larrylai,larrylai,-0.23
+TLRY,FQ4 '19,Analyst_6769479,Analyst_6769479,-0.23
+TLRY,FQ4 '19,AMTRAX,AMTRAX,-0.23
+TLRY,FQ4 '19,bsirirat,Bob S.,-0.23
+TLRY,FQ4 '19,Analyst_7621949,Analyst_7621949,-0.22
+TLRY,FQ4 '19,thatsarahlewis,Sarah,-0.22
+JJSF,FQ1 '19,BillB1210,Bill,0.91
+JJSF,FQ1 '19,Old_Mayor,Rob Ford,0.9
+JJSF,FQ1 '19,SirMarkets,Michael Bertogli,0.9
+JJSF,FQ1 '19,ZTrade,Zach Mazzeo,0.9
+JJSF,FQ1 '19,Analyst_8626722,Analyst_8626722,0.89
+JJSF,FQ1 '19,PM,PM,0.89
+JJSF,FQ1 '19,SM_Georg,SM_Georg,0.89
+JJSF,FQ1 '19,OpusPgladiator,OpusPgladiator,0.88
+JJSF,FQ1 '19,Analyst_656238,Analyst_656238,0.88
+JJSF,FQ1 '19,larrylai,larrylai,0.88
+JJSF,FQ1 '19,benjenholdings,Ben Jen,0.88
+JJSF,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.88
+JJSF,FQ1 '19,PCLA,PCLA,0.88
+JJSF,FQ1 '19,NCIA,Mark Connollly,0.88
+JJSF,FQ1 '19,rama2050,Ram,0.88
+JJSF,FQ1 '19,androsForm,androsForm,0.88
+JJSF,FQ1 '19,QuantTrader007,Frederick Tremblay,0.87
+JJSF,FQ1 '19,Analyst_7579453,Eric,0.87
+JJSF,FQ1 '19,bsirirat,Bob S.,0.87
+JJSF,FQ1 '19,shendricks,Scott Hendricks,0.86
+JJSF,FQ1 '19,AetCap,AetCap,0.86
+JJSF,FQ1 '19,Mehrwert,Mehrwert,0.86
+JJSF,FQ1 '19,UcanQuote_me,UcanQuote_me,0.86
+JJSF,FQ1 '19,coffeepster,coffeepster,0.86
+JJSF,FQ1 '19,JacksonWeeks,JacksonWeeks,0.85
+JJSF,FQ1 '19,Raven,Roman Novacek,0.85
+JJSF,FQ1 '19,dalton,dalton,0.84
+JJSF,FQ1 '19,Jefferies_95,Akshay Jagdale,0.83
+JJSF,FQ2 '19,BillB1210,Bill,1.08
+JJSF,FQ2 '19,Old_Mayor,Rob Ford,1.07
+JJSF,FQ2 '19,ZTrade,Zach Mazzeo,1.07
+JJSF,FQ2 '19,PM,PM,1.07
+JJSF,FQ2 '19,Mehrwert,Mehrwert,1.06
+JJSF,FQ2 '19,shendricks,Scott Hendricks,1.06
+JJSF,FQ2 '19,AAFED,AAFED,1.06
+JJSF,FQ2 '19,larrylai,larrylai,1.06
+JJSF,FQ2 '19,SM_Georg,SM_Georg,1.06
+JJSF,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,1.05
+JJSF,FQ2 '19,MTS_Insights,Jacob Hess,1.05
+JJSF,FQ2 '19,Jefferies_95,Akshay Jagdale,1.04
+JJSF,FQ2 '19,SirMarkets,Michael Bertogli,1.04
+JJSF,FQ2 '19,Analyst_2278908,Analyst_2278908,1.03
+JJSF,FQ2 '19,OpusPgladiator,OpusPgladiator,1.03
+JJSF,FQ2 '19,Analyst_656238,Analyst_656238,1.03
+JJSF,FQ2 '19,Analyst_5795851,Analyst_5795851,1.03
+JJSF,FQ2 '19,PCLA,PCLA,1.03
+JJSF,FQ2 '19,Fer_Aldana,Fernando Aldana,1.03
+JJSF,FQ2 '19,dalton,dalton,1.03
+JJSF,FQ2 '19,Sentinel,Sentinel,1.02
+JJSF,FQ2 '19,bsirirat,Bob S.,1.02
+JJSF,FQ2 '19,AetCap,AetCap,1.15
+JJSF,FQ2 '19,Analyst_4444249,Analyst_4444249,1.01
+JJSF,FQ2 '19,QuantTrader007,Frederick Tremblay,1
+JJSF,FQ3 '19,ShaunO,ShaunO,1.59
+JJSF,FQ3 '19,Medic2525,Medic2525,1.58
+JJSF,FQ3 '19,Old_Mayor,Rob Ford,1.57
+JJSF,FQ3 '19,dalton,dalton,1.57
+JJSF,FQ3 '19,smiles18,Sean,1.57
+JJSF,FQ3 '19,Wx_Torn,Wx_Torn,1.57
+JJSF,FQ3 '19,larrylai,larrylai,1.56
+JJSF,FQ3 '19,rama2050,Ram,1.56
+JJSF,FQ3 '19,Mehrwert,Mehrwert,1.56
+JJSF,FQ3 '19,OpusPgladiator,OpusPgladiator,1.55
+JJSF,FQ3 '19,Jefferies_249,Ashish Mago,1.55
+JJSF,FQ3 '19,Analyst_8626722,Analyst_8626722,1.55
+JJSF,FQ3 '19,Sentinel,Sentinel,1.55
+JJSF,FQ3 '19,BillB1210,Bill,1.55
+JJSF,FQ3 '19,ZTrade,Zach Mazzeo,1.55
+JJSF,FQ3 '19,AAFED,AAFED,1.54
+JJSF,FQ3 '19,PM,PM,1.54
+JJSF,FQ3 '19,bsirirat,Bob S.,1.54
+JJSF,FQ3 '19,Jefferies_95,Akshay Jagdale,1.53
+JJSF,FQ3 '19,Analyst_656238,Analyst_656238,1.53
+JJSF,FQ3 '19,Analyst_2278908,Analyst_2278908,1.52
+JJSF,FQ3 '19,Analyst_5795851,Analyst_5795851,1.51
+JJSF,FQ3 '19,maggieb,maggieb,1.5
+JJSF,FQ3 '19,QuantTrader007,Frederick Tremblay,1.5
+JJSF,FQ3 '19,shendricks,Scott Hendricks,1.48
+JJSF,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,1.48
+JJSF,FQ4 '19,Jefferies_249,Ashish Mago,1.44
+JJSF,FQ4 '19,Sentinel,Sentinel,1.44
+JJSF,FQ4 '19,larrylai,larrylai,1.44
+JJSF,FQ4 '19,Analyst_5795851,Analyst_5795851,1.44
+JJSF,FQ4 '19,Analyst_8075381,Analyst_8075381,1.44
+JJSF,FQ4 '19,ZTrade,Zach Mazzeo,1.44
+JJSF,FQ4 '19,rama2050,Ram,1.44
+JJSF,FQ4 '19,Megaannum,Philip Mascherino,1.44
+JJSF,FQ4 '19,OpusPgladiator,OpusPgladiator,1.45
+JJSF,FQ4 '19,QuantTrader007,Frederick Tremblay,1.41
+JJSF,FQ4 '19,shendricks,Scott Hendricks,1.45
+JJSF,FQ4 '19,AAFED,AAFED,1.45
+JJSF,FQ4 '19,BillB1210,Bill,1.45
+JJSF,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,1.45
+JJSF,FQ4 '19,Jefferies_95,Akshay Jagdale,1.4
+JJSF,FQ4 '19,PM,PM,1.46
+JJSF,FQ4 '19,Analyst_2278908,Analyst_2278908,1.46
+JJSF,FQ4 '19,RWICK27,Richard Wickstrom,1.47
+JJSF,FQ4 '19,Old_Mayor,Rob Ford,1.48
+JJSF,FQ4 '19,Proximilar,Proximilar AI,1.48
+JJSF,FQ4 '19,maggieb,maggieb,1.49
+JJSF,FQ4 '19,Medic2525,Medic2525,1.49
+MTN,FQ1 '19,UcanQuote_me,UcanQuote_me,-2.46
+MTN,FQ1 '19,PCLA,PCLA,-2.46
+MTN,FQ1 '19,Fer_Aldana,Fernando Aldana,-2.46
+MTN,FQ1 '19,MisguidedBroker,MisguidedBroker,-2.46
+MTN,FQ1 '19,Analyst_5601928,Analyst_5601928,-2.44
+MTN,FQ1 '19,bsirirat,Bob S.,-2.44
+MTN,FQ1 '19,Analyst_656238,Analyst_656238,-2.43
+MTN,FQ1 '19,hyperionives,hyperionives,-2.39
+MTN,FQ1 '19,Raven,Roman Novacek,-2.39
+MTN,FQ1 '19,BartCorfeeChFC,Bartley A. Corfee,-2.37
+MTN,FQ1 '19,QuantTrader007,Frederick Tremblay,-2.36
+MTN,FQ1 '19,larrylai,larrylai,-2.36
+MTN,FQ1 '19,Ocelogic,Ocelogic,-2.35
+MTN,FQ1 '19,rama2050,Ram,-2.35
+MTN,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,-2.35
+MTN,FQ1 '19,BillB1210,Bill,-2.34
+MTN,FQ1 '19,coffeepster,coffeepster,-2.32
+MTN,FQ1 '19,Old_Mayor,Rob Ford,-2.3
+MTN,FQ1 '19,NCIA,Mark Connollly,-2.3
+MTN,FQ1 '19,JacksonWeeks,JacksonWeeks,-2.29
+MTN,FQ1 '19,PM,PM,-2.29
+MTN,FQ1 '19,Analyst_1762176,Analyst_1762176,-2.26
+MTN,FQ1 '19,eptest,eptest,-2.26
+MTN,FQ1 '19,Analyst_8626722,Analyst_8626722,-2.22
+MTN,FQ1 '19,Mehrwert,Mehrwert,-2.2
+MTN,FQ1 '19,leadingblind,leadingblind,-2.15
+MTN,FQ1 '19,mjosal5658,mjosal5658,-2.1
+MTN,FQ1 '19,Ono,Ono,-2.04
+MTN,FQ1 '19,Analyst_6732193,Analyst_6732193,-2
+MTN,FQ1 '19,anishjv11,anishjv11,-1.92
+MTN,FQ2 '19,JacksonWeeks,JacksonWeeks,5.03
+MTN,FQ2 '19,ZTrade,Zach Mazzeo,5
+MTN,FQ2 '19,rama2050,Ram,4.98
+MTN,FQ2 '19,UcanQuote_me,UcanQuote_me,4.97
+MTN,FQ2 '19,QuantTrader007,Frederick Tremblay,4.95
+MTN,FQ2 '19,PCLA,PCLA,4.93
+MTN,FQ2 '19,Analyst_9514488,Analyst_9514488,4.92
+MTN,FQ2 '19,Madmoni,Madmoni,4.92
+MTN,FQ2 '19,NCIA,Mark Connollly,4.92
+MTN,FQ2 '19,Old_Mayor,Rob Ford,4.92
+MTN,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,4.92
+MTN,FQ2 '19,BillB1210,Bill,4.9
+MTN,FQ2 '19,RWICK27,Richard Wickstrom,4.9
+MTN,FQ2 '19,SM_Georg,SM_Georg,4.9
+MTN,FQ2 '19,Sentinel,Sentinel,4.89
+MTN,FQ2 '19,Analyst_8626722,Analyst_8626722,4.89
+MTN,FQ2 '19,larrylai,larrylai,4.86
+MTN,FQ2 '19,Analyst_6421915,Analyst_6421915,4.85
+MTN,FQ2 '19,Mklink23,Matt,4.83
+MTN,FQ2 '19,Analyst_656238,Analyst_656238,4.81
+MTN,FQ2 '19,AetCap,AetCap,4.81
+MTN,FQ2 '19,bsirirat,Bob S.,4.79
+MTN,FQ2 '19,Analyst_1762176,Analyst_1762176,5.28
+MTN,FQ2 '19,GregTripple,GregTripple,5.3
+MTN,FQ2 '19,Mehrwert,Mehrwert,4.7
+MTN,FQ2 '19,eptest,eptest,5.35
+MTN,FQ2 '19,snekse,snekse,4.68
+MTN,FQ2 '19,anishjv11,anishjv11,4.6
+MTN,FQ2 '19,Jennifer1421,Jennifer1421,5.45
+MTN,FQ3 '19,Suntrust_21,C. Patrick Scholes,7.12
+MTN,FQ3 '19,Old_Mayor,Rob Ford,7.13
+MTN,FQ3 '19,PCLA,PCLA,7.14
+MTN,FQ3 '19,bsirirat,Bob S.,7.09
+MTN,FQ3 '19,Analyst_2278908,Analyst_2278908,7.09
+MTN,FQ3 '19,GregTripple,GregTripple,7.15
+MTN,FQ3 '19,Analyst_8626722,Analyst_8626722,7.08
+MTN,FQ3 '19,Analyst_5795851,Analyst_5795851,7.08
+MTN,FQ3 '19,Malette,Malette,7.08
+MTN,FQ3 '19,ZTrade,Zach Mazzeo,7.07
+MTN,FQ3 '19,loopie,loopie,7.07
+MTN,FQ3 '19,dalton,dalton,7.07
+MTN,FQ3 '19,larrylai,larrylai,7.18
+MTN,FQ3 '19,coffeepster,coffeepster,7.06
+MTN,FQ3 '19,rama2050,Ram,7.19
+MTN,FQ3 '19,QuantTrader007,Frederick Tremblay,7.05
+MTN,FQ3 '19,Medic2525,Medic2525,7.04
+MTN,FQ3 '19,Analyst_656238,Analyst_656238,7.04
+MTN,FQ3 '19,BillB1210,Bill,7.21
+MTN,FQ3 '19,ShaunO,ShaunO,7.03
+MTN,FQ3 '19,Analyst_14804,Analyst_14804,7.03
+MTN,FQ3 '19,Analyst_5840956,Analyst_5840956,7.03
+MTN,FQ3 '19,shendricks,Scott Hendricks,7.22
+MTN,FQ3 '19,Analyst_3826229,Analyst_3826229,7.01
+MTN,FQ3 '19,MTS_Insights,Jacob Hess,7
+MTN,FQ3 '19,Fer_Aldana,Fernando Aldana,7.25
+MTN,FQ3 '19,AAFED,AAFED,7.25
+MTN,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,7.25
+MTN,FQ3 '19,Sentinel,Sentinel,7.3
+MTN,FQ3 '19,eptest,eptest,7.32
+MTN,FQ4 '19,GregTripple,GregTripple,-2.25
+MTN,FQ4 '19,Suntrust_21,C. Patrick Scholes,-2.31
+MTN,FQ4 '19,eptest,eptest,-2.36
+MTN,FQ4 '19,Medic2525,Medic2525,-2.41
+MTN,FQ4 '19,QuantTrader007,Frederick Tremblay,-2.42
+MTN,FQ4 '19,shendricks,Scott Hendricks,-2.43
+MTN,FQ4 '19,Rolu,Rolu,-2
+MTN,FQ4 '19,Old_Mayor,Rob Ford,-2.46
+MTN,FQ4 '19,PM,PM,-2.46
+MTN,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,-2.46
+MTN,FQ4 '19,Analyst_656238,Analyst_656238,-2.47
+MTN,FQ4 '19,BillB1210,Bill,-2.49
+MTN,FQ4 '19,AAFED,AAFED,-2.5
+MTN,FQ4 '19,Analyst_5963436,Analyst_5963436,-2.5
+MTN,FQ4 '19,R_C12R,Ron,-2.51
+MTN,FQ4 '19,hyperionives,hyperionives,-2.53
+MTN,FQ4 '19,Analyst_8626722,Analyst_8626722,-2.53
+MTN,FQ4 '19,ZTrade,Zach Mazzeo,-2.55
+MTN,FQ4 '19,larrylai,larrylai,-2.56
+MTN,FQ4 '19,Analyst_2278908,Analyst_2278908,-2.57
+MTN,FQ4 '19,Sentinel,Sentinel,-2.58
+MTN,FQ4 '19,bsirirat,Bob S.,-2.58
+MINI,FQ1 '19,Suntrust_1,Douglas Mewhirter,0.41
+MINI,FQ1 '19,smiles18,Sean,0.41
+MINI,FQ1 '19,BillB1210,Bill,0.4
+MINI,FQ1 '19,MTS_Insights,Jacob Hess,0.4
+MINI,FQ1 '19,AetCap,AetCap,0.4
+MINI,FQ1 '19,savimiki,savimiki,0.4
+MINI,FQ1 '19,Sentinel,Sentinel,0.39
+MINI,FQ1 '19,MorgaTron,MorgaTron,0.39
+MINI,FQ1 '19,QuantTrader007,Frederick Tremblay,0.39
+MINI,FQ1 '19,Oppenheimer_29,"Scott Schneeberger, CFA",0.38
+MINI,FQ1 '19,Needham_13,Sean Hannan,0.44
+MINI,FQ2 '19,QuantTrader007,Frederick Tremblay,0.41
+MINI,FQ2 '19,Suntrust_1,Douglas Mewhirter,0.4
+MINI,FQ2 '19,Sentinel,Sentinel,0.42
+MINI,FQ2 '19,BillB1210,Bill,0.42
+MINI,FQ2 '19,Oppenheimer_29,"Scott Schneeberger, CFA",0.43
+MINI,FQ2 '19,Needham_13,Sean Hannan,0.43
+MINI,FQ2 '19,bdarbe11,bdarbe11,0.46
+MINI,FQ3 '19,Heybone,Heybone,0.52
+MINI,FQ3 '19,bsears2386,bsears2386,0.52
+MINI,FQ3 '19,Needham_13,Sean Hannan,0.51
+MINI,FQ3 '19,Sentinel,Sentinel,0.51
+MINI,FQ3 '19,bsirirat,Bob S.,0.5
+MINI,FQ3 '19,BillB1210,Bill,0.49
+MINI,FQ3 '19,Medic2525,Medic2525,0.49
+MINI,FQ3 '19,R_C12R,Ron,0.49
+MINI,FQ3 '19,QuantTrader007,Frederick Tremblay,0.48
+MINI,FQ3 '19,Oppenheimer_29,"Scott Schneeberger, CFA",0.47
+MINI,FQ3 '19,Suntrust_1,Douglas Mewhirter,0.45
+MINI,FQ4 '19,Suntrust_1,Douglas Mewhirter,0.62
+MINI,FQ4 '19,Sentinel,Sentinel,0.61
+MINI,FQ4 '19,Needham_13,Sean Hannan,0.59
+MINI,FQ4 '19,QuantTrader007,Frederick Tremblay,0.59
+MINI,FQ4 '19,Proximilar,Proximilar AI,0.59
+MINI,FQ4 '19,BillB1210,Bill,0.58
+MINI,FQ4 '19,R_C12R,Ron,0.58
+MINI,FQ4 '19,bsirirat,Bob S.,0.57
+MINI,FQ4 '19,Medic2525,Medic2525,0.57
+MINI,FQ4 '19,Oppenheimer_29,"Scott Schneeberger, CFA",0.56
+BZUN,FQ1 '19,MTS_Insights,Jacob Hess,0.24
+BZUN,FQ1 '19,coffeepster,coffeepster,0.2
+BZUN,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.18
+BZUN,FQ1 '19,Analyst_2270270,Analyst_2270270,0.15
+BZUN,FQ1 '19,Medic2525,Medic2525,0.38
+BZUN,FQ1 '19,Mehrwert,Mehrwert,0.17
+BZUN,FQ1 '19,BillB1210,Bill,0.18
+BZUN,FQ1 '19,Analyst_4545975,Analyst_4545975,0.26
+BZUN,FQ1 '19,Analyst_5132873,Analyst_5132873,0.16
+BZUN,FQ1 '19,Analyst_8755382,Analyst_8755382,0.18
+BZUN,FQ1 '19,GregTripple,GregTripple,0.16
+BZUN,FQ1 '19,Sentinel,Sentinel,0.17
+BZUN,FQ1 '19,Analyst_3610920,Analyst_3610920,0.15
+BZUN,FQ1 '19,Dominantstock,Dominantstock,0.34
+BZUN,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.2
+BZUN,FQ2 '19,LDrogen,Leigh Drogen,0.18
+BZUN,FQ2 '19,Malette,Malette,0.24
+BZUN,FQ2 '19,Analyst_7781223,Analyst_7781223,0.35
+BZUN,FQ2 '19,BillB1210,Bill,0.2
+BZUN,FQ2 '19,Analyst_8230762,Analyst_8230762,0.25
+BZUN,FQ2 '19,QuantTrader007,Frederick Tremblay,0.14
+BZUN,FQ2 '19,theoldcurrency,theoldcurrency,0.25
+BZUN,FQ2 '19,MaxBek,MaxBek,0.2
+BZUN,FQ2 '19,Analyst_7576977,Analyst_7576977,0.28
+BZUN,FQ2 '19,Analyst_7363224,Analyst_7363224,0.23
+BZUN,FQ2 '19,Sphinx3peat,Sphinx3peat,0.24
+BZUN,FQ2 '19,Ollie,Ollie,0.28
+BZUN,FQ2 '19,Sentinel,Sentinel,0.26
+BZUN,FQ2 '19,slong300,slong300,0.22
+BZUN,FQ2 '19,thiagocaproni,thiagocaproni,0.22
+BZUN,FQ2 '19,Analyst_2904632,Analyst_2904632,0.19
+BZUN,FQ2 '19,Analyst_5840956,Analyst_5840956,0.19
+BZUN,FQ2 '19,GregTripple,GregTripple,0.18
+BZUN,FQ2 '19,Dominantstock,Dominantstock,0.39
+BZUN,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.22
+BZUN,FQ3 '19,LDrogen,Leigh Drogen,0.19
+BZUN,FQ3 '19,BillB1210,Bill,0.22
+BZUN,FQ3 '19,Analyst_4653448,Analyst_4653448,0.31
+BZUN,FQ3 '19,Analyst_4853345,Analyst_4853345,0.22
+BZUN,FQ3 '19,Analyst_780817,Analyst_780817,0.24
+BZUN,FQ3 '19,Sphinx3peat,Sphinx3peat,0.2
+BZUN,FQ3 '19,Analyst_5653902,Analyst_5653902,0.23
+BZUN,FQ3 '19,thiagocaproni,thiagocaproni,0.2
+BZUN,FQ3 '19,Analyst_7480344,Analyst_7480344,0.2
+BZUN,FQ3 '19,Sentinel,Sentinel,0.22
+BZUN,FQ3 '19,HelgeJohansson,HelgeJohansson,0.2
+BZUN,FQ3 '19,bsirirat,Bob S.,0.22
+BZUN,FQ3 '19,Analyst_164009,Analyst_164009,0.19
+BZUN,FQ3 '19,Ollie,Ollie,0.17
+BZUN,FQ3 '19,GregTripple,GregTripple,0.18
+BZUN,FQ3 '19,Dominantstock,Dominantstock,0.5
+BZUN,FQ4 '19,Analyst_1035877,Analyst_1035877,0.37
+BZUN,FQ4 '19,Dominantstock,Dominantstock,0.38
+BZUN,FQ4 '19,Analyst_7269239,Analyst_7269239,0.39
+BZUN,FQ4 '19,coby255,coby255,0.4
+BZUN,FQ4 '19,oakcrest12,oakcrest12,0.41
+BZUN,FQ4 '19,Analyst_9717313,Analyst_9717313,0.25
+BZUN,FQ4 '19,Analyst_9145273,Analyst_9145273,0.44
+BZUN,FQ4 '19,QuantTrader007,Frederick Tremblay,0.45
+BZUN,FQ4 '19,BillB1210,Bill,0.46
+BZUN,FQ4 '19,GregTripple,GregTripple,0.2
+BZUN,FQ4 '19,Analyst_7022441,Analyst_7022441,0.49
+BZUN,FQ4 '19,Analyst_5000000,Analyst_5000000,0.55
+BZUN,FQ4 '19,LDrogen,Leigh Drogen,0.56
+BZUN,FQ4 '19,Analyst_599346,Analyst_599346,0.57
+BZUN,FQ4 '19,Sentinel,Sentinel,0.62
+BZUN,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.65
+BZUN,FQ4 '19,Ollie,Ollie,0.84
+NBR,FQ1 '19,GHS_12,Mike Urban,-15.5
+NBR,FQ1 '19,DB849598,DB849598,-15
+NBR,FQ1 '19,GV751454,GV751454,-15
+NBR,FQ1 '19,QuantTrader007,Frederick Tremblay,-13.5
+NBR,FQ1 '19,MTS_Insights,Jacob Hess,-12.5
+NBR,FQ1 '19,bsirirat,Bob S.,-12
+NBR,FQ1 '19,BillB1210,Bill,-11.5
+NBR,FQ1 '19,Sentinel,Sentinel,-11
+NBR,FQ1 '19,Sam0808,Sam0808,-10.5
+NBR,FQ1 '19,Suntrust_57,Ken Sill,-9
+NBR,FQ1 '19,Jefferies_2,Brad Handler,-6
+NBR,FQ1 '19,Analyst_4544963,"Mark Brown, CFA",-2.5
+NBR,FQ2 '19,p4b1o,p4b1o,-16
+NBR,FQ2 '19,DB849598,DB849598,-14
+NBR,FQ2 '19,GV751454,GV751454,-14
+NBR,FQ2 '19,smiles18,Sean,-13
+NBR,FQ2 '19,GHS_12,Mike Urban,-12
+NBR,FQ2 '19,QuantTrader007,Frederick Tremblay,-12
+NBR,FQ2 '19,BillB1210,Bill,-11
+NBR,FQ2 '19,Plreiss,Plreiss,-10.5
+NBR,FQ2 '19,bsirirat,Bob S.,-10.5
+NBR,FQ2 '19,Sentinel,Sentinel,-10
+NBR,FQ2 '19,Sam0808,Sam0808,-10
+NBR,FQ2 '19,osxanalyst,osxanalyst,-10
+NBR,FQ2 '19,omni,omni,-10
+NBR,FQ2 '19,Suntrust_57,Ken Sill,-9
+NBR,FQ2 '19,Medic2525,Medic2525,-9
+NBR,FQ2 '19,Jefferies_2,Brad Handler,-5.5
+NBR,FQ3 '19,BillB1210,Bill,-14.5
+NBR,FQ3 '19,GHS_12,Mike Urban,-14
+NBR,FQ3 '19,DB849598,DB849598,-12
+NBR,FQ3 '19,GV751454,GV751454,-12
+NBR,FQ3 '19,QuantTrader007,Frederick Tremblay,-11.5
+NBR,FQ3 '19,RandomTexan,RandomTexan,-11
+NBR,FQ3 '19,Sam0808,Sam0808,-11
+NBR,FQ3 '19,bsirirat,Bob S.,-11
+NBR,FQ3 '19,Medic2525,Medic2525,-20
+NBR,FQ3 '19,Sentinel,Sentinel,-9.5
+NBR,FQ3 '19,Plreiss,Plreiss,-9
+NBR,FQ3 '19,Suntrust_57,Ken Sill,-7
+NBR,FQ3 '19,Jefferies_2,Brad Handler,-3.5
+NBR,FQ4 '19,Sam0808,Sam0808,-12
+NBR,FQ4 '19,GHS_12,Mike Urban,-11.5
+NBR,FQ4 '19,DB849598,DB849598,-12.5
+NBR,FQ4 '19,osxanalyst,osxanalyst,-12.5
+NBR,FQ4 '19,Analyst_9275680,Analyst_9275680,-12.5
+NBR,FQ4 '19,BillB1210,Bill,-12.5
+NBR,FQ4 '19,GV751454,GV751454,-11
+NBR,FQ4 '19,Sentinel,Sentinel,-11
+NBR,FQ4 '19,RandomTexan,RandomTexan,-10.5
+NBR,FQ4 '19,QuantTrader007,Frederick Tremblay,-14
+NBR,FQ4 '19,Suntrust_57,Ken Sill,-6
+NBR,FQ4 '19,Jefferies_2,Brad Handler,-1
+TNL,FQ1 '19,trevorcourtney,trevorcourtney,0.96
+TNL,FQ1 '19,Analyst_7579453,Eric,0.96
+TNL,FQ1 '19,dalton,dalton,0.96
+TNL,FQ1 '19,bubbybubster,bubbybubster,0.96
+TNL,FQ1 '19,PM,PM,0.96
+TNL,FQ1 '19,Jefferies_210,David Katz,0.95
+TNL,FQ1 '19,BillB1210,Bill,0.95
+TNL,FQ1 '19,Old_Mayor,Rob Ford,0.95
+TNL,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.95
+TNL,FQ1 '19,wakko,Diogo Oliveira,0.94
+TNL,FQ1 '19,ABalian,Aram Balian,0.94
+TNL,FQ1 '19,larrylai,larrylai,0.94
+TNL,FQ1 '19,AAFED,AAFED,0.94
+TNL,FQ1 '19,Fer_Aldana,Fernando Aldana,0.94
+TNL,FQ1 '19,SM_Georg,SM_Georg,0.94
+TNL,FQ1 '19,MTS_Insights,Jacob Hess,0.94
+TNL,FQ1 '19,ZTrade,Zach Mazzeo,0.93
+TNL,FQ1 '19,thedinomyte,thedinomyte,0.93
+TNL,FQ1 '19,shendricks,Scott Hendricks,0.93
+TNL,FQ1 '19,Mehrwert,Mehrwert,0.92
+TNL,FQ1 '19,rama2050,Ram,0.92
+TNL,FQ1 '19,QuantTrader007,Frederick Tremblay,0.92
+TNL,FQ1 '19,Suntrust_21,C. Patrick Scholes,0.91
+TNL,FQ1 '19,Sentinel,Sentinel,0.91
+TNL,FQ1 '19,PCLA,PCLA,0.91
+TNL,FQ1 '19,Analyst_5795851,Analyst_5795851,0.91
+TNL,FQ1 '19,Analyst_2278908,Analyst_2278908,0.91
+TNL,FQ1 '19,jkesh93,jkesh93,0.91
+TNL,FQ1 '19,bsirirat,Bob S.,0.9
+TNL,FQ1 '19,Analyst_8626722,Analyst_8626722,0.89
+TNL,FQ2 '19,AAFED,AAFED,1.42
+TNL,FQ2 '19,Analyst_8082280,Analyst_8082280,1.42
+TNL,FQ2 '19,shendricks,Scott Hendricks,1.41
+TNL,FQ2 '19,Jefferies_210,David Katz,1.4
+TNL,FQ2 '19,Analyst_656238,Analyst_656238,1.4
+TNL,FQ2 '19,Old_Mayor,Rob Ford,1.4
+TNL,FQ2 '19,loopie,loopie,1.4
+TNL,FQ2 '19,dalton,dalton,1.4
+TNL,FQ2 '19,SM_Georg,SM_Georg,1.4
+TNL,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,1.4
+TNL,FQ2 '19,hyperionives,hyperionives,1.39
+TNL,FQ2 '19,BillB1210,Bill,1.39
+TNL,FQ2 '19,ZTrade,Zach Mazzeo,1.39
+TNL,FQ2 '19,Analyst_2278908,Analyst_2278908,1.38
+TNL,FQ2 '19,rama2050,Ram,1.38
+TNL,FQ2 '19,larrylai,larrylai,1.37
+TNL,FQ2 '19,Analyst_8626722,Analyst_8626722,1.37
+TNL,FQ2 '19,Sentinel,Sentinel,1.37
+TNL,FQ2 '19,Madmoni,Madmoni,1.37
+TNL,FQ2 '19,Analyst_5795851,Analyst_5795851,1.37
+TNL,FQ2 '19,QuantTrader007,Frederick Tremblay,1.37
+TNL,FQ2 '19,Suntrust_21,C. Patrick Scholes,1.36
+TNL,FQ2 '19,ShaunO,ShaunO,1.33
+TNL,FQ3 '19,ritesh000,ritesh000,1.56
+TNL,FQ3 '19,Old_Mayor,Rob Ford,1.56
+TNL,FQ3 '19,Sentinel,Sentinel,1.55
+TNL,FQ3 '19,Jefferies_210,David Katz,1.54
+TNL,FQ3 '19,Analyst_2278908,Analyst_2278908,1.53
+TNL,FQ3 '19,larrylai,larrylai,1.53
+TNL,FQ3 '19,shendricks,Scott Hendricks,1.53
+TNL,FQ3 '19,RWICK27,Richard Wickstrom,1.53
+TNL,FQ3 '19,Medic2525,Medic2525,1.52
+TNL,FQ3 '19,PM,PM,1.52
+TNL,FQ3 '19,AAFED,AAFED,1.51
+TNL,FQ3 '19,BillB1210,Bill,1.51
+TNL,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,1.51
+TNL,FQ3 '19,Analyst_8075381,Analyst_8075381,1.5
+TNL,FQ3 '19,R_C12R,Ron,1.5
+TNL,FQ3 '19,Analyst_9958202,Analyst_9958202,1.49
+TNL,FQ3 '19,rama2050,Ram,1.49
+TNL,FQ3 '19,QuantTrader007,Frederick Tremblay,1.49
+TNL,FQ3 '19,Suntrust_21,C. Patrick Scholes,1.48
+TNL,FQ3 '19,Analyst_5795851,Analyst_5795851,1.48
+TNL,FQ4 '19,AAFED,AAFED,1.58
+TNL,FQ4 '19,dalton,dalton,1.58
+TNL,FQ4 '19,QuantTrader007,Frederick Tremblay,1.58
+TNL,FQ4 '19,Sentinel,Sentinel,1.57
+TNL,FQ4 '19,rama2050,Ram,1.59
+TNL,FQ4 '19,Suntrust_21,C. Patrick Scholes,1.56
+TNL,FQ4 '19,larrylai,larrylai,1.56
+TNL,FQ4 '19,Analyst_5795851,Analyst_5795851,1.6
+TNL,FQ4 '19,Fer_Aldana,Fernando Aldana,1.6
+TNL,FQ4 '19,BillB1210,Bill,1.6
+TNL,FQ4 '19,New_Moon,New_Moon,1.6
+TNL,FQ4 '19,Analyst_2278908,Analyst_2278908,1.6
+TNL,FQ4 '19,PM,PM,1.6
+TNL,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,1.6
+TNL,FQ4 '19,Old_Mayor,Rob Ford,1.62
+TNL,FQ4 '19,ggeorgiev,ggeorgiev,1.62
+TNL,FQ4 '19,RWICK27,Richard Wickstrom,1.62
+TNL,FQ4 '19,Analyst_783524,Analyst_783524,1.51
+TNL,FQ4 '19,Jefferies_210,David Katz,1.49
+ABC,FQ1 '19,Fer_Aldana,Fernando Aldana,1.59
+ABC,FQ1 '19,AetCap,AetCap,1.59
+ABC,FQ1 '19,NCIA,Mark Connollly,1.59
+ABC,FQ1 '19,Bigmar,Bigmar,1.62
+ABC,FQ1 '19,Analyst_7841845,Analyst_7841845,1.64
+ABC,FQ1 '19,anishjv11,anishjv11,1.66
+ABC,FQ1 '19,QuantTrader007,Frederick Tremblay,1.54
+ABC,FQ1 '19,RWDKPD,RWDKPD,1.52
+ABC,FQ1 '19,BillB1210,Bill,1.51
+ABC,FQ1 '19,Madmoni,Madmoni,1.51
+ABC,FQ1 '19,Needham_30,Kevin Caliendo,1.71
+ABC,FQ2 '19,AetCap,AetCap,2.16
+ABC,FQ2 '19,bsirirat,Bob S.,2.03
+ABC,FQ2 '19,QuantTrader007,Frederick Tremblay,2.01
+ABC,FQ2 '19,RWDKPD,RWDKPD,2
+ABC,FQ2 '19,BillB1210,Bill,2
+ABC,FQ2 '19,Sentinel,Sentinel,1.99
+ABC,FQ2 '19,Needham_30,Kevin Caliendo,2.28
+ABC,FQ3 '19,BillB1210,Bill,1.67
+ABC,FQ3 '19,Needham_30,Kevin Caliendo,1.86
+ABC,FQ3 '19,QuantTrader007,Frederick Tremblay,1.66
+ABC,FQ3 '19,Sentinel,Sentinel,1.64
+ABC,FQ3 '19,RWDKPD,RWDKPD,1.63
+ABC,FQ3 '19,Aledrew11,Aledrew11,1.5
+ABC,FQ4 '19,QuantTrader007,Frederick Tremblay,1.62
+ABC,FQ4 '19,RWDKPD,RWDKPD,1.62
+ABC,FQ4 '19,BillB1210,Bill,1.62
+ABC,FQ4 '19,Sentinel,Sentinel,1.57
+ABC,FQ4 '19,Medic2525,Medic2525,1.66
+ABC,FQ4 '19,Proximilar,Proximilar AI,1.73
+ABC,FQ4 '19,Needham_30,Kevin Caliendo,1.82
+LSCC,FQ1 '19,smiles18,Sean,0.11
+LSCC,FQ1 '19,BillB1210,Bill,0.11
+LSCC,FQ1 '19,KalaKuo,KalaKuo,0.11
+LSCC,FQ1 '19,Wx_Torn,Wx_Torn,0.11
+LSCC,FQ1 '19,Analyst_3261386,Analyst_3261386,0.1
+LSCC,FQ1 '19,Sentinel,Sentinel,0.1
+LSCC,FQ1 '19,Jefferies_6,Mark Lipacis,0.09
+LSCC,FQ1 '19,Analyst_1971239,Analyst_1971239,0.09
+LSCC,FQ1 '19,QuantTrader007,Frederick Tremblay,0.09
+LSCC,FQ1 '19,bsirirat,Bob S.,0.09
+LSCC,FQ1 '19,MTS_Insights,Jacob Hess,0.09
+LSCC,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.09
+LSCC,FQ2 '19,Wx_Torn,Wx_Torn,0.14
+LSCC,FQ2 '19,smiles18,Sean,0.13
+LSCC,FQ2 '19,Analyst_2855865,Analyst_2855865,0.13
+LSCC,FQ2 '19,Sentinel,Sentinel,0.13
+LSCC,FQ2 '19,BillB1210,Bill,0.13
+LSCC,FQ2 '19,Analyst_8030355,Analyst_8030355,0.13
+LSCC,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.13
+LSCC,FQ2 '19,QuantTrader007,Frederick Tremblay,0.12
+LSCC,FQ2 '19,bsirirat,Bob S.,0.12
+LSCC,FQ2 '19,Analyst_7923460,Analyst_7923460,0.11
+LSCC,FQ2 '19,Jefferies_6,Mark Lipacis,0.1
+LSCC,FQ3 '19,Analyst_4660988,Analyst_4660988,0.17
+LSCC,FQ3 '19,Sentinel,Sentinel,0.16
+LSCC,FQ3 '19,Analyst_1971239,Analyst_1971239,0.16
+LSCC,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.16
+LSCC,FQ3 '19,BillB1210,Bill,0.16
+LSCC,FQ3 '19,Analyst_397314,Analyst_397314,0.16
+LSCC,FQ3 '19,Medic2525,Medic2525,0.16
+LSCC,FQ3 '19,Analyst_7822701,Analyst_7822701,0.15
+LSCC,FQ3 '19,Dem,Dem,0.15
+LSCC,FQ3 '19,QuantTrader007,Frederick Tremblay,0.15
+LSCC,FQ3 '19,bsirirat,Bob S.,0.15
+LSCC,FQ3 '19,Jefferies_6,Mark Lipacis,0.12
+LSCC,FQ3 '19,smiles18,Sean,0.1
+LSCC,FQ4 '19,Analyst_5039344,Analyst_5039344,0.17
+LSCC,FQ4 '19,Analyst_7720394,Analyst_7720394,0.17
+LSCC,FQ4 '19,Medic2525,Medic2525,0.17
+LSCC,FQ4 '19,Analyst_783524,Analyst_783524,0.18
+LSCC,FQ4 '19,Analyst_9163475,Analyst_9163475,0.18
+LSCC,FQ4 '19,rama2050,Ram,0.18
+LSCC,FQ4 '19,andluger,andluger,0.18
+LSCC,FQ4 '19,smiles18,Sean,0.16
+LSCC,FQ4 '19,Sentinel,Sentinel,0.16
+LSCC,FQ4 '19,Analyst_3001273,Analyst_3001273,0.16
+LSCC,FQ4 '19,BillB1210,Bill,0.16
+LSCC,FQ4 '19,Proximilar,Proximilar AI,0.16
+LSCC,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.16
+LSCC,FQ4 '19,Analyst_3807326,Analyst_3807326,0.15
+LSCC,FQ4 '19,QuantTrader007,Frederick Tremblay,0.15
+LSCC,FQ4 '19,bsirirat,Bob S.,0.15
+LSCC,FQ4 '19,Analyst_3962869,Analyst_3962869,0.15
+LSCC,FQ4 '19,Analyst_3259229,Analyst_3259229,0.15
+LSCC,FQ4 '19,Analyst_3295734,Analyst_3295734,0.15
+LSCC,FQ4 '19,Jefferies_6,Mark Lipacis,0.13
+JLL,FQ1 '19,Analyst_8520293,Analyst_8520293,0.8
+JLL,FQ1 '19,karowlinger,karowlinger,0.75
+JLL,FQ1 '19,QuantTrader007,Frederick Tremblay,0.71
+JLL,FQ1 '19,BillB1210,Bill,1.09
+JLL,FQ1 '19,Sentinel,Sentinel,0.6
+JLL,FQ1 '19,ssshh21,ssshh21,2
+JLL,FQ2 '19,castle44,castle44,2.41
+JLL,FQ2 '19,BillB1210,Bill,2.38
+JLL,FQ2 '19,ssshh21,ssshh21,2.35
+JLL,FQ2 '19,QuantTrader007,Frederick Tremblay,2.35
+JLL,FQ2 '19,Sentinel,Sentinel,2.34
+JLL,FQ3 '19,Medic2525,Medic2525,3.39
+JLL,FQ3 '19,ssshh21,ssshh21,3.05
+JLL,FQ3 '19,Proximilar,Proximilar AI,3.04
+JLL,FQ3 '19,BillB1210,Bill,2.95
+JLL,FQ3 '19,Jagator904,Jagator904,2.93
+JLL,FQ3 '19,QuantTrader007,Frederick Tremblay,2.76
+JLL,FQ3 '19,Sentinel,Sentinel,2.75
+JLL,FQ4 '19,Medic2525,Medic2525,6.11
+JLL,FQ4 '19,ssshh21,ssshh21,6
+JLL,FQ4 '19,Analyst_783524,Analyst_783524,5.93
+JLL,FQ4 '19,BillB1210,Bill,5.84
+JLL,FQ4 '19,bsirirat,Bob S.,5.73
+JLL,FQ4 '19,Sentinel,Sentinel,5.67
+JLL,FQ4 '19,QuantTrader007,Frederick Tremblay,5.55
+MRK,FQ1 '19,NJS170130,Nick,1.25
+MRK,FQ1 '19,aaaa7777,aaaa7777,1.19
+MRK,FQ1 '19,hxg121130,hxg121130,1.12
+MRK,FQ1 '19,Analyst_259155,Analyst_259155,1.11
+MRK,FQ1 '19,amargari,am,1.11
+MRK,FQ1 '19,Analyst_9244357,Analyst_9244357,1.1
+MRK,FQ1 '19,panda_w,panda_w,1.1
+MRK,FQ1 '19,Trex_Securities,Trex_Securities,1.09
+MRK,FQ1 '19,Wx_Torn,Wx_Torn,1.09
+MRK,FQ1 '19,Analyst_4163911,Analyst_4163911,1.09
+MRK,FQ1 '19,aja051000,aja051000,1.08
+MRK,FQ1 '19,dimarcam,dimarcam,1.08
+MRK,FQ1 '19,Bigorangedave,Bigorangedave,1.08
+MRK,FQ1 '19,smiles18,Sean,1.08
+MRK,FQ1 '19,skr140130,skr140130,1.07
+MRK,FQ1 '19,Yuekang_Yang,Yuekang_Yang,1.07
+MRK,FQ1 '19,Sentinel,Sentinel,1.07
+MRK,FQ1 '19,QuantTrader007,Frederick Tremblay,1.07
+MRK,FQ1 '19,MaxBek,MaxBek,1.07
+MRK,FQ1 '19,MTS_Insights,Jacob Hess,1.07
+MRK,FQ1 '19,Analyst_8551843,Analyst_8551843,1.07
+MRK,FQ1 '19,Mehrwert,Mehrwert,1.06
+MRK,FQ1 '19,BillB1210,Bill,1.06
+MRK,FQ1 '19,Analyst_5299105,Analyst_5299105,1.06
+MRK,FQ1 '19,mdainvest,mdainvest,1.06
+MRK,FQ1 '19,Analyst_3493572,Analyst_3493572,1.06
+MRK,FQ1 '19,rama2050,Ram,1.06
+MRK,FQ1 '19,PlayfulFox,Ivone,1.05
+MRK,FQ1 '19,bsirirat,Bob S.,1.04
+MRK,FQ1 '19,Cantor_15,Louise Chen,1.01
+MRK,FQ2 '19,NJS170130,Nick,1.3
+MRK,FQ2 '19,Analyst_4850242,Analyst_4850242,1.24
+MRK,FQ2 '19,Mehrwert,Mehrwert,1.22
+MRK,FQ2 '19,Medic2525,Medic2525,1.22
+MRK,FQ2 '19,OliverCapital,Matheus Oliveira,1.21
+MRK,FQ2 '19,Analyst_8082280,Analyst_8082280,1.21
+MRK,FQ2 '19,Wx_Torn,Wx_Torn,1.2
+MRK,FQ2 '19,hxg121130,hxg121130,1.19
+MRK,FQ2 '19,Analyst_5001822,Barron Nguyen,1.19
+MRK,FQ2 '19,amargari,am,1.19
+MRK,FQ2 '19,dimarcam,dimarcam,1.18
+MRK,FQ2 '19,BillB1210,Bill,1.18
+MRK,FQ2 '19,ShaunO,ShaunO,1.18
+MRK,FQ2 '19,Bigorangedave,Bigorangedave,1.17
+MRK,FQ2 '19,Analyst_2882644,Analyst_2882644,1.17
+MRK,FQ2 '19,Sentinel,Sentinel,1.17
+MRK,FQ2 '19,Analyst_4932528,Analyst_4932528,1.17
+MRK,FQ2 '19,Drogness,Drogness,1.17
+MRK,FQ2 '19,QuantTrader007,Frederick Tremblay,1.17
+MRK,FQ2 '19,Analyst_1752640,Analyst_1752640,1.17
+MRK,FQ2 '19,Analyst_259155,Analyst_259155,1.16
+MRK,FQ2 '19,Analyst_3685260,Analyst_3685260,1.16
+MRK,FQ2 '19,dbarkalov,dbarkalov,1.15
+MRK,FQ2 '19,Analyst_8202295,Analyst_8202295,1.15
+MRK,FQ2 '19,MaxBek,MaxBek,1.14
+MRK,FQ2 '19,Analyst_7868068,Analyst_7868068,1.14
+MRK,FQ2 '19,Hoysala,Hoysala,1.13
+MRK,FQ2 '19,PlayfulFox,Ivone,1.12
+MRK,FQ2 '19,aaaa7777,aaaa7777,1.1
+MRK,FQ2 '19,Analyst_9925162,Analyst_9925162,1.1
+MRK,FQ3 '19,NJS170130,Nick,1.35
+MRK,FQ3 '19,Bigorangedave,Bigorangedave,1.33
+MRK,FQ3 '19,Medic2525,Medic2525,1.33
+MRK,FQ3 '19,hxg121130,hxg121130,1.32
+MRK,FQ3 '19,AhmedTheGreat7,AhmedTheGreat7,1.32
+MRK,FQ3 '19,R_C12R,Ron,1.31
+MRK,FQ3 '19,BillB1210,Bill,1.31
+MRK,FQ3 '19,PlayfulFox,Ivone,1.3
+MRK,FQ3 '19,Analyst_3466390,Analyst_3466390,1.3
+MRK,FQ3 '19,OrangeVanilla,OrangeVanilla,1.3
+MRK,FQ3 '19,Drogness,Drogness,1.3
+MRK,FQ3 '19,panda_w,panda_w,1.3
+MRK,FQ3 '19,Yuekang_Yang,Yuekang_Yang,1.29
+MRK,FQ3 '19,Analyst_4850242,Analyst_4850242,1.29
+MRK,FQ3 '19,Analyst_9039028,Analyst_9039028,1.29
+MRK,FQ3 '19,Analyst_4146227,Analyst_4146227,1.29
+MRK,FQ3 '19,mrmktmaker,Gary,1.28
+MRK,FQ3 '19,Sentinel,Sentinel,1.27
+MRK,FQ3 '19,ZTrade,Zach Mazzeo,1.27
+MRK,FQ3 '19,Analyst_397314,Analyst_397314,1.27
+MRK,FQ3 '19,QuantTrader007,Frederick Tremblay,1.27
+MRK,FQ3 '19,dimarcam,dimarcam,1.26
+MRK,FQ3 '19,LaCheeserie,LaCheeserie,1.26
+MRK,FQ3 '19,SS_GQS,SS_GQS,1.26
+MRK,FQ3 '19,Kyzmoff,Kyzmoff,1.25
+MRK,FQ3 '19,Dem,Dem,1.25
+MRK,FQ3 '19,Analyst_6414753,Analyst_6414753,1.25
+MRK,FQ3 '19,skr140130,skr140130,1.2
+MRK,FQ3 '19,Time_Seller,Time_Seller,1.2
+MRK,FQ3 '19,Cantor_15,Louise Chen,1.19
+MRK,FQ4 '19,Analyst_7480344,Analyst_7480344,1.16
+MRK,FQ4 '19,dimarcam,dimarcam,1.16
+MRK,FQ4 '19,serp,serp,1.16
+MRK,FQ4 '19,Analyst_4146227,Analyst_4146227,1.16
+MRK,FQ4 '19,Drogness,Drogness,1.17
+MRK,FQ4 '19,Sentinel,Sentinel,1.15
+MRK,FQ4 '19,Analyst_5597176,Analyst_5597176,1.14
+MRK,FQ4 '19,QuantTrader007,Frederick Tremblay,1.18
+MRK,FQ4 '19,JBBOEVE,JBBOEVE,1.14
+MRK,FQ4 '19,Analyst_3466390,Analyst_3466390,1.2
+MRK,FQ4 '19,Analyst_9279011,Analyst_9279011,1.2
+MRK,FQ4 '19,BillB1210,Bill,1.2
+MRK,FQ4 '19,Bigorangedave,Bigorangedave,1.21
+MRK,FQ4 '19,Proximilar,Proximilar AI,1.21
+MRK,FQ4 '19,Cantor_15,Louise Chen,1.1
+MRK,FQ4 '19,Analyst_4083154,Analyst_4083154,1.1
+MRK,FQ4 '19,PlayfulFox,Ivone,1.22
+MRK,FQ4 '19,KiraS,KiraS,1.22
+MRK,FQ4 '19,AlecUrtu,AlecUrtu,1.25
+MRK,FQ4 '19,Yuekang_Yang,Yuekang_Yang,1.06
+MRK,FQ4 '19,Megaannum,Philip Mascherino,1.26
+MRK,FQ4 '19,R_C12R,Ron,1.27
+MRK,FQ4 '19,Medic2525,Medic2525,1.29
+MRK,FQ4 '19,panda_w,panda_w,1.3
+MRK,FQ4 '19,Analyst_7781474,Analyst_7781474,1.35
+MRK,FQ4 '19,Analyst_9244357,Analyst_9244357,1.5
+ETSY,FQ1 '19,Analyst_8055103,Analyst_8055103,0.24
+ETSY,FQ1 '19,kevinj13,Kevin Johnson,0.24
+ETSY,FQ1 '19,Oppenheimer_6,Jason Helfstein,0.23
+ETSY,FQ1 '19,QuantTrader007,Frederick Tremblay,0.23
+ETSY,FQ1 '19,Analyst_6834198,Analyst_6834198,0.22
+ETSY,FQ1 '19,Analyst_5039344,Analyst_5039344,0.22
+ETSY,FQ1 '19,Analyst_3645752,Analyst_3645752,0.26
+ETSY,FQ1 '19,PavTrader,PavTrader,0.26
+ETSY,FQ1 '19,Analyst_6421915,Analyst_6421915,0.21
+ETSY,FQ1 '19,Analyst_3842688,Analyst_3842688,0.21
+ETSY,FQ1 '19,PublicOpinion,PublicOpinion,0.28
+ETSY,FQ1 '19,MellowBuda,MellowBuda,0.28
+ETSY,FQ1 '19,Analyst_anth,Anthony Lara,0.19
+ETSY,FQ1 '19,Analyst_508786,Analyst_508786,0.18
+ETSY,FQ1 '19,Analyst_1828642,Analyst_1828642,0.18
+ETSY,FQ1 '19,BillB1210,Bill,0.18
+ETSY,FQ1 '19,Analyst_3930070,Analyst_3930070,0.18
+ETSY,FQ1 '19,LDrogen,Leigh Drogen,0.18
+ETSY,FQ1 '19,rbrandx,robert brand,0.18
+ETSY,FQ1 '19,SmartTrader,Avinash,0.17
+ETSY,FQ1 '19,theodore_bauer,theodore_bauer,0.17
+ETSY,FQ1 '19,FinTastic,FinTastic,0.17
+ETSY,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.17
+ETSY,FQ1 '19,MatthewJH,MatthewJH,0.17
+ETSY,FQ1 '19,Abbasmash,Abbas Mashaollah,0.17
+ETSY,FQ1 '19,serpyou,serpyou,0.17
+ETSY,FQ1 '19,amr7,amr7,0.16
+ETSY,FQ1 '19,Sentinel,Sentinel,0.16
+ETSY,FQ1 '19,arpan69,arpan69,0.16
+ETSY,FQ2 '19,Analyst_4751723,Analyst_4751723,0.15
+ETSY,FQ2 '19,Sentinel,Sentinel,0.15
+ETSY,FQ2 '19,Madmoni,Madmoni,0.15
+ETSY,FQ2 '19,Analyst_8725318,Analyst_8725318,0.15
+ETSY,FQ2 '19,Analyst_7497946,Analyst_7497946,0.14
+ETSY,FQ2 '19,Analyst_1752640,Analyst_1752640,0.14
+ETSY,FQ2 '19,JBBOEVE,JBBOEVE,0.14
+ETSY,FQ2 '19,GregTripple,GregTripple,0.16
+ETSY,FQ2 '19,Analyst_5840956,Analyst_5840956,0.16
+ETSY,FQ2 '19,IT_Champion,IT_Champion,0.16
+ETSY,FQ2 '19,KalaKuo,KalaKuo,0.16
+ETSY,FQ2 '19,Analyst_358468,Analyst_358468,0.16
+ETSY,FQ2 '19,Analyst_1418670,Analyst_1418670,0.16
+ETSY,FQ2 '19,Dave_R,Dave_R,0.16
+ETSY,FQ2 '19,BillB1210,Bill,0.16
+ETSY,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.16
+ETSY,FQ2 '19,Analyst_8766422,Analyst_8766422,0.16
+ETSY,FQ2 '19,QuantTrader007,Frederick Tremblay,0.16
+ETSY,FQ2 '19,mebrantley2,mebrantley2,0.16
+ETSY,FQ2 '19,Analyst_7986085,Analyst_7986085,0.13
+ETSY,FQ2 '19,alex86881124,alex86881124,0.13
+ETSY,FQ2 '19,bsirirat,Bob S.,0.13
+ETSY,FQ2 '19,ktxmatrix,ktxmatrix,0.13
+ETSY,FQ2 '19,defjam,defjam,0.17
+ETSY,FQ2 '19,lect,lect,0.17
+ETSY,FQ2 '19,rama2050,Ram,0.17
+ETSY,FQ2 '19,SmitandCo,SmitandCo,0.17
+ETSY,FQ2 '19,JJM,JJM,0.17
+ETSY,FQ3 '19,MSS_3Q19,MSS_3Q19,0.12
+ETSY,FQ3 '19,Analyst_397314,Analyst_397314,0.11
+ETSY,FQ3 '19,Analyst_7881232,Analyst_7881232,0.11
+ETSY,FQ3 '19,RaghuRam,RaghuRam,0.11
+ETSY,FQ3 '19,Analyst_877516,Analyst_877516,0.13
+ETSY,FQ3 '19,Medic2525,Medic2525,0.13
+ETSY,FQ3 '19,Analyst_4332023,Analyst_4332023,0.13
+ETSY,FQ3 '19,MSS_2Q19,"MSShaalan_2Q19, CFA, FRM",0.1
+ETSY,FQ3 '19,Sentinel,Sentinel,0.14
+ETSY,FQ3 '19,serpyou,serpyou,0.14
+ETSY,FQ3 '19,Analyst_1078932,Analyst_1078932,0.14
+ETSY,FQ3 '19,Analyst_4751723,Analyst_4751723,0.15
+ETSY,FQ3 '19,IT_Champion,IT_Champion,0.15
+ETSY,FQ3 '19,Roth_17,Darren Aftahi,0.09
+ETSY,FQ3 '19,Analyst_9165124,Analyst_9165124,0.15
+ETSY,FQ3 '19,BillB1210,Bill,0.15
+ETSY,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.15
+ETSY,FQ3 '19,RStu0718,Ryan Stuczynski,0.15
+ETSY,FQ3 '19,rbrandx,robert brand,0.16
+ETSY,FQ3 '19,LDrogen,Leigh Drogen,0.16
+ETSY,FQ3 '19,SmoShow,SmoShow,0.16
+ETSY,FQ3 '19,Dave_R,Dave_R,0.17
+ETSY,FQ3 '19,GregTripple,GregTripple,0.18
+ETSY,FQ3 '19,rksmythe,rksmythe,0.18
+ETSY,FQ3 '19,Analyst_3842688,Analyst_3842688,0.19
+ETSY,FQ3 '19,Analyst_7986085,Analyst_7986085,0.19
+ETSY,FQ3 '19,defjam,defjam,0.2
+ETSY,FQ3 '19,QuantTrader007,Frederick Tremblay,0.21
+ETSY,FQ3 '19,Analyst_8055103,Analyst_8055103,0.22
+ETSY,FQ3 '19,Analyst_6421915,Analyst_6421915,0.24
+ETSY,FQ4 '19,IT_Champion,IT_Champion,0.26
+ETSY,FQ4 '19,greenbananas,greenbananas,0.22
+ETSY,FQ4 '19,Analyst_3842688,Analyst_3842688,0.22
+ETSY,FQ4 '19,Analyst_4751723,Analyst_4751723,0.28
+ETSY,FQ4 '19,Dave_R,Dave_R,0.28
+ETSY,FQ4 '19,QuantTrader007,Frederick Tremblay,0.28
+ETSY,FQ4 '19,RStu0718,Ryan Stuczynski,0.21
+ETSY,FQ4 '19,GregTripple,GregTripple,0.2
+ETSY,FQ4 '19,francescozunino,francescozunino,0.2
+ETSY,FQ4 '19,Analyst_4451595,Analyst_4451595,0.2
+ETSY,FQ4 '19,iMarcelo,iMarcelo,0.3
+ETSY,FQ4 '19,defjam,defjam,0.2
+ETSY,FQ4 '19,RaghuRam,RaghuRam,0.19
+ETSY,FQ4 '19,Sentinel,Sentinel,0.18
+ETSY,FQ4 '19,Analyst_6836835,Analyst_6836835,0.18
+ETSY,FQ4 '19,ggeorgiev,ggeorgiev,0.18
+ETSY,FQ4 '19,serpyou,serpyou,0.18
+ETSY,FQ4 '19,Latheef,Latheef,0.17
+ETSY,FQ4 '19,Analyst_6955214,Analyst_6955214,0.17
+ETSY,FQ4 '19,Bigorangedave,Bigorangedave,0.17
+ETSY,FQ4 '19,WonterC,WonterC,0.17
+ETSY,FQ4 '19,BillB1210,Bill,0.17
+ETSY,FQ4 '19,rama2050,Ram,0.17
+ETSY,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.17
+ETSY,FQ4 '19,Analyst_7986085,Analyst_7986085,0.33
+ETSY,FQ4 '19,Roth_17,Darren Aftahi,0.16
+ETSY,FQ4 '19,TubbyBubbles,TubbyBubbles,0.16
+ETSY,FQ4 '19,rrg1964,rrg1964,0.16
+ETSY,FQ4 '19,Oppenheimer_6,Jason Helfstein,0.34
+GEL,FQ1 '19,BillB1210,Bill,0.16
+GEL,FQ1 '19,QuantTrader007,Frederick Tremblay,0.18
+GEL,FQ1 '19,Sentinel,Sentinel,0.21
+GEL,FQ2 '19,Sentinel,Sentinel,0.18
+GEL,FQ2 '19,RandomTexan,RandomTexan,0.18
+GEL,FQ2 '19,QuantTrader007,Frederick Tremblay,0.16
+GEL,FQ2 '19,BillB1210,Bill,0.13
+GEL,FQ2 '19,Analyst_4321238,Analyst_4321238,0.09
+GEL,FQ3 '19,Proximilar,Proximilar AI,0.1
+GEL,FQ3 '19,BillB1210,Bill,0.15
+GEL,FQ3 '19,RandomTexan,RandomTexan,0.2
+GEL,FQ3 '19,QuantTrader007,Frederick Tremblay,0.21
+GEL,FQ4 '19,QuantTrader007,Frederick Tremblay,0.03
+GEL,FQ4 '19,BillB1210,Bill,0.04
+GEL,FQ4 '19,RandomTexan,RandomTexan,0.25
+MYE,FQ1 '19,Sentinel,Sentinel,0.21
+MYE,FQ1 '19,QuantTrader007,Frederick Tremblay,0.21
+MYE,FQ1 '19,BillB1210,Bill,0.21
+MYE,FQ2 '19,Sentinel,Sentinel,0.26
+MYE,FQ2 '19,BillB1210,Bill,0.26
+MYE,FQ2 '19,QuantTrader007,Frederick Tremblay,0.26
+MYE,FQ3 '19,Sentinel,Sentinel,0.15
+MYE,FQ3 '19,QuantTrader007,Frederick Tremblay,0.15
+MYE,FQ3 '19,Proximilar,Proximilar AI,0.15
+MYE,FQ3 '19,BillB1210,Bill,0.16
+MYE,FQ4 '19,bsirirat,Bob S.,0.12
+MYE,FQ4 '19,Sentinel,Sentinel,0.13
+MYE,FQ4 '19,BillB1210,Bill,0.13
+MYE,FQ4 '19,QuantTrader007,Frederick Tremblay,0.13
+IDXX,FQ1 '19,GregTripple,GregTripple,1.2
+IDXX,FQ1 '19,ES892458,ES892458,1.12
+IDXX,FQ1 '19,rbrandx,robert brand,1.1
+IDXX,FQ1 '19,QuantTrader007,Frederick Tremblay,1.09
+IDXX,FQ1 '19,Canaccord_14,Mark Massaro,1.08
+IDXX,FQ1 '19,BillB1210,Bill,1.07
+IDXX,FQ1 '19,Sentinel,Sentinel,1.05
+IDXX,FQ1 '19,Canaccord_197,Mark Massaro,1.05
+IDXX,FQ2 '19,rbrandx,robert brand,1.44
+IDXX,FQ2 '19,QuantTrader007,Frederick Tremblay,1.4
+IDXX,FQ2 '19,BillB1210,Bill,1.4
+IDXX,FQ2 '19,ShaunO,ShaunO,1.4
+IDXX,FQ2 '19,ES892458,ES892458,1.39
+IDXX,FQ2 '19,Sentinel,Sentinel,1.37
+IDXX,FQ2 '19,Canaccord_197,Mark Massaro,1.35
+IDXX,FQ2 '19,Canaccord_14,Mark Massaro,1.34
+IDXX,FQ2 '19,GregTripple,GregTripple,1.25
+IDXX,FQ3 '19,Medic2525,Medic2525,1.23
+IDXX,FQ3 '19,ES892458,ES892458,1.18
+IDXX,FQ3 '19,QuantTrader007,Frederick Tremblay,1.18
+IDXX,FQ3 '19,Armour65,Armour65,1.17
+IDXX,FQ3 '19,BillB1210,Bill,1.17
+IDXX,FQ3 '19,Canaccord_14,Mark Massaro,1.16
+IDXX,FQ3 '19,Sentinel,Sentinel,1.14
+IDXX,FQ3 '19,Analyst_397314,Analyst_397314,1.14
+IDXX,FQ3 '19,Canaccord_197,Mark Massaro,1.13
+IDXX,FQ4 '19,QuantTrader007,Frederick Tremblay,1.01
+IDXX,FQ4 '19,Proximilar,Proximilar AI,0.99
+IDXX,FQ4 '19,Medic2525,Medic2525,0.99
+IDXX,FQ4 '19,BillB1210,Bill,0.98
+IDXX,FQ4 '19,Canaccord_14,Mark Massaro,1.12
+IDXX,FQ4 '19,Analyst_umbi,Analyst_umbi,0.96
+IDXX,FQ4 '19,ES892458,ES892458,1.14
+IDXX,FQ4 '19,Analyst_8202295,Analyst_8202295,0.94
+IDXX,FQ4 '19,Sentinel,Sentinel,0.92
+IDXX,FQ4 '19,Analyst_1610758,Analyst_1610758,0.91
+IDXX,FQ4 '19,bsirirat,Bob S.,0.91
+IDXX,FQ4 '19,Canaccord_197,Mark Massaro,0.9
+ZEUS,FQ1 '19,Sentinel,Sentinel,0.22
+ZEUS,FQ1 '19,QuantTrader007,Frederick Tremblay,0.23
+ZEUS,FQ1 '19,Jefferies_64,Martin Englert,0.33
+ZEUS,FQ1 '19,BillB1210,Bill,0.4
+ZEUS,FQ2 '19,Wx_Torn,Wx_Torn,0.16
+ZEUS,FQ2 '19,Sentinel,Sentinel,0.15
+ZEUS,FQ2 '19,BillB1210,Bill,0.17
+ZEUS,FQ2 '19,QuantTrader007,Frederick Tremblay,0.2
+ZEUS,FQ2 '19,Jefferies_64,Martin Englert,0.92
+ZEUS,FQ3 '19,Sentinel,Sentinel,0.07
+ZEUS,FQ3 '19,QuantTrader007,Frederick Tremblay,0.08
+ZEUS,FQ3 '19,BillB1210,Bill,0.1
+ZEUS,FQ3 '19,Medic2525,Medic2525,0.1
+ZEUS,FQ3 '19,Proximilar,Proximilar AI,0.11
+ZEUS,FQ3 '19,Jefferies_64,Martin Englert,0.48
+ZEUS,FQ4 '19,QuantTrader007,Frederick Tremblay,-0.22
+ZEUS,FQ4 '19,BillB1210,Bill,-0.22
+ZEUS,FQ4 '19,Medic2525,Medic2525,-0.25
+ZEUS,FQ4 '19,Sentinel,Sentinel,-0.2
+ZEUS,FQ4 '19,Jefferies_64,Martin Englert,0.12
+HRC,FQ1 '19,hyperionives,hyperionives,1.02
+HRC,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,1.02
+HRC,FQ1 '19,Analyst_8626722,Analyst_8626722,1.02
+HRC,FQ1 '19,BillB1210,Bill,1.02
+HRC,FQ1 '19,larrylai,larrylai,1.02
+HRC,FQ1 '19,Fer_Aldana,Fernando Aldana,1.02
+HRC,FQ1 '19,tlm1tlm,tlm1tlm,1.03
+HRC,FQ1 '19,Raven,Roman Novacek,1.03
+HRC,FQ1 '19,shendricks,Scott Hendricks,1.01
+HRC,FQ1 '19,Analyst_7579453,Eric,1.01
+HRC,FQ1 '19,JacksonWeeks,JacksonWeeks,1.03
+HRC,FQ1 '19,Old_Mayor,Rob Ford,1.03
+HRC,FQ1 '19,rama2050,Ram,1.01
+HRC,FQ1 '19,AetCap,AetCap,1.01
+HRC,FQ1 '19,benjenholdings,Ben Jen,1.01
+HRC,FQ1 '19,dalton,dalton,1.03
+HRC,FQ1 '19,NCIA,Mark Connollly,1.03
+HRC,FQ1 '19,androsForm,androsForm,1.01
+HRC,FQ1 '19,RWICK27,Richard Wickstrom,1.03
+HRC,FQ1 '19,SM_Georg,SM_Georg,1.03
+HRC,FQ1 '19,anishjv11,anishjv11,1.04
+HRC,FQ1 '19,UcanQuote_me,UcanQuote_me,1
+HRC,FQ1 '19,PCLA,PCLA,1.04
+HRC,FQ1 '19,SirMarkets,Michael Bertogli,1.04
+HRC,FQ1 '19,AlphaAnalyst,AlphaAnalyst,1.04
+HRC,FQ1 '19,Analyst_656238,Analyst_656238,1
+HRC,FQ1 '19,Megaannum,Philip Mascherino,1
+HRC,FQ1 '19,QuantTrader007,Frederick Tremblay,1
+HRC,FQ1 '19,Donbenoni,Donbenoni,1.05
+HRC,FQ1 '19,Giacomo,Giacomo,0.99
+HRC,FQ2 '19,tlm1tlm,tlm1tlm,1.14
+HRC,FQ2 '19,tradersergi,tradersergi,1.14
+HRC,FQ2 '19,maggieb,maggieb,1.14
+HRC,FQ2 '19,Analyst_5795851,Analyst_5795851,1.14
+HRC,FQ2 '19,Analyst_8626722,Analyst_8626722,1.14
+HRC,FQ2 '19,SirMarkets,Michael Bertogli,1.14
+HRC,FQ2 '19,QuantTrader007,Frederick Tremblay,1.14
+HRC,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,1.14
+HRC,FQ2 '19,dalton,dalton,1.14
+HRC,FQ2 '19,PM,PM,1.14
+HRC,FQ2 '19,larrylai,larrylai,1.14
+HRC,FQ2 '19,Mehrwert,Mehrwert,1.15
+HRC,FQ2 '19,BillB1210,Bill,1.15
+HRC,FQ2 '19,Analyst_7579453,Eric,1.13
+HRC,FQ2 '19,shendricks,Scott Hendricks,1.15
+HRC,FQ2 '19,AAFED,AAFED,1.15
+HRC,FQ2 '19,AetCap,AetCap,1.13
+HRC,FQ2 '19,Old_Mayor,Rob Ford,1.15
+HRC,FQ2 '19,rama2050,Ram,1.13
+HRC,FQ2 '19,SM_Georg,SM_Georg,1.15
+HRC,FQ2 '19,smiles18,Sean,1.15
+HRC,FQ2 '19,DK321722,DK321722,1.12
+HRC,FQ2 '19,Sentinel,Sentinel,1.12
+HRC,FQ2 '19,UcanQuote_me,UcanQuote_me,1.12
+HRC,FQ2 '19,Analyst_9166593,Analyst_9166593,1.12
+HRC,FQ2 '19,Analyst_656238,Analyst_656238,1.12
+HRC,FQ2 '19,Analyst_2278908,Analyst_2278908,1.12
+HRC,FQ2 '19,PCLA,PCLA,1.12
+HRC,FQ2 '19,bsirirat,Bob S.,1.11
+HRC,FQ2 '19,Needham_34,Mike Matson,1.1
+HRC,FQ3 '19,hyperionives,hyperionives,1.23
+HRC,FQ3 '19,maggieb,maggieb,1.23
+HRC,FQ3 '19,AAFED,AAFED,1.23
+HRC,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,1.23
+HRC,FQ3 '19,R_C12R,Ron,1.23
+HRC,FQ3 '19,Analyst_656238,Analyst_656238,1.23
+HRC,FQ3 '19,Needham_34,Mike Matson,1.22
+HRC,FQ3 '19,Sentinel,Sentinel,1.22
+HRC,FQ3 '19,tlm1tlm,tlm1tlm,1.22
+HRC,FQ3 '19,shendricks,Scott Hendricks,1.24
+HRC,FQ3 '19,BillB1210,Bill,1.24
+HRC,FQ3 '19,Analyst_8626722,Analyst_8626722,1.22
+HRC,FQ3 '19,dalton,dalton,1.24
+HRC,FQ3 '19,Analyst_5795851,Analyst_5795851,1.22
+HRC,FQ3 '19,Analyst_5039344,Analyst_5039344,1.24
+HRC,FQ3 '19,Analyst_2278908,Analyst_2278908,1.22
+HRC,FQ3 '19,PM,PM,1.24
+HRC,FQ3 '19,DK321722,DK321722,1.21
+HRC,FQ3 '19,QuantTrader007,Frederick Tremblay,1.25
+HRC,FQ3 '19,Old_Mayor,Rob Ford,1.25
+HRC,FQ3 '19,ShaunO,ShaunO,1.25
+HRC,FQ3 '19,peepdapatty,peepdapatty,1.2
+HRC,FQ3 '19,Analyst_1752640,Analyst_1752640,1.2
+HRC,FQ4 '19,Old_Mayor,Rob Ford,1.69
+HRC,FQ4 '19,Analyst_8075381,Analyst_8075381,1.69
+HRC,FQ4 '19,QuantTrader007,Frederick Tremblay,1.7
+HRC,FQ4 '19,AAFED,AAFED,1.68
+HRC,FQ4 '19,shendricks,Scott Hendricks,1.68
+HRC,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,1.68
+HRC,FQ4 '19,Medic2525,Medic2525,1.7
+HRC,FQ4 '19,dalton,dalton,1.68
+HRC,FQ4 '19,RWICK27,Richard Wickstrom,1.68
+HRC,FQ4 '19,PM,PM,1.68
+HRC,FQ4 '19,Analyst_5795851,Analyst_5795851,1.68
+HRC,FQ4 '19,BillB1210,Bill,1.67
+HRC,FQ4 '19,Analyst_2278908,Analyst_2278908,1.67
+HRC,FQ4 '19,rama2050,Ram,1.67
+HRC,FQ4 '19,Sentinel,Sentinel,1.66
+HRC,FQ4 '19,DK321722,DK321722,1.66
+HRC,FQ4 '19,Analyst_397314,Analyst_397314,1.66
+HRC,FQ4 '19,Analyst_656238,Analyst_656238,1.66
+HRC,FQ4 '19,EMH,EMH,1.66
+HRC,FQ4 '19,maggieb,maggieb,1.73
+HRC,FQ4 '19,bsirirat,Bob S.,1.65
+HRC,FQ4 '19,Needham_34,Mike Matson,1.64
+AAIC,FQ1 '19,QuantTrader007,Frederick Tremblay,0.5
+AAIC,FQ1 '19,BillB1210,Bill,0.51
+AAIC,FQ1 '19,Sentinel,Sentinel,0.53
+AAIC,FQ1 '19,Robin,Robin,0.55
+AAIC,FQ2 '19,Analyst_2625626,Analyst_2625626,0.22
+AAIC,FQ2 '19,Robin,Robin,0.38
+AAIC,FQ2 '19,BillB1210,Bill,0.42
+AAIC,FQ2 '19,QuantTrader007,Frederick Tremblay,0.45
+AAIC,FQ2 '19,smiles18,Sean,0.45
+AAIC,FQ2 '19,ShaunO,ShaunO,0.47
+AAIC,FQ2 '19,bsirirat,Bob S.,0.51
+AAIC,FQ2 '19,Sentinel,Sentinel,0.52
+AAIC,FQ2 '19,Analyst_6458245,Analyst_6458245,0.59
+AAIC,FQ2 '19,Analyst_2080299,Analyst_2080299,0.7
+AAIC,FQ3 '19,BillB1210,Bill,0.3
+AAIC,FQ3 '19,Proximilar,Proximilar AI,0.33
+AAIC,FQ4 '19,BillB1210,Bill,0.2
+AAIC,FQ4 '19,QuantTrader007,Frederick Tremblay,0.18
+AAIC,FQ4 '19,Vitaly,Vitaly,0.18
+NSP,FQ1 '19,Analyst_8030355,Analyst_8030355,1.93
+NSP,FQ1 '19,QuantTrader007,Frederick Tremblay,1.91
+NSP,FQ1 '19,Analyst_2111537,Analyst_2111537,1.9
+NSP,FQ1 '19,Sentinel,Sentinel,1.89
+NSP,FQ1 '19,BillB1210,Bill,1.89
+NSP,FQ1 '19,Analyst_3829396,Analyst_3829396,1.88
+NSP,FQ1 '19,Suntrust_5,Tobey Sommer,1.87
+NSP,FQ1 '19,Roth_19,"Jeff Martin, CFA",1.87
+NSP,FQ1 '19,smiles18,Sean,1.82
+NSP,FQ2 '19,Roth_19,"Jeff Martin, CFA",0.83
+NSP,FQ2 '19,Suntrust_5,Tobey Sommer,0.83
+NSP,FQ2 '19,Analyst_397314,Analyst_397314,0.84
+NSP,FQ2 '19,Sentinel,Sentinel,0.84
+NSP,FQ2 '19,ShaunO,ShaunO,0.85
+NSP,FQ2 '19,Wx_Torn,Wx_Torn,0.86
+NSP,FQ2 '19,smiles18,Sean,0.87
+NSP,FQ2 '19,Analyst_8082280,Analyst_8082280,0.88
+NSP,FQ2 '19,BillB1210,Bill,0.89
+NSP,FQ2 '19,QuantTrader007,Frederick Tremblay,0.89
+NSP,FQ3 '19,Roth_19,"Jeff Martin, CFA",1
+NSP,FQ3 '19,Sentinel,Sentinel,1.02
+NSP,FQ3 '19,Analyst_397314,Analyst_397314,1.02
+NSP,FQ3 '19,Suntrust_5,Tobey Sommer,1.03
+NSP,FQ3 '19,bdarbe11,bdarbe11,1.04
+NSP,FQ3 '19,BillB1210,Bill,1.05
+NSP,FQ3 '19,Proximilar,Proximilar AI,1.05
+NSP,FQ3 '19,QuantTrader007,Frederick Tremblay,1.07
+NSP,FQ3 '19,Analyst_8593144,Analyst_8593144,1.08
+NSP,FQ3 '19,Medic2525,Medic2525,1.09
+NSP,FQ4 '19,Suntrust_5,Tobey Sommer,0.57
+NSP,FQ4 '19,Sentinel,Sentinel,0.56
+NSP,FQ4 '19,Analyst_3970101,Analyst_3970101,0.56
+NSP,FQ4 '19,QuantTrader007,Frederick Tremblay,0.58
+NSP,FQ4 '19,BillB1210,Bill,0.58
+NSP,FQ4 '19,Medic2525,Medic2525,0.58
+NSP,FQ4 '19,bsirirat,Bob S.,0.55
+NSP,FQ4 '19,bdarbe11,bdarbe11,0.6
+NSP,FQ4 '19,Roth_19,"Jeff Martin, CFA",0.53
+XNCR,FQ1 '19,MTS_Insights,Jacob Hess,0.48
+XNCR,FQ1 '19,Mehrwert,Mehrwert,0.38
+XNCR,FQ1 '19,Analyst_8036067,Analyst_8036067,0.27
+XNCR,FQ1 '19,Sentinel,Sentinel,0.22
+XNCR,FQ1 '19,Analyst_4301392,Analyst_4301392,0.19
+XNCR,FQ1 '19,QuantTrader007,Frederick Tremblay,-0.07
+XNCR,FQ1 '19,BillB1210,Bill,-0.3
+XNCR,FQ1 '19,Canaccord_202,"Arlinda Lee, Ph.D.",-0.35
+XNCR,FQ1 '19,Cantor_22,Alethia Young,-0.56
+XNCR,FQ1 '19,Canaccord_115,"Arlinda Lee, Ph.D.",-0.66
+XNCR,FQ2 '19,Canaccord_202,"Arlinda Lee, Ph.D.",-0.29
+XNCR,FQ2 '19,iid_investor,iid_investor,-0.35
+XNCR,FQ2 '19,BillB1210,Bill,-0.36
+XNCR,FQ2 '19,Canaccord_115,"Arlinda Lee, Ph.D.",-0.42
+XNCR,FQ2 '19,QuantTrader007,Frederick Tremblay,-0.43
+XNCR,FQ2 '19,Sentinel,Sentinel,-0.45
+XNCR,FQ2 '19,Cantor_22,Alethia Young,-0.55
+XNCR,FQ3 '19,Medic2525,Medic2525,-0.31
+XNCR,FQ3 '19,Canaccord_202,"Arlinda Lee, Ph.D.",-0.42
+XNCR,FQ3 '19,Proximilar,Proximilar AI,-0.5
+XNCR,FQ3 '19,iid_investor,iid_investor,-0.5
+XNCR,FQ3 '19,Sentinel,Sentinel,-0.53
+XNCR,FQ3 '19,BillB1210,Bill,-0.53
+XNCR,FQ3 '19,QuantTrader007,Frederick Tremblay,-0.56
+XNCR,FQ3 '19,bsirirat,Bob S.,-0.58
+XNCR,FQ3 '19,Cantor_22,Alethia Young,-0.6
+XNCR,FQ3 '19,Canaccord_115,"Arlinda Lee, Ph.D.",-0.79
+XNCR,FQ4 '19,QuantTrader007,Frederick Tremblay,-0.42
+XNCR,FQ4 '19,Canaccord_202,"Arlinda Lee, Ph.D.",-0.54
+XNCR,FQ4 '19,omni,omni,-0.38
+XNCR,FQ4 '19,BillB1210,Bill,-0.31
+XNCR,FQ4 '19,Cantor_22,Alethia Young,-0.24
+XNCR,FQ4 '19,iid_investor,iid_investor,-0.23
+XNCR,FQ4 '19,Canaccord_115,"Arlinda Lee, Ph.D.",-0.73
+NKE,FQ1 '19,Tag_5,"Cristina Fernández, CPA",0.67
+NKE,FQ1 '19,Analyst_3466341,Analyst_3466341,0.67
+NKE,FQ1 '19,Analyst_211431,Analyst_211431,0.67
+NKE,FQ1 '19,schmidtke_jake,schmidtke_jake,0.67
+NKE,FQ1 '19,Analyst_7054907,Analyst_7054907,0.67
+NKE,FQ1 '19,Sasas,Saulius,0.67
+NKE,FQ1 '19,Wx_Torn,Wx_Torn,0.67
+NKE,FQ1 '19,Analyst_2890626,Analyst_2890626,0.67
+NKE,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.67
+NKE,FQ1 '19,Analyst_9676000,Analyst_9676000,0.67
+NKE,FQ1 '19,ZTrade,Zach Mazzeo,0.67
+NKE,FQ1 '19,Analyst_7004333,Analyst_7004333,0.67
+NKE,FQ1 '19,LDrogen,Leigh Drogen,0.67
+NKE,FQ1 '19,Analyst_317132,Analyst_317132,0.67
+NKE,FQ1 '19,BillB1210,Bill,0.67
+NKE,FQ1 '19,Analyst_347051,Analyst_347051,0.67
+NKE,FQ1 '19,Kalos,Giuseppe Calì,0.67
+NKE,FQ1 '19,Old_Mayor,Rob Ford,0.67
+NKE,FQ1 '19,Tag_1,"Kelly Chen, CFA",0.66
+NKE,FQ1 '19,Analyst_2843224,Analyst_2843224,0.68
+NKE,FQ1 '19,Mehrwert,Mehrwert,0.66
+NKE,FQ1 '19,shendricks,Scott Hendricks,0.66
+NKE,FQ1 '19,rpajam,rpajam,0.66
+NKE,FQ1 '19,Analyst_76071,Analyst_76071,0.66
+NKE,FQ1 '19,Gino,Gino,0.68
+NKE,FQ1 '19,ABalian,Aram Balian,0.66
+NKE,FQ1 '19,Analyst_3532040,Analyst_3532040,0.66
+NKE,FQ1 '19,USD_20,Graybill John,0.66
+NKE,FQ1 '19,sugarfysh,sugarfysh,0.66
+NKE,FQ1 '19,rbrandx,robert brand,0.66
+NKE,FQ2 '19,Gkater,Gkater,0.52
+NKE,FQ2 '19,PawnWu,PawnWu,0.52
+NKE,FQ2 '19,Oppenheimer_2,Anna Andreeva,0.52
+NKE,FQ2 '19,nino872,nino872,0.52
+NKE,FQ2 '19,Analyst_7355989,Analyst_7355989,0.52
+NKE,FQ2 '19,Analyst_2806104,Analyst_2806104,0.52
+NKE,FQ2 '19,Analyst_6588992,Analyst_6588992,0.52
+NKE,FQ2 '19,kgalan,kgalan,0.52
+NKE,FQ2 '19,Analyst_4852455,Analyst_4852455,0.52
+NKE,FQ2 '19,rpajam,rpajam,0.52
+NKE,FQ2 '19,Armour65,Armour65,0.52
+NKE,FQ2 '19,MartyLarty,Marty Lardy,0.52
+NKE,FQ2 '19,Sasas,Saulius,0.52
+NKE,FQ2 '19,Mehrwert,Mehrwert,0.52
+NKE,FQ2 '19,Analyst_1247336,Analyst_1247336,0.52
+NKE,FQ2 '19,p_a_arty,p_a_arty,0.52
+NKE,FQ2 '19,larrylai,larrylai,0.52
+NKE,FQ2 '19,Big_Mac,Big_Mac,0.52
+NKE,FQ2 '19,Analyst_4637522,Analyst_4637522,0.53
+NKE,FQ2 '19,Analyst_9583612,Analyst_9583612,0.51
+NKE,FQ2 '19,Analyst_6747565,Analyst_6747565,0.53
+NKE,FQ2 '19,Analyst_1487257,Analyst_1487257,0.53
+NKE,FQ2 '19,Analyst_883247,Analyst_883247,0.51
+NKE,FQ2 '19,wakko,Diogo Oliveira,0.51
+NKE,FQ2 '19,LuckyGuess,LuckyGuess,0.53
+NKE,FQ2 '19,jfffrmm,jfffrmm,0.51
+NKE,FQ2 '19,Analyst_6186275,Analyst_6186275,0.53
+NKE,FQ2 '19,Analyst_5827312,Analyst_5827312,0.53
+NKE,FQ2 '19,Analyst_2752012,Analyst_2752012,0.51
+NKE,FQ3 '19,NBalian,NBalian,0.68
+NKE,FQ3 '19,Jennifer1421,Jennifer1421,0.68
+NKE,FQ3 '19,ABalian,Aram Balian,0.68
+NKE,FQ3 '19,shendricks,Scott Hendricks,0.68
+NKE,FQ3 '19,Analyst_9138660,Analyst_9138660,0.68
+NKE,FQ3 '19,Anthony_V,Anthony_V,0.68
+NKE,FQ3 '19,Analyst_656238,Analyst_656238,0.68
+NKE,FQ3 '19,Analyst_2544715,Analyst_2544715,0.68
+NKE,FQ3 '19,defjam,defjam,0.68
+NKE,FQ3 '19,Analyst_1302988,Analyst_1302988,0.68
+NKE,FQ3 '19,rbrandx,robert brand,0.68
+NKE,FQ3 '19,NCIA,Mark Connollly,0.68
+NKE,FQ3 '19,GregTripple,GregTripple,0.68
+NKE,FQ3 '19,Analyst_4911795,Analyst_4911795,0.68
+NKE,FQ3 '19,savimiki,savimiki,0.68
+NKE,FQ3 '19,rama2050,Ram,0.68
+NKE,FQ3 '19,eteodorescu,eteodorescu,0.69
+NKE,FQ3 '19,Old_Mayor,Rob Ford,0.69
+NKE,FQ3 '19,Eric_Liou,Eric_Liou,0.69
+NKE,FQ3 '19,Analyst_1147792,Analyst_1147792,0.69
+NKE,FQ3 '19,Analyst_9676000,Analyst_9676000,0.69
+NKE,FQ3 '19,Tag_5,"Cristina Fernández, CPA",0.67
+NKE,FQ3 '19,daryldejori,Daryl de Jori,0.67
+NKE,FQ3 '19,Analyst_9183911,Analyst_9183911,0.67
+NKE,FQ3 '19,Analyst_9166593,Analyst_9166593,0.67
+NKE,FQ3 '19,adiabatic,Shreeder Adibhatla,0.67
+NKE,FQ3 '19,MorgaTron,MorgaTron,0.67
+NKE,FQ3 '19,BillB1210,Bill,0.67
+NKE,FQ3 '19,Analyst_4110103,Analyst_4110103,0.67
+NKE,FQ4 '19,Needham_32,Rick Patel,0.64
+NKE,FQ4 '19,Newoptionz,Stephen Williams,0.65
+NKE,FQ4 '19,Oppenheimer_26,"Brian Nagel, CFA",0.65
+NKE,FQ4 '19,Analyst_4503990,Analyst_4503990,0.65
+NKE,FQ4 '19,Canaccord_144,Camilo Lyon,0.66
+NKE,FQ4 '19,Tag_5,"Cristina Fernández, CPA",0.66
+NKE,FQ4 '19,rkwong00,rkwong00,0.66
+NKE,FQ4 '19,Analyst_6475473,Analyst_6475473,0.66
+NKE,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.66
+NKE,FQ4 '19,bsirirat,Bob S.,0.67
+NKE,FQ4 '19,Analyst_9693329,Analyst_9693329,0.67
+NKE,FQ4 '19,Analyst_5026178,Analyst_5026178,0.67
+NKE,FQ4 '19,Analyst_5448955,Analyst_5448955,0.67
+NKE,FQ4 '19,Analyst_1217889,Analyst_1217889,0.67
+NKE,FQ4 '19,Analyst_Ash,Analyst_Ash,0.67
+NKE,FQ4 '19,Analyst_8212457,Analyst_8212457,0.67
+NKE,FQ4 '19,JorgeART95,JorgeART95,0.67
+NKE,FQ4 '19,lpisano7,lpisano7,0.67
+NKE,FQ4 '19,Analyst_2363734,Analyst_2363734,0.67
+NKE,FQ4 '19,Analyst_157971,Analyst_157971,0.67
+NKE,FQ4 '19,420,420,0.67
+NKE,FQ4 '19,Analyst_2375387,Analyst_2375387,0.67
+NKE,FQ4 '19,youngceltic,youngceltic,0.68
+NKE,FQ4 '19,kgalan,kgalan,0.68
+NKE,FQ4 '19,Sentinel,Sentinel,0.68
+NKE,FQ4 '19,Analyst_7885967,Analyst_7885967,0.68
+NKE,FQ4 '19,kerryburrell,kerry burrell,0.68
+NKE,FQ4 '19,bizcad,Nicholas Stein,0.68
+NKE,FQ4 '19,Madmoni,Madmoni,0.68
+QRVO,FQ1 '19,Prahem,Prahem,0.98
+QRVO,FQ1 '19,Analyst_7712061,Analyst_7712061,1.07
+QRVO,FQ1 '19,Malette,Malette,0.83
+QRVO,FQ1 '19,Analyst_8743487,Analyst_8743487,0.8
+QRVO,FQ1 '19,BillB1210,Bill,0.79
+QRVO,FQ1 '19,AetCap,AetCap,0.79
+QRVO,FQ1 '19,Yield_Curve,Heather OLoughlin Green,0.79
+QRVO,FQ1 '19,clspie,Charles Spiegel,0.78
+QRVO,FQ1 '19,NCIA,Mark Connollly,0.78
+QRVO,FQ1 '19,Mehrwert,Mehrwert,0.78
+QRVO,FQ1 '19,QuantTrader007,Frederick Tremblay,0.78
+QRVO,FQ1 '19,Kalos,Giuseppe Calì,0.78
+QRVO,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.78
+QRVO,FQ1 '19,rama2050,Ram,0.78
+QRVO,FQ1 '19,bsirirat,Bob S.,0.76
+QRVO,FQ1 '19,Analyst_4782037,Analyst_4782037,0.76
+QRVO,FQ1 '19,Canaccord_12,T. Michael Walkley,0.75
+QRVO,FQ1 '19,Oppenheimer_7,Rick Schafer,0.75
+QRVO,FQ1 '19,Needham_4,N. Quinn Bolton,0.75
+QRVO,FQ1 '19,Analyst_2470481,Analyst_2470481,0.75
+QRVO,FQ1 '19,Analyst_4014777,Analyst_4014777,0.74
+QRVO,FQ1 '19,Analyst_3859840,Analyst_3859840,0.73
+QRVO,FQ1 '19,Analyst_4859493,Analyst_4859493,0.73
+QRVO,FQ1 '19,Analyst_3963950,Analyst_3963950,0.69
+QRVO,FQ1 '19,Analyst_7293427,Analyst_7293427,0.68
+QRVO,FQ1 '19,Analyst_1444558,Analyst_1444558,0.66
+QRVO,FQ1 '19,Analyst_1748761,Analyst_1748761,0.66
+QRVO,FQ1 '19,Analyst_1727754,Analyst_1727754,0.63
+QRVO,FQ1 '19,Analyst_7241955,Analyst_7241955,0.62
+QRVO,FQ2 '19,GregTripple,GregTripple,1.75
+QRVO,FQ2 '19,bsears2386,bsears2386,1.76
+QRVO,FQ2 '19,Analyst_879688,Analyst_879688,1.78
+QRVO,FQ2 '19,Mehrwert,Mehrwert,1.7
+QRVO,FQ2 '19,Analyst_9946862,Analyst_9946862,1.7
+QRVO,FQ2 '19,bubbybubster,bubbybubster,1.68
+QRVO,FQ2 '19,talleninvests,talleninvests,1.67
+QRVO,FQ2 '19,Analyst_8744289,Analyst_8744289,1.66
+QRVO,FQ2 '19,QuantTrader007,Frederick Tremblay,1.65
+QRVO,FQ2 '19,NCIA,Mark Connollly,1.64
+QRVO,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,1.64
+QRVO,FQ2 '19,rama2050,Ram,1.63
+QRVO,FQ2 '19,AetCap,AetCap,1.63
+QRVO,FQ2 '19,Canaccord_12,T. Michael Walkley,1.62
+QRVO,FQ2 '19,Oppenheimer_7,Rick Schafer,1.62
+QRVO,FQ2 '19,bsirirat,Bob S.,1.62
+QRVO,FQ2 '19,Needham_4,N. Quinn Bolton,1.62
+QRVO,FQ2 '19,Analyst_4782037,Analyst_4782037,1.62
+QRVO,FQ2 '19,BillB1210,Bill,1.61
+QRVO,FQ2 '19,loopie,loopie,1.56
+QRVO,FQ2 '19,JCL_Test,JCL_Test,1.56
+QRVO,FQ2 '19,Analyst_994512,Analyst_994512,1.43
+QRVO,FQ2 '19,Analyst_8151073,Analyst_8151073,1.39
+QRVO,FQ2 '19,Analyst_1558539,Analyst_1558539,1.32
+QRVO,FQ2 '19,Analyst_2808560,Analyst_2808560,1.32
+QRVO,FQ2 '19,Analyst_8939179,Analyst_8939179,1.27
+QRVO,FQ2 '19,Analyst_6149090,Analyst_6149090,1.23
+QRVO,FQ2 '19,Analyst_8305999,Analyst_8305999,1.22
+QRVO,FQ2 '19,Analyst_4282144,Analyst_4282144,1.22
+QRVO,FQ2 '19,Analyst_4556622,Analyst_4556622,1.21
+QRVO,FQ3 '19,Analyst_8737251,Analyst_8737251,1.88
+QRVO,FQ3 '19,Mehrwert,Mehrwert,1.82
+QRVO,FQ3 '19,Analyst_7916488,Analyst_7916488,1.9
+QRVO,FQ3 '19,Analyst_3290108,Analyst_3290108,1.8
+QRVO,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,1.8
+QRVO,FQ3 '19,NCIA,Mark Connollly,1.78
+QRVO,FQ3 '19,PCLA,PCLA,1.77
+QRVO,FQ3 '19,bsirirat,Bob S.,1.76
+QRVO,FQ3 '19,jimmypsu35,jimmypsu35,1.75
+QRVO,FQ3 '19,BillB1210,Bill,1.96
+QRVO,FQ3 '19,Megaannum,Philip Mascherino,1.74
+QRVO,FQ3 '19,jmayhugh,jmayhugh,1.73
+QRVO,FQ3 '19,Analyst_22388,Analyst_22388,1.72
+QRVO,FQ3 '19,Analyst_4518062,Analyst_4518062,1.72
+QRVO,FQ3 '19,QuantTrader007,Frederick Tremblay,1.72
+QRVO,FQ3 '19,coffeepster,coffeepster,1.72
+QRVO,FQ3 '19,Oppenheimer_7,Rick Schafer,1.7
+QRVO,FQ3 '19,Madmoni,Madmoni,1.7
+QRVO,FQ3 '19,Analyst_4701590,Analyst_4701590,1.7
+QRVO,FQ3 '19,DingjunS,DingjunS,1.7
+QRVO,FQ3 '19,Canaccord_12,T. Michael Walkley,1.69
+QRVO,FQ3 '19,Analyst_8744289,Analyst_8744289,1.69
+QRVO,FQ3 '19,AetCap,AetCap,2.02
+QRVO,FQ3 '19,GarrettBaldwin,GarrettBaldwin,1.67
+QRVO,FQ3 '19,Analyst_4517819,Analyst_4517819,1.66
+QRVO,FQ3 '19,Needham_4,N. Quinn Bolton,1.66
+QRVO,FQ3 '19,Analyst_4562198,Analyst_4562198,1.65
+QRVO,FQ3 '19,Analyst_5392370,Analyst_5392370,1.63
+QRVO,FQ3 '19,Analyst_7667936,Analyst_7667936,1.62
+QRVO,FQ3 '19,Analyst_1136183,Analyst_1136183,1.59
+QRVO,FQ4 '19,bubbybubster,bubbybubster,1.22
+QRVO,FQ4 '19,Analyst_9516852,Analyst_9516852,1.21
+QRVO,FQ4 '19,Analyst_8798612,Analyst_8798612,1.19
+QRVO,FQ4 '19,Mehrwert,Mehrwert,1.18
+QRVO,FQ4 '19,BillB1210,Bill,1.18
+QRVO,FQ4 '19,Analyst_2270270,Analyst_2270270,1.18
+QRVO,FQ4 '19,jimmypsu35,jimmypsu35,1.16
+QRVO,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,1.16
+QRVO,FQ4 '19,Canaccord_12,T. Michael Walkley,1.29
+QRVO,FQ4 '19,Needham_4,N. Quinn Bolton,1.14
+QRVO,FQ4 '19,Bill_Maurer,Bill_Maurer,1.13
+QRVO,FQ4 '19,MTS_Insights,Jacob Hess,1.11
+QRVO,FQ4 '19,QuantTrader007,Frederick Tremblay,1.1
+QRVO,FQ4 '19,Analyst_397314,Analyst_397314,1.1
+QRVO,FQ4 '19,Analyst_508786,Analyst_508786,1.09
+QRVO,FQ4 '19,Malette,Malette,1.09
+QRVO,FQ4 '19,Analyst_8744289,Analyst_8744289,1.08
+QRVO,FQ4 '19,rama2050,Ram,1.08
+QRVO,FQ4 '19,Sentinel,Sentinel,1.07
+QRVO,FQ4 '19,Madmoni,Madmoni,1.07
+QRVO,FQ4 '19,coffeepster,coffeepster,1.07
+QRVO,FQ4 '19,dbarkalov,dbarkalov,1.07
+QRVO,FQ4 '19,Needham_6,Rajvindra Gill,1.06
+QRVO,FQ4 '19,bsirirat,Bob S.,1.06
+QRVO,FQ4 '19,Oppenheimer_7,Rick Schafer,1.05
+QRVO,FQ4 '19,Canaccord_166,T. Michael Walkley,1.05
+QRVO,FQ4 '19,tlm1tlm,tlm1tlm,1.04
+QRVO,FQ4 '19,Analyst_1033358,Analyst_1033358,0.99
+QRVO,FQ4 '19,Analyst_8591831,Analyst_8591831,0.98
+QRVO,FQ4 '19,Analyst_7124008,Analyst_7124008,0.92
+FICO,FQ1 '19,hyperionives,hyperionives,1.45
+FICO,FQ1 '19,Analyst_8626722,Analyst_8626722,1.45
+FICO,FQ1 '19,PM,PM,1.45
+FICO,FQ1 '19,Analyst_7579453,Eric,1.45
+FICO,FQ1 '19,Donbenoni,Donbenoni,1.45
+FICO,FQ1 '19,serpyou,serpyou,1.45
+FICO,FQ1 '19,Old_Mayor,Rob Ford,1.45
+FICO,FQ1 '19,RWICK27,Richard Wickstrom,1.45
+FICO,FQ1 '19,Fer_Aldana,Fernando Aldana,1.44
+FICO,FQ1 '19,NCIA,Mark Connollly,1.44
+FICO,FQ1 '19,JD_500347619,JD_500347619,1.44
+FICO,FQ1 '19,Neil_Martin,Neil_Martin,1.47
+FICO,FQ1 '19,SEE_Autonomy,SEE_Autonomy,1.43
+FICO,FQ1 '19,rama2050,Ram,1.43
+FICO,FQ1 '19,larrylai,larrylai,1.43
+FICO,FQ1 '19,BillB1210,Bill,1.43
+FICO,FQ1 '19,loopie,loopie,1.43
+FICO,FQ1 '19,SM_Georg,SM_Georg,1.43
+FICO,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,1.43
+FICO,FQ1 '19,maggieb,maggieb,1.48
+FICO,FQ1 '19,tlm1tlm,tlm1tlm,1.42
+FICO,FQ1 '19,Analyst_656238,Analyst_656238,1.42
+FICO,FQ1 '19,AetCap,AetCap,1.42
+FICO,FQ1 '19,PCLA,PCLA,1.42
+FICO,FQ1 '19,dalton,dalton,1.42
+FICO,FQ1 '19,Giacomo,Giacomo,1.42
+FICO,FQ1 '19,androsForm,androsForm,1.42
+FICO,FQ1 '19,bsirirat,Bob S.,1.41
+FICO,FQ1 '19,QuantTrader007,Frederick Tremblay,1.41
+FICO,FQ1 '19,Mehrwert,Mehrwert,1.4
+FICO,FQ2 '19,Trex_Securities,Trex_Securities,1.59
+FICO,FQ2 '19,UcanQuote_me,UcanQuote_me,1.62
+FICO,FQ2 '19,Sentinel,Sentinel,1.63
+FICO,FQ2 '19,bsirirat,Bob S.,1.63
+FICO,FQ2 '19,Analyst_656238,Analyst_656238,1.64
+FICO,FQ2 '19,Analyst_2278908,Analyst_2278908,1.64
+FICO,FQ2 '19,PCLA,PCLA,1.64
+FICO,FQ2 '19,MTS_Insights,Jacob Hess,1.64
+FICO,FQ2 '19,hyperionives,hyperionives,1.65
+FICO,FQ2 '19,jfffrmm,jfffrmm,1.65
+FICO,FQ2 '19,Analyst_5795851,Analyst_5795851,1.65
+FICO,FQ2 '19,Analyst_8626722,Analyst_8626722,1.65
+FICO,FQ2 '19,SirMarkets,Michael Bertogli,1.65
+FICO,FQ2 '19,QuantTrader007,Frederick Tremblay,1.65
+FICO,FQ2 '19,Donbenoni,Donbenoni,1.65
+FICO,FQ2 '19,rama2050,Ram,1.65
+FICO,FQ2 '19,smiles18,Sean,1.65
+FICO,FQ2 '19,Old_Mayor,Rob Ford,1.65
+FICO,FQ2 '19,dalton,dalton,1.65
+FICO,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,1.65
+FICO,FQ2 '19,BillB1210,Bill,1.66
+FICO,FQ2 '19,AAFED,AAFED,1.66
+FICO,FQ2 '19,SM_Georg,SM_Georg,1.66
+FICO,FQ2 '19,Mehrwert,Mehrwert,1.67
+FICO,FQ2 '19,shendricks,Scott Hendricks,1.67
+FICO,FQ2 '19,tlm1tlm,tlm1tlm,1.67
+FICO,FQ2 '19,serpyou,serpyou,1.67
+FICO,FQ2 '19,panda_w,panda_w,1.67
+FICO,FQ2 '19,larrylai,larrylai,1.68
+FICO,FQ2 '19,Neil_Martin,Neil_Martin,1.69
+FICO,FQ3 '19,eptest,eptest,2.05
+FICO,FQ3 '19,Analyst_8058400,Analyst_8058400,2
+FICO,FQ3 '19,lect,lect,1.99
+FICO,FQ3 '19,ShaunO,ShaunO,1.98
+FICO,FQ3 '19,Old_Mayor,Rob Ford,1.92
+FICO,FQ3 '19,serpyou,serpyou,1.92
+FICO,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,1.92
+FICO,FQ3 '19,Sentinel,Sentinel,1.91
+FICO,FQ3 '19,Analyst_8626722,Analyst_8626722,1.91
+FICO,FQ3 '19,Analyst_2450768,Analyst_2450768,1.91
+FICO,FQ3 '19,Analyst_656238,Analyst_656238,1.91
+FICO,FQ3 '19,SM_Georg,SM_Georg,1.91
+FICO,FQ3 '19,shawncooney,Shawn P. Cooney,1.91
+FICO,FQ3 '19,larrylai,larrylai,1.9
+FICO,FQ3 '19,bsirirat,Bob S.,1.9
+FICO,FQ3 '19,Analyst_2278908,Analyst_2278908,1.89
+FICO,FQ3 '19,R_C12R,Ron,1.89
+FICO,FQ3 '19,hyperionives,hyperionives,1.88
+FICO,FQ3 '19,loopie,loopie,1.88
+FICO,FQ3 '19,Analyst_5795851,Analyst_5795851,1.88
+FICO,FQ3 '19,AAFED,AAFED,1.87
+FICO,FQ3 '19,PM,PM,1.87
+FICO,FQ3 '19,rama2050,Ram,1.86
+FICO,FQ3 '19,dalton,dalton,1.86
+FICO,FQ3 '19,tradersergi,tradersergi,1.85
+FICO,FQ3 '19,Neil_Martin,Neil_Martin,1.85
+FICO,FQ3 '19,shendricks,Scott Hendricks,1.85
+FICO,FQ3 '19,BillB1210,Bill,1.85
+FICO,FQ3 '19,maggieb,maggieb,1.77
+FICO,FQ3 '19,QuantTrader007,Frederick Tremblay,1.72
+FICO,FQ4 '19,R_C12R,Ron,2.03
+FICO,FQ4 '19,panda_w,panda_w,1.94
+FICO,FQ4 '19,Analyst_5174576,Analyst_5174576,1.92
+FICO,FQ4 '19,maggieb,maggieb,2.12
+FICO,FQ4 '19,Sentinel,Sentinel,2.2
+FICO,FQ4 '19,Neil_Martin,Neil_Martin,2.21
+FICO,FQ4 '19,Proximilar,Proximilar AI,1.79
+FICO,FQ4 '19,QuantTrader007,Frederick Tremblay,1.76
+FICO,FQ4 '19,EMH,EMH,1.74
+FICO,FQ4 '19,Analyst_6234046,Analyst_6234046,1.73
+FICO,FQ4 '19,Analyst_656238,Analyst_656238,1.72
+FICO,FQ4 '19,lect,lect,1.72
+FICO,FQ4 '19,RWICK27,Richard Wickstrom,1.72
+FICO,FQ4 '19,hyperionives,hyperionives,1.71
+FICO,FQ4 '19,jfffrmm,jfffrmm,1.71
+FICO,FQ4 '19,Old_Mayor,Rob Ford,1.71
+FICO,FQ4 '19,SunRay,SunRay,1.7
+FICO,FQ4 '19,loopie,loopie,1.7
+FICO,FQ4 '19,AAFED,AAFED,1.7
+FICO,FQ4 '19,PM,PM,1.7
+FICO,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,1.69
+FICO,FQ4 '19,BillB1210,Bill,1.68
+FICO,FQ4 '19,Analyst_2278908,Analyst_2278908,1.68
+FICO,FQ4 '19,serpyou,serpyou,1.68
+FICO,FQ4 '19,shendricks,Scott Hendricks,1.67
+FICO,FQ4 '19,Analyst_5795851,Analyst_5795851,1.67
+FICO,FQ4 '19,shawncooney,Shawn P. Cooney,1.67
+FICO,FQ4 '19,tlm1tlm,tlm1tlm,1.66
+FICO,FQ4 '19,omni,omni,1.65
+FICO,FQ4 '19,powertempo,powertempo,1.64
+DATA,FQ1 '19,larrylai,larrylai,0.02
+DATA,FQ1 '19,PCLA,PCLA,0.02
+DATA,FQ1 '19,ZTrade,Zach Mazzeo,0.02
+DATA,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.02
+DATA,FQ1 '19,mdainvest,mdainvest,0.02
+DATA,FQ1 '19,coffeepster,coffeepster,0.02
+DATA,FQ1 '19,SM_Georg,SM_Georg,0.02
+DATA,FQ1 '19,bubbybubster,bubbybubster,0.02
+DATA,FQ1 '19,serpyou,serpyou,0.02
+DATA,FQ1 '19,Analyst_2278908,Analyst_2278908,0.02
+DATA,FQ1 '19,Needham_33,Jack Andrews,0.03
+DATA,FQ1 '19,Neil_Martin,Neil_Martin,0.03
+DATA,FQ1 '19,BillB1210,Bill,0.03
+DATA,FQ1 '19,Analyst_9387580,Analyst_9387580,0.03
+DATA,FQ1 '19,Wx_Torn,Wx_Torn,0.03
+DATA,FQ1 '19,PM,PM,0.03
+DATA,FQ1 '19,smiles18,Sean,0.03
+DATA,FQ1 '19,Oppenheimer_11,Ittai Kidron,0.01
+DATA,FQ1 '19,Sentinel,Sentinel,0.01
+DATA,FQ1 '19,Analyst_5522138,Analyst_5522138,0.01
+DATA,FQ1 '19,Dr_Meso,Dr_Meso,0.01
+DATA,FQ1 '19,rama2050,Ram,0.01
+DATA,FQ1 '19,mjjackson,Mark Jackson,0.01
+DATA,FQ1 '19,Aitvaras,Aitvaras,0.01
+DATA,FQ1 '19,Analyst_8230762,Analyst_8230762,0.01
+DATA,FQ1 '19,MTS_Insights,Jacob Hess,0.01
+DATA,FQ1 '19,Analyst_2056102,Analyst_2056102,0
+DATA,FQ1 '19,bsirirat,Bob S.,0
+DATA,FQ1 '19,sugarfysh,sugarfysh,0
+DATA,FQ1 '19,Analyst_9650665,Analyst_9650665,0
+DATA,FQ2 '19,BillB1210,Bill,0.34
+DATA,FQ2 '19,Analyst_7584031,Analyst_7584031,0.34
+DATA,FQ2 '19,Mehrwert,Mehrwert,0.34
+DATA,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.34
+DATA,FQ2 '19,SM_Georg,SM_Georg,0.34
+DATA,FQ2 '19,Wx_Torn,Wx_Torn,0.34
+DATA,FQ2 '19,smiles18,Sean,0.34
+DATA,FQ2 '19,s_sriniwas,s_sriniwas,0.35
+DATA,FQ2 '19,Analyst_7986085,Analyst_7986085,0.35
+DATA,FQ2 '19,quietsubmarine,quietsubmarine,0.35
+DATA,FQ2 '19,shendricks,Scott Hendricks,0.35
+DATA,FQ2 '19,Old_Mayor,Rob Ford,0.35
+DATA,FQ2 '19,Analyst_7921806,Analyst_7921806,0.35
+DATA,FQ2 '19,Oppenheimer_11,Ittai Kidron,0.33
+DATA,FQ2 '19,rama2050,Ram,0.33
+DATA,FQ2 '19,hyperionives,hyperionives,0.33
+DATA,FQ2 '19,maggieb,maggieb,0.33
+DATA,FQ2 '19,larrylai,larrylai,0.33
+DATA,FQ2 '19,AAFED,AAFED,0.33
+DATA,FQ2 '19,dalton,dalton,0.33
+DATA,FQ2 '19,Jefferies_30,John DiFucci,0.33
+DATA,FQ2 '19,mdainvest,mdainvest,0.33
+DATA,FQ2 '19,sunghoon,sunghoon,0.36
+DATA,FQ2 '19,Neil_Martin,Neil_Martin,0.32
+DATA,FQ2 '19,asuram54,asuram54,0.32
+DATA,FQ2 '19,Sentinel,Sentinel,0.32
+DATA,FQ2 '19,d_strizhi,d_strizhi,0.32
+DATA,FQ2 '19,R_C12R,Ron,0.32
+DATA,FQ2 '19,Analyst_656238,Analyst_656238,0.32
+DATA,FQ2 '19,Analyst_8626722,Analyst_8626722,0.32
+ASTE,FQ1 '19,QuantTrader007,Frederick Tremblay,0.76
+ASTE,FQ1 '19,AetCap,AetCap,0.8
+ASTE,FQ1 '19,BillB1210,Bill,0.85
+ASTE,FQ1 '19,savimiki,savimiki,0.86
+ASTE,FQ1 '19,Sentinel,Sentinel,0.91
+ASTE,FQ1 '19,Analyst_4544965,"Michael Shlisky, CFA",1.1
+ASTE,FQ2 '19,QuantTrader007,Frederick Tremblay,0.39
+ASTE,FQ2 '19,Sentinel,Sentinel,0.43
+ASTE,FQ2 '19,smiles18,Sean,0.45
+ASTE,FQ2 '19,BillB1210,Bill,0.46
+ASTE,FQ2 '19,Analyst_4544965,"Michael Shlisky, CFA",1.1
+ASTE,FQ3 '19,BillB1210,Bill,0.28
+ASTE,FQ3 '19,QuantTrader007,Frederick Tremblay,0.32
+ASTE,FQ3 '19,Sentinel,Sentinel,0.39
+ASTE,FQ3 '19,Analyst_4544965,"Michael Shlisky, CFA",0.58
+ASTE,FQ4 '19,Dem,Dem,0.43
+ASTE,FQ4 '19,BillB1210,Bill,0.5
+ASTE,FQ4 '19,QuantTrader007,Frederick Tremblay,0.53
+ASTE,FQ4 '19,outlierforgood,outlierforgood,0.53
+ASTE,FQ4 '19,Sentinel,Sentinel,0.54
+ASTE,FQ4 '19,Analyst_4544965,"Michael Shlisky, CFA",1.14
+WES,FQ1 '19,Trex_Securities,Trex_Securities,0.47
+WES,FQ1 '19,BillB1210,Bill,0.49
+WES,FQ1 '19,Sentinel,Sentinel,0.53
+WES,FQ2 '19,BillB1210,Bill,0.48
+WES,FQ2 '19,Sentinel,Sentinel,0.56
+WES,FQ3 '19,Medic2525,Medic2525,0.39
+WES,FQ3 '19,BillB1210,Bill,0.46
+WES,FQ3 '19,QuantTrader007,Frederick Tremblay,0.46
+WES,FQ3 '19,Sentinel,Sentinel,0.61
+WES,FQ4 '19,Sentinel,Sentinel,0.56
+WES,FQ4 '19,QuantTrader007,Frederick Tremblay,0.44
+WES,FQ4 '19,BillB1210,Bill,0.42
+APEI,FQ1 '19,Sentinel,Sentinel,0.31
+APEI,FQ1 '19,BillB1210,Bill,0.34
+APEI,FQ1 '19,QuantTrader007,Frederick Tremblay,0.34
+APEI,FQ2 '19,Sentinel,Sentinel,0.3
+APEI,FQ2 '19,BillB1210,Bill,0.31
+APEI,FQ2 '19,QuantTrader007,Frederick Tremblay,0.31
+APEI,FQ3 '19,BillB1210,Bill,0.03
+APEI,FQ3 '19,Proximilar,Proximilar AI,0.02
+APEI,FQ3 '19,QuantTrader007,Frederick Tremblay,0.01
+APEI,FQ3 '19,Sentinel,Sentinel,0.32
+APEI,FQ4 '19,Sentinel,Sentinel,0.38
+APEI,FQ4 '19,BillB1210,Bill,0.4
+APEI,FQ4 '19,QuantTrader007,Frederick Tremblay,0.4
+AZN,FQ1 '19,Mehrwert,Mehrwert,0.8
+AZN,FQ1 '19,BillB1210,Bill,0.61
+AZN,FQ1 '19,Binnz,Binnz,0.58
+AZN,FQ1 '19,AetCap,AetCap,0.48
+AZN,FQ1 '19,QuantTrader007,Frederick Tremblay,0.47
+AZN,FQ1 '19,Analyst_3998229,Analyst_3998229,0.43
+AZN,FQ1 '19,Analyst_6414753,Analyst_6414753,0.43
+AZN,FQ1 '19,Analyst_4837125,Analyst_4837125,0.43
+AZN,FQ1 '19,Sentinel,Sentinel,0.42
+AZN,FQ1 '19,TheSquareMile,Square Mile,0.4
+AZN,FQ1 '19,smiles18,Sean,0.39
+AZN,FQ2 '19,Mehrwert,Mehrwert,0.75
+AZN,FQ2 '19,MarcTorra,MarcTorra,0.6
+AZN,FQ2 '19,QuantTrader007,Frederick Tremblay,0.6
+AZN,FQ2 '19,BillB1210,Bill,0.44
+AZN,FQ2 '19,ShaunO,ShaunO,0.37
+AZN,FQ2 '19,Sentinel,Sentinel,0.31
+AZN,FQ3 '19,BillB1210,Bill,0.63
+AZN,FQ3 '19,QuantTrader007,Frederick Tremblay,0.52
+AZN,FQ3 '19,iid_investor,iid_investor,0.5
+AZN,FQ3 '19,Sentinel,Sentinel,0.46
+AZN,FQ4 '19,Medic2525,Medic2525,0.86
+AZN,FQ4 '19,BillB1210,Bill,0.72
+AZN,FQ4 '19,QuantTrader007,Frederick Tremblay,0.65
+AZN,FQ4 '19,ggeorgiev,ggeorgiev,0.6
+AZN,FQ4 '19,kerryburrell,kerry burrell,0.54
+AZN,FQ4 '19,Analyst_5771037,Analyst_5771037,0.54
+AZN,FQ4 '19,bsirirat,Bob S.,0.53
+AZN,FQ4 '19,Sentinel,Sentinel,0.47
+XLNX,FQ1 '19,CHASE03670,Chase Mallia,0.75
+XLNX,FQ1 '19,BillB1210,Bill,0.75
+XLNX,FQ1 '19,PCLA,PCLA,0.75
+XLNX,FQ1 '19,QuantTrader007,Frederick Tremblay,0.75
+XLNX,FQ1 '19,Analyst_6577656,Analyst_6577656,0.75
+XLNX,FQ1 '19,Analyst_879688,Analyst_879688,0.74
+XLNX,FQ1 '19,Jefferies_6,Mark Lipacis,0.74
+XLNX,FQ1 '19,Suntrust_13,William Stein,0.74
+XLNX,FQ1 '19,Prahem,Prahem,0.74
+XLNX,FQ1 '19,permutant,permutant,0.74
+XLNX,FQ1 '19,AllTheRiteMoves,Adam Sullivan,0.76
+XLNX,FQ1 '19,Showkz99,David Shoko,0.74
+XLNX,FQ1 '19,Kalos,Giuseppe Calì,0.76
+XLNX,FQ1 '19,bsirirat,Bob S.,0.73
+XLNX,FQ1 '19,Analyst_7845614,Analyst_7845614,0.73
+XLNX,FQ1 '19,Analyst_4782037,Analyst_4782037,0.73
+XLNX,FQ1 '19,AetCap,AetCap,0.77
+XLNX,FQ1 '19,rbrandx,robert brand,0.77
+XLNX,FQ1 '19,coffeepster,coffeepster,0.77
+XLNX,FQ1 '19,Analyst_2291916,Analyst_2291916,0.77
+XLNX,FQ1 '19,BirdT,BirdT,0.73
+XLNX,FQ1 '19,Malette,Malette,0.77
+XLNX,FQ1 '19,cap24,cap24,0.72
+XLNX,FQ1 '19,Hoysala,Hoysala,0.72
+XLNX,FQ1 '19,GregTripple,GregTripple,0.72
+XLNX,FQ1 '19,rama2050,Ram,0.78
+XLNX,FQ1 '19,upandtotheright,Tom Telford,0.78
+XLNX,FQ1 '19,NCIA,Mark Connollly,0.78
+XLNX,FQ1 '19,Spekoliunas,Zilvinas Speteliunas,0.78
+XLNX,FQ2 '19,Analyst_6625034,Analyst_6625034,0.83
+XLNX,FQ2 '19,Analyst_9922336,Analyst_9922336,0.8
+XLNX,FQ2 '19,theoriginalkim,theoriginalkim,0.79
+XLNX,FQ2 '19,NCIA,Mark Connollly,0.79
+XLNX,FQ2 '19,AetCap,AetCap,0.78
+XLNX,FQ2 '19,KoolerAid,KoolerAid,0.77
+XLNX,FQ2 '19,Analyst_6400189,Analyst_6400189,0.77
+XLNX,FQ2 '19,upandtotheright,Tom Telford,0.77
+XLNX,FQ2 '19,QuantTrader007,Frederick Tremblay,0.77
+XLNX,FQ2 '19,Megaannum,Philip Mascherino,0.77
+XLNX,FQ2 '19,Wx_Torn,Wx_Torn,0.77
+XLNX,FQ2 '19,andluger,andluger,0.77
+XLNX,FQ2 '19,RecepOzgun,RecepOzgun,0.76
+XLNX,FQ2 '19,Analyst_2291916,Analyst_2291916,0.76
+XLNX,FQ2 '19,PCLA,PCLA,0.76
+XLNX,FQ2 '19,rama2050,Ram,0.76
+XLNX,FQ2 '19,Mehrwert,Mehrwert,0.76
+XLNX,FQ2 '19,BillB1210,Bill,0.76
+XLNX,FQ2 '19,Gdonaldson,Gdonaldson,0.76
+XLNX,FQ2 '19,Spekoliunas,Zilvinas Speteliunas,0.76
+XLNX,FQ2 '19,coffeepster,coffeepster,0.76
+XLNX,FQ2 '19,Suntrust_13,William Stein,0.75
+XLNX,FQ2 '19,Jefferies_6,Mark Lipacis,0.75
+XLNX,FQ2 '19,bsirirat,Bob S.,0.75
+XLNX,FQ2 '19,Needham_4,N. Quinn Bolton,0.75
+XLNX,FQ2 '19,Analyst_4782037,Analyst_4782037,0.75
+XLNX,FQ2 '19,Analyst_879688,Analyst_879688,0.74
+XLNX,FQ2 '19,GregTripple,GregTripple,0.72
+XLNX,FQ3 '19,Mehrwert,Mehrwert,0.92
+XLNX,FQ3 '19,Analyst_9529251,Analyst_9529251,0.93
+XLNX,FQ3 '19,AlphaAnalyst,AlphaAnalyst,0.93
+XLNX,FQ3 '19,theoriginalkim,theoriginalkim,0.94
+XLNX,FQ3 '19,MikeBrew,MikeBrew,0.9
+XLNX,FQ3 '19,Megaannum,Philip Mascherino,0.9
+XLNX,FQ3 '19,Wx_Torn,Wx_Torn,0.9
+XLNX,FQ3 '19,upandtotheright,Tom Telford,0.9
+XLNX,FQ3 '19,Kalos,Giuseppe Calì,0.9
+XLNX,FQ3 '19,Analyst_9303067,Analyst_9303067,0.89
+XLNX,FQ3 '19,BillB1210,Bill,0.89
+XLNX,FQ3 '19,AetCap,AetCap,0.89
+XLNX,FQ3 '19,Analyst_5834275,Analyst_5834275,0.89
+XLNX,FQ3 '19,Bill_Maurer,Bill_Maurer,0.89
+XLNX,FQ3 '19,RecepOzgun,RecepOzgun,0.88
+XLNX,FQ3 '19,Analyst_6400189,Analyst_6400189,0.88
+XLNX,FQ3 '19,rbrandx,robert brand,0.88
+XLNX,FQ3 '19,Fer_Aldana,Fernando Aldana,0.88
+XLNX,FQ3 '19,NCIA,Mark Connollly,0.88
+XLNX,FQ3 '19,savimiki,savimiki,0.88
+XLNX,FQ3 '19,Analyst_828799,Analyst_828799,0.88
+XLNX,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.88
+XLNX,FQ3 '19,PCLA,PCLA,0.87
+XLNX,FQ3 '19,coffeepster,coffeepster,0.87
+XLNX,FQ3 '19,Analyst_6356544,Analyst_6356544,0.87
+XLNX,FQ3 '19,androsForm,androsForm,0.87
+XLNX,FQ3 '19,EddieQ,EddieQ,0.86
+XLNX,FQ3 '19,Analyst_2291916,Analyst_2291916,0.86
+XLNX,FQ3 '19,rama2050,Ram,0.86
+XLNX,FQ4 '19,Ruminative_fire,Ruminative_fire,0.94
+XLNX,FQ4 '19,Hoysala,Hoysala,0.94
+XLNX,FQ4 '19,bsirirat,Bob S.,0.94
+XLNX,FQ4 '19,stanleysuen,stanleysuen,0.94
+XLNX,FQ4 '19,Analyst_8202295,Analyst_8202295,0.94
+XLNX,FQ4 '19,Sentinel,Sentinel,0.95
+XLNX,FQ4 '19,coffeepster,coffeepster,0.95
+XLNX,FQ4 '19,MTS_Insights,Jacob Hess,0.95
+XLNX,FQ4 '19,Suntrust_13,William Stein,0.96
+XLNX,FQ4 '19,dsadhvani,dsadhvani,0.96
+XLNX,FQ4 '19,Mehrwert,Mehrwert,0.96
+XLNX,FQ4 '19,Analyst_1450657,Analyst_1450657,0.96
+XLNX,FQ4 '19,ramesh,ramesh,0.96
+XLNX,FQ4 '19,Analyst_1971239,Analyst_1971239,0.96
+XLNX,FQ4 '19,Analyst_7497946,Analyst_7497946,0.96
+XLNX,FQ4 '19,Needham_4,N. Quinn Bolton,0.91
+XLNX,FQ4 '19,Analyst_4442599,Analyst_4442599,0.97
+XLNX,FQ4 '19,BillB1210,Bill,0.97
+XLNX,FQ4 '19,Analyst_5099220,Analyst_5099220,0.97
+XLNX,FQ4 '19,GregTripple,GregTripple,0.97
+XLNX,FQ4 '19,PIH_70,PIH_70,0.97
+XLNX,FQ4 '19,Analyst_3536993,Analyst_3536993,0.97
+XLNX,FQ4 '19,KDRODU220,KDRODU220,0.97
+XLNX,FQ4 '19,PCLA,PCLA,0.98
+XLNX,FQ4 '19,SmartTrader,Avinash,0.98
+XLNX,FQ4 '19,rama2050,Ram,0.98
+XLNX,FQ4 '19,Analyst_9220482,Analyst_9220482,0.98
+XLNX,FQ4 '19,Analyst_6875073,Analyst_6875073,0.89
+XLNX,FQ4 '19,Analyst_5039344,Analyst_5039344,0.99
+HDSN,FQ1 '19,Analyst_8261925,Analyst_8261925,-0.09
+HDSN,FQ1 '19,BillB1210,Bill,-0.08
+HDSN,FQ1 '19,QuantTrader007,Frederick Tremblay,-0.08
+HDSN,FQ1 '19,Roth_8,Gerry Sweeney,-0.1
+HDSN,FQ1 '19,Sentinel,Sentinel,-0.04
+HDSN,FQ1 '19,Analyst_8748018,Analyst_8748018,0.05
+HDSN,FQ1 '19,N3RDCAK3,N3RDCAK3,-0.25
+HDSN,FQ2 '19,Roth_8,Gerry Sweeney,-0.01
+HDSN,FQ2 '19,knows_business,knows_business,0
+HDSN,FQ2 '19,N3RDCAK3,N3RDCAK3,0.02
+HDSN,FQ2 '19,Analyst_8748018,Analyst_8748018,0.02
+HDSN,FQ2 '19,Analyst_4557709,Analyst_4557709,0.02
+HDSN,FQ2 '19,Analyst_8261925,Analyst_8261925,0.04
+HDSN,FQ2 '19,BillB1210,Bill,0.05
+HDSN,FQ2 '19,QuantTrader007,Frederick Tremblay,0.05
+HDSN,FQ2 '19,bsirirat,Bob S.,0.06
+HDSN,FQ2 '19,Sentinel,Sentinel,0.07
+HDSN,FQ2 '19,Analyst_2821150,Analyst_2821150,0.07
+HDSN,FQ3 '19,knows_business,knows_business,-0.1
+HDSN,FQ3 '19,Proximilar,Proximilar AI,-0.07
+HDSN,FQ3 '19,Roth_8,Gerry Sweeney,-0.06
+HDSN,FQ3 '19,bsirirat,Bob S.,-0.06
+HDSN,FQ3 '19,BillB1210,Bill,-0.05
+HDSN,FQ3 '19,QuantTrader007,Frederick Tremblay,-0.04
+HDSN,FQ3 '19,Analyst_8748018,Analyst_8748018,-0.02
+HDSN,FQ3 '19,Medic2525,Medic2525,-0.02
+HDSN,FQ3 '19,Sentinel,Sentinel,0.07
+HDSN,FQ4 '19,BillB1210,Bill,-0.14
+HDSN,FQ4 '19,Roth_8,Gerry Sweeney,-0.13
+HDSN,FQ4 '19,knows_business,knows_business,-0.12
+HDSN,FQ4 '19,QuantTrader007,Frederick Tremblay,-0.12
+HDSN,FQ4 '19,Sentinel,Sentinel,-0.1
+PYPL,FQ1 '19,ssshh21,ssshh21,0.75
+PYPL,FQ1 '19,sak,George,0.74
+PYPL,FQ1 '19,Analyst_6848110,Analyst_6848110,0.73
+PYPL,FQ1 '19,Parmigianino,Marco Rossi,0.72
+PYPL,FQ1 '19,Themonster,Themonster,0.72
+PYPL,FQ1 '19,Analyst_7852383,Analyst_7852383,0.72
+PYPL,FQ1 '19,mikelicosati,mikelicosati,0.72
+PYPL,FQ1 '19,Bigorangedave,Bigorangedave,0.72
+PYPL,FQ1 '19,Analyst_9387580,Analyst_9387580,0.72
+PYPL,FQ1 '19,Analyst_6763211,Analyst_6763211,0.72
+PYPL,FQ1 '19,Analyst_8012283,Analyst_8012283,0.71
+PYPL,FQ1 '19,smiles18,Sean,0.71
+PYPL,FQ1 '19,Tappa69,Tappa69,0.71
+PYPL,FQ1 '19,Analyst_5650290,Analyst_5650290,0.71
+PYPL,FQ1 '19,Heybone,Heybone,0.71
+PYPL,FQ1 '19,wlp3rd,wlp3rd,0.71
+PYPL,FQ1 '19,Analyst_1224862,Analyst_1224862,0.71
+PYPL,FQ1 '19,BillB1210,Bill,0.71
+PYPL,FQ1 '19,larrylai,larrylai,0.71
+PYPL,FQ1 '19,Analyst_4523383,Analyst_4523383,0.71
+PYPL,FQ1 '19,euribe25,euribe25,0.71
+PYPL,FQ1 '19,TheSquareMile,Square Mile,0.71
+PYPL,FQ1 '19,AetCap,AetCap,0.71
+PYPL,FQ1 '19,Analyst_3519937,Analyst_3519937,0.71
+PYPL,FQ1 '19,Wx_Torn,Wx_Torn,0.71
+PYPL,FQ1 '19,PM,PM,0.71
+PYPL,FQ1 '19,Analyst_8134075,Analyst_8134075,0.71
+PYPL,FQ2 '19,Parmigianino,Marco Rossi,0.87
+PYPL,FQ2 '19,PavTrader,PavTrader,0.84
+PYPL,FQ2 '19,Analyst_5001822,Barron Nguyen,0.83
+PYPL,FQ2 '19,VincentLauria,VincentLauria,0.83
+PYPL,FQ2 '19,benkanter,benkanter,0.83
+PYPL,FQ2 '19,Analyst_anth,Anthony Lara,0.83
+PYPL,FQ2 '19,Tappa69,Tappa69,0.81
+PYPL,FQ2 '19,analyst_999,analyst_999,0.81
+PYPL,FQ2 '19,ShaunO,ShaunO,0.81
+PYPL,FQ2 '19,Ruben_Dominguez,Ruben Dominguez,0.81
+PYPL,FQ2 '19,lect,lect,0.8
+PYPL,FQ2 '19,mjjackson,Mark Jackson,0.8
+PYPL,FQ2 '19,ssshh21,ssshh21,0.8
+PYPL,FQ2 '19,ABalian,Aram Balian,0.8
+PYPL,FQ2 '19,Analyst_8082280,Analyst_8082280,0.8
+PYPL,FQ2 '19,Megaannum,Philip Mascherino,0.8
+PYPL,FQ2 '19,asuram54,asuram54,0.79
+PYPL,FQ2 '19,maggieb,maggieb,0.79
+PYPL,FQ2 '19,Mehrwert,Mehrwert,0.79
+PYPL,FQ2 '19,dbarkalov,dbarkalov,0.79
+PYPL,FQ2 '19,rama2050,Ram,0.79
+PYPL,FQ2 '19,Analyst_397314,Analyst_397314,0.79
+PYPL,FQ2 '19,Analyst_419690,Analyst_419690,0.79
+PYPL,FQ2 '19,PM,PM,0.79
+PYPL,FQ2 '19,Analyst_8720742,Analyst_8720742,0.79
+PYPL,FQ2 '19,WillMcC,WillMcC,0.79
+PYPL,FQ2 '19,LDrogen,Leigh Drogen,0.79
+PYPL,FQ2 '19,TylerAuggieD,Tyler Davis,0.79
+PYPL,FQ2 '19,Wx_Torn,Wx_Torn,0.79
+PYPL,FQ2 '19,Analyst_5005312,Analyst_5005312,0.78
+PYPL,FQ3 '19,oliversl,oliversl,0.76
+PYPL,FQ3 '19,larrylai,larrylai,0.76
+PYPL,FQ3 '19,racerguy22,racerguy22,0.76
+PYPL,FQ3 '19,mikelicosati,mikelicosati,0.76
+PYPL,FQ3 '19,Neil_Martin,Neil_Martin,0.76
+PYPL,FQ3 '19,Analyst_5338396,Analyst_5338396,0.76
+PYPL,FQ3 '19,Megaannum,Philip Mascherino,0.76
+PYPL,FQ3 '19,bsears2386,bsears2386,0.76
+PYPL,FQ3 '19,PlayfulFox,Ivone,0.77
+PYPL,FQ3 '19,Analyst_5039344,Analyst_5039344,0.77
+PYPL,FQ3 '19,Analyst_5752209,Analyst_5752209,0.75
+PYPL,FQ3 '19,BillB1210,Bill,0.75
+PYPL,FQ3 '19,Tappa69,Tappa69,0.75
+PYPL,FQ3 '19,ZTrade,Zach Mazzeo,0.75
+PYPL,FQ3 '19,Spekoliunas,Zilvinas Speteliunas,0.75
+PYPL,FQ3 '19,newhighscore,New High Score,0.77
+PYPL,FQ3 '19,Analyst_5374494,Analyst_5374494,0.75
+PYPL,FQ3 '19,Parmigianino,Marco Rossi,0.75
+PYPL,FQ3 '19,hyperionives,hyperionives,0.77
+PYPL,FQ3 '19,lect,lect,0.77
+PYPL,FQ3 '19,Analyst_2270270,Analyst_2270270,0.75
+PYPL,FQ3 '19,Analyst_8626722,Analyst_8626722,0.75
+PYPL,FQ3 '19,RWICK27,Richard Wickstrom,0.75
+PYPL,FQ3 '19,Analyst_730308,Analyst_730308,0.75
+PYPL,FQ3 '19,panda_w,panda_w,0.77
+PYPL,FQ3 '19,Analyst_5792699,Analyst_5792699,0.75
+PYPL,FQ3 '19,smiles18,Sean,0.74
+PYPL,FQ3 '19,Dominantstock,Dominantstock,0.74
+PYPL,FQ3 '19,sugarfysh,sugarfysh,0.74
+PYPL,FQ3 '19,Analyst_5650290,Analyst_5650290,0.74
+PYPL,FQ4 '19,smiles18,Sean,0.86
+PYPL,FQ4 '19,ABalian,Aram Balian,0.86
+PYPL,FQ4 '19,Nag,Nag,0.86
+PYPL,FQ4 '19,HB,HB,0.86
+PYPL,FQ4 '19,Szymon2000,Szymon2000,0.86
+PYPL,FQ4 '19,mikelicosati,mikelicosati,0.86
+PYPL,FQ4 '19,Analyst_1558912,Analyst_1558912,0.86
+PYPL,FQ4 '19,Analyst_9387580,Analyst_9387580,0.86
+PYPL,FQ4 '19,BillB1210,Bill,0.86
+PYPL,FQ4 '19,kerryburrell,kerry burrell,0.86
+PYPL,FQ4 '19,AAFED,AAFED,0.86
+PYPL,FQ4 '19,Analyst_9043987,Analyst_9043987,0.86
+PYPL,FQ4 '19,Medic2525,Medic2525,0.86
+PYPL,FQ4 '19,Analyst_6260064,Analyst_6260064,0.86
+PYPL,FQ4 '19,VPJS,VPJS,0.86
+PYPL,FQ4 '19,Analyst_641217,Analyst_641217,0.86
+PYPL,FQ4 '19,RWICK27,Richard Wickstrom,0.86
+PYPL,FQ4 '19,VMFrancis,VMFrancis,0.86
+PYPL,FQ4 '19,PlayfulFox,Ivone,0.85
+PYPL,FQ4 '19,Dominantstock,Dominantstock,0.85
+PYPL,FQ4 '19,Analyst_6848110,Analyst_6848110,0.87
+PYPL,FQ4 '19,yoohoohoo,yoohoohoo,0.85
+PYPL,FQ4 '19,Analyst_7623901,Analyst_7623901,0.85
+PYPL,FQ4 '19,greenbananas,greenbananas,0.87
+PYPL,FQ4 '19,Tappa69,Tappa69,0.85
+PYPL,FQ4 '19,Analyst_3133203,Analyst_3133203,0.85
+PYPL,FQ4 '19,Armour65,Armour65,0.87
+PYPL,FQ4 '19,b1peterson,b1peterson,0.85
+PYPL,FQ4 '19,upandtotheright,Tom Telford,0.85
+PYPL,FQ4 '19,Analyst_3827228,Analyst_3827228,0.87
+IDA,FQ1 '19,BillB1210,Bill,0.5
+IDA,FQ2 '19,BillB1210,Bill,1.25
+IDA,FQ3 '19,QuantTrader007,Frederick Tremblay,1.89
+IDA,FQ3 '19,BillB1210,Bill,1.86
+IDA,FQ4 '19,QuantTrader007,Frederick Tremblay,0.79
+IDA,FQ4 '19,BillB1210,Bill,0.54
+ZGNX,FQ1 '19,QuantTrader007,Frederick Tremblay,-0.83
+ZGNX,FQ1 '19,Sentinel,Sentinel,-0.84
+ZGNX,FQ1 '19,BillB1210,Bill,-0.84
+ZGNX,FQ1 '19,Mehrwert,Mehrwert,-0.8
+ZGNX,FQ2 '19,Sentinel,Sentinel,-0.9
+ZGNX,FQ2 '19,QuantTrader007,Frederick Tremblay,-0.84
+ZGNX,FQ2 '19,BillB1210,Bill,-0.81
+ZGNX,FQ3 '19,Needham_23,Serge Belanger,-0.94
+ZGNX,FQ3 '19,Medic2525,Medic2525,-0.97
+ZGNX,FQ3 '19,Sentinel,Sentinel,-0.99
+ZGNX,FQ3 '19,BillB1210,Bill,-1.03
+ZGNX,FQ3 '19,QuantTrader007,Frederick Tremblay,-1.03
+ZGNX,FQ3 '19,Proximilar,Proximilar AI,-1.05
+ZGNX,FQ4 '19,Sentinel,Sentinel,-1.04
+ZGNX,FQ4 '19,QuantTrader007,Frederick Tremblay,-1.02
+ZGNX,FQ4 '19,BillB1210,Bill,-1.01
+ZGNX,FQ4 '19,Needham_23,Serge Belanger,-0.98
+TLYS,FQ1 '19,Roth_5,"Dave King, CFA",0.02
+TLYS,FQ1 '19,Sentinel,Sentinel,0.02
+TLYS,FQ1 '19,Madmoni,Madmoni,0.02
+TLYS,FQ1 '19,Medic2525,Medic2525,0.02
+TLYS,FQ1 '19,MTS_Insights,Jacob Hess,0.02
+TLYS,FQ1 '19,Analyst_5840956,Analyst_5840956,0.02
+TLYS,FQ1 '19,BillB1210,Bill,0.03
+TLYS,FQ1 '19,QuantTrader007,Frederick Tremblay,0.01
+TLYS,FQ1 '19,VanderVan15,VanderVan15,0.04
+TLYS,FQ1 '19,bdarbe11,bdarbe11,0.04
+TLYS,FQ2 '19,Sentinel,Sentinel,0.21
+TLYS,FQ2 '19,BillB1210,Bill,0.21
+TLYS,FQ2 '19,R_C12R,Ron,0.21
+TLYS,FQ2 '19,QuantTrader007,Frederick Tremblay,0.21
+TLYS,FQ2 '19,Roth_5,"Dave King, CFA",0.2
+TLYS,FQ2 '19,Analyst_5840956,Analyst_5840956,0.2
+TLYS,FQ2 '19,bsirirat,Bob S.,0.2
+TLYS,FQ3 '19,Proximilar,Proximilar AI,0.23
+TLYS,FQ3 '19,Sentinel,Sentinel,0.22
+TLYS,FQ3 '19,Analyst_umbi,Analyst_umbi,0.22
+TLYS,FQ3 '19,BillB1210,Bill,0.22
+TLYS,FQ3 '19,QuantTrader007,Frederick Tremblay,0.22
+TLYS,FQ3 '19,Analyst_1622638,Analyst_1622638,0.25
+TLYS,FQ3 '19,bsirirat,Bob S.,0.21
+TLYS,FQ3 '19,Roth_5,"Dave King, CFA",0.2
+TLYS,FQ3 '19,R_C12R,Ron,0.2
+TLYS,FQ3 '19,MartyLarty,Marty Lardy,0.19
+TLYS,FQ4 '19,R_C12R,Ron,0.21
+TLYS,FQ4 '19,BillB1210,Bill,0.22
+TLYS,FQ4 '19,Roth_5,"Dave King, CFA",0.19
+TLYS,FQ4 '19,Sentinel,Sentinel,0.19
+TLYS,FQ4 '19,SS_GQS,SS_GQS,0.15
+TLYS,FQ4 '19,QuantTrader007,Frederick Tremblay,0.31
+WTRG,FQ1 '19,AC831231,AC831231,0.3
+WTRG,FQ1 '19,Sentinel,Sentinel,0.3
+WTRG,FQ1 '19,BillB1210,Bill,0.3
+WTRG,FQ1 '19,QuantTrader007,Frederick Tremblay,0.3
+WTRG,FQ1 '19,JackOloughlin,Jack,0.26
+WTRG,FQ2 '19,AC831231,AC831231,0.39
+WTRG,FQ2 '19,NR802552,NR802552,0.39
+WTRG,FQ2 '19,Sentinel,Sentinel,0.4
+WTRG,FQ2 '19,BillB1210,Bill,0.4
+WTRG,FQ2 '19,QuantTrader007,Frederick Tremblay,0.4
+WTRG,FQ2 '19,GregTripple,GregTripple,0.4
+WTRG,FQ3 '19,AC831231,AC831231,0.48
+WTRG,FQ3 '19,NR802552,NR802552,0.48
+WTRG,FQ3 '19,GregTripple,GregTripple,0.47
+WTRG,FQ3 '19,Sentinel,Sentinel,0.49
+WTRG,FQ3 '19,Analyst_322563,Analyst_322563,0.44
+WTRG,FQ3 '19,QuantTrader007,Frederick Tremblay,0.44
+WTRG,FQ3 '19,Proximilar,Proximilar AI,0.43
+WTRG,FQ3 '19,BillB1210,Bill,0.42
+WTRG,FQ3 '19,Medic2525,Medic2525,0.42
+WTRG,FQ4 '19,AC831231,AC831231,0.34
+WTRG,FQ4 '19,NR802552,NR802552,0.34
+WTRG,FQ4 '19,GregTripple,GregTripple,0.33
+WTRG,FQ4 '19,QuantTrader007,Frederick Tremblay,0.32
+WTRG,FQ4 '19,BillB1210,Bill,0.32
+WTRG,FQ4 '19,Sentinel,Sentinel,0.31
+AEP,FQ1 '19,Suntrust_2,Ali Agha,1.15
+AEP,FQ1 '19,BillB1210,Bill,1.11
+AEP,FQ1 '19,AetCap,AetCap,1.11
+AEP,FQ1 '19,PJH,PJH,1.1
+AEP,FQ1 '19,MarkyMark15,MarkyMark15,1.06
+AEP,FQ1 '19,QuantTrader007,Frederick Tremblay,1.05
+AEP,FQ1 '19,Analyst_7125667,Analyst_7125667,1.03
+AEP,FQ1 '19,Sentinel,Sentinel,1.03
+AEP,FQ2 '19,babhatti,babhatti,1
+AEP,FQ2 '19,Analyst_4055402,Analyst_4055402,1
+AEP,FQ2 '19,Suntrust_2,Ali Agha,1
+AEP,FQ2 '19,BillB1210,Bill,1
+AEP,FQ2 '19,PJH,PJH,1.01
+AEP,FQ2 '19,Sentinel,Sentinel,0.99
+AEP,FQ2 '19,ShaunO,ShaunO,0.99
+AEP,FQ2 '19,QuantTrader007,Frederick Tremblay,1.03
+AEP,FQ3 '19,Suntrust_2,Ali Agha,1.46
+AEP,FQ3 '19,QuantTrader007,Frederick Tremblay,1.3
+AEP,FQ3 '19,BillB1210,Bill,1.26
+AEP,FQ3 '19,babhatti,babhatti,1.22
+AEP,FQ3 '19,Sentinel,Sentinel,1.22
+AEP,FQ3 '19,PJH,PJH,1.2
+AEP,FQ4 '19,QuantTrader007,Frederick Tremblay,0.61
+AEP,FQ4 '19,Suntrust_2,Ali Agha,0.59
+AEP,FQ4 '19,BillB1210,Bill,0.62
+AEP,FQ4 '19,Proximilar,Proximilar AI,0.62
+AEP,FQ4 '19,Sentinel,Sentinel,0.64
+AEP,FQ4 '19,babhatti,babhatti,0.75
+AEP,FQ4 '19,PJH,PJH,0.83
+CORT,FQ1 '19,Cantor_20,"Charles C. Duncan, Ph.D.",0.2
+CORT,FQ1 '19,MTS_Insights,Jacob Hess,0.2
+CORT,FQ1 '19,Fincrease,Fincrease,0.21
+CORT,FQ1 '19,Sentinel,Sentinel,0.22
+CORT,FQ1 '19,QuantTrader007,Frederick Tremblay,0.18
+CORT,FQ1 '19,bsirirat,Bob S.,0.18
+CORT,FQ1 '19,BillB1210,Bill,0.25
+CORT,FQ1 '19,Mehrwert,Mehrwert,0.26
+CORT,FQ1 '19,Analyst_8962719,Analyst_8962719,0.28
+CORT,FQ1 '19,Dominantstock,Dominantstock,0.34
+CORT,FQ1 '19,rpajam,rpajam,0.35
+CORT,FQ1 '19,Analyst_897201,Analyst_897201,0.48
+CORT,FQ2 '19,Cantor_20,"Charles C. Duncan, Ph.D.",0.19
+CORT,FQ2 '19,Sentinel,Sentinel,0.19
+CORT,FQ2 '19,BillB1210,Bill,0.19
+CORT,FQ2 '19,Fincrease,Fincrease,0.19
+CORT,FQ2 '19,QuantTrader007,Frederick Tremblay,0.19
+CORT,FQ2 '19,rpajam,rpajam,0.37
+CORT,FQ2 '19,Dominantstock,Dominantstock,0.39
+CORT,FQ3 '19,Medic2525,Medic2525,0.26
+CORT,FQ3 '19,Cantor_20,"Charles C. Duncan, Ph.D.",0.25
+CORT,FQ3 '19,rpajam,rpajam,0.37
+CORT,FQ3 '19,Sentinel,Sentinel,0.22
+CORT,FQ3 '19,Fincrease,Fincrease,0.21
+CORT,FQ3 '19,BillB1210,Bill,0.21
+CORT,FQ3 '19,QuantTrader007,Frederick Tremblay,0.2
+CORT,FQ3 '19,bsirirat,Bob S.,0.19
+CORT,FQ3 '19,Proximilar,Proximilar AI,0.19
+CORT,FQ3 '19,Analyst_7468729,Analyst_7468729,0.17
+CORT,FQ3 '19,Dominantstock,Dominantstock,0.45
+CORT,FQ4 '19,BillB1210,Bill,0.26
+CORT,FQ4 '19,QuantTrader007,Frederick Tremblay,0.27
+CORT,FQ4 '19,Fincrease,Fincrease,0.25
+CORT,FQ4 '19,Dem,Dem,0.24
+CORT,FQ4 '19,Analyst_2855865,Analyst_2855865,0.26
+CORT,FQ4 '19,Cantor_20,"Charles C. Duncan, Ph.D.",0.33
+CORT,FQ4 '19,Sentinel,Sentinel,0.25
+CORT,FQ4 '19,Analyst_7468729,Analyst_7468729,0.19
+CORT,FQ4 '19,rpajam,rpajam,0.25
+CORT,FQ4 '19,Dominantstock,Dominantstock,0.27
+KO,FQ1 '19,StocksandSocks,StocksandSocks,0.48
+KO,FQ1 '19,Analyst_9220129,Analyst_9220129,0.48
+KO,FQ1 '19,Wyvern_23,Wyvern_23,0.48
+KO,FQ1 '19,Analyst_9150565,Analyst_9150565,0.48
+KO,FQ1 '19,Cyrill_Keller,Cyrill_Keller,0.48
+KO,FQ1 '19,hyperionives,hyperionives,0.48
+KO,FQ1 '19,shendricks,Scott Hendricks,0.48
+KO,FQ1 '19,Analyst_1224862,Analyst_1224862,0.48
+KO,FQ1 '19,BillB1210,Bill,0.48
+KO,FQ1 '19,serp,serp,0.48
+KO,FQ1 '19,Analyst_9387580,Analyst_9387580,0.48
+KO,FQ1 '19,SirMarkets,Michael Bertogli,0.48
+KO,FQ1 '19,AAFED,AAFED,0.48
+KO,FQ1 '19,MTS_Insights,Jacob Hess,0.48
+KO,FQ1 '19,AetCap,AetCap,0.48
+KO,FQ1 '19,SM_Georg,SM_Georg,0.48
+KO,FQ1 '19,Wx_Torn,Wx_Torn,0.48
+KO,FQ1 '19,androsForm,androsForm,0.48
+KO,FQ1 '19,PM,PM,0.48
+KO,FQ1 '19,savimiki,savimiki,0.48
+KO,FQ1 '19,Analyst_8202295,Analyst_8202295,0.48
+KO,FQ1 '19,NJS170130,Nick,0.49
+KO,FQ1 '19,hxg121130,hxg121130,0.47
+KO,FQ1 '19,aaaa7777,aaaa7777,0.49
+KO,FQ1 '19,Suntrust_10,"William Chappell, Jr.",0.47
+KO,FQ1 '19,aja051000,aja051000,0.47
+KO,FQ1 '19,Sentinel,Sentinel,0.47
+KO,FQ1 '19,Mehrwert,Mehrwert,0.49
+KO,FQ1 '19,dulette5,dulette5,0.47
+KO,FQ1 '19,shawncooney,Shawn P. Cooney,0.49
+KO,FQ2 '19,newsdesk,newsdesk,0.63
+KO,FQ2 '19,UcanQuote_me,UcanQuote_me,0.63
+KO,FQ2 '19,Analyst_4020535,Analyst_4020535,0.63
+KO,FQ2 '19,Neil_Martin,Neil_Martin,0.63
+KO,FQ2 '19,shawncooney,Shawn P. Cooney,0.63
+KO,FQ2 '19,larrylai,larrylai,0.63
+KO,FQ2 '19,Mehrwert,Mehrwert,0.63
+KO,FQ2 '19,Helsou,Helsou,0.63
+KO,FQ2 '19,Analyst_8480453,Analyst_8480453,0.63
+KO,FQ2 '19,rama2050,Ram,0.63
+KO,FQ2 '19,Analyst_5795851,Analyst_5795851,0.63
+KO,FQ2 '19,BillB1210,Bill,0.63
+KO,FQ2 '19,maggieb,maggieb,0.63
+KO,FQ2 '19,kerryburrell,kerry burrell,0.63
+KO,FQ2 '19,Sentinel,Sentinel,0.63
+KO,FQ2 '19,Analyst_8626722,Analyst_8626722,0.63
+KO,FQ2 '19,Analyst_193763,Analyst_193763,0.63
+KO,FQ2 '19,JABOM_AM,JABOM_AM,0.63
+KO,FQ2 '19,Fincrease,Fincrease,0.63
+KO,FQ2 '19,dalton,dalton,0.63
+KO,FQ2 '19,Analyst_9676000,Analyst_9676000,0.63
+KO,FQ2 '19,TylerAuggieD,Tyler Davis,0.63
+KO,FQ2 '19,SM_Georg,SM_Georg,0.63
+KO,FQ2 '19,Analyst_5533015,Analyst_5533015,0.63
+KO,FQ2 '19,Analyst_2278908,Analyst_2278908,0.63
+KO,FQ2 '19,theoldcurrency,theoldcurrency,0.63
+KO,FQ2 '19,NJS170130,Nick,0.64
+KO,FQ2 '19,Yuekang_Yang,Yuekang_Yang,0.62
+KO,FQ2 '19,hxg121130,hxg121130,0.64
+KO,FQ2 '19,PJH,PJH,0.64
+KO,FQ3 '19,Yuekang_Yang,Yuekang_Yang,0.56
+KO,FQ3 '19,Analyst_7906962,Analyst_7906962,0.56
+KO,FQ3 '19,Jefferies_5,"Kevin Grundy, CPA",0.56
+KO,FQ3 '19,Suntrust_10,"William Chappell, Jr.",0.56
+KO,FQ3 '19,Analyst_6414753,Analyst_6414753,0.56
+KO,FQ3 '19,JBBOEVE,JBBOEVE,0.56
+KO,FQ3 '19,bsirirat,Bob S.,0.56
+KO,FQ3 '19,JoeyBonez,JoeyBonez,0.56
+KO,FQ3 '19,Analyst_5727836,Analyst_5727836,0.57
+KO,FQ3 '19,Analyst_7513134,Analyst_7513134,0.57
+KO,FQ3 '19,Analyst_9387580,Analyst_9387580,0.57
+KO,FQ3 '19,JABOM_AM,JABOM_AM,0.57
+KO,FQ3 '19,Fincrease,Fincrease,0.57
+KO,FQ3 '19,BillB1210,Bill,0.57
+KO,FQ3 '19,maggieb,maggieb,0.57
+KO,FQ3 '19,kerryburrell,kerry burrell,0.57
+KO,FQ3 '19,Analyst_5795851,Analyst_5795851,0.57
+KO,FQ3 '19,Analyst_2278908,Analyst_2278908,0.57
+KO,FQ3 '19,rama2050,Ram,0.57
+KO,FQ3 '19,Megaannum,Philip Mascherino,0.57
+KO,FQ3 '19,R_C12R,Ron,0.57
+KO,FQ3 '19,Analyst_8075381,Analyst_8075381,0.57
+KO,FQ3 '19,Analyst_8740811,Analyst_8740811,0.57
+KO,FQ3 '19,Analyst_1593660,Analyst_1593660,0.57
+KO,FQ3 '19,SS_GQS,SS_GQS,0.57
+KO,FQ3 '19,VincentAnselmi,Vincent Anselmi,0.57
+KO,FQ3 '19,Medic2525,Medic2525,0.57
+KO,FQ3 '19,QuantTrader007,Frederick Tremblay,0.57
+KO,FQ3 '19,theoldcurrency,theoldcurrency,0.57
+KO,FQ3 '19,coffeepster,coffeepster,0.57
+KO,FQ4 '19,UcanQuote_me,UcanQuote_me,0.44
+KO,FQ4 '19,PJH,PJH,0.44
+KO,FQ4 '19,Alb3rt1,Alb3rt1,0.44
+KO,FQ4 '19,Analyst_5882975,Analyst_5882975,0.44
+KO,FQ4 '19,Sentinel,Sentinel,0.44
+KO,FQ4 '19,shawncooney,Shawn P. Cooney,0.44
+KO,FQ4 '19,Spekoliunas,Zilvinas Speteliunas,0.44
+KO,FQ4 '19,Analyst_9387580,Analyst_9387580,0.44
+KO,FQ4 '19,maggieb,maggieb,0.44
+KO,FQ4 '19,BillB1210,Bill,0.44
+KO,FQ4 '19,ZTrade,Zach Mazzeo,0.44
+KO,FQ4 '19,AAFED,AAFED,0.44
+KO,FQ4 '19,Nils1975,Nils1975,0.44
+KO,FQ4 '19,larrylai,larrylai,0.44
+KO,FQ4 '19,rama2050,Ram,0.44
+KO,FQ4 '19,jfffrmm,jfffrmm,0.44
+KO,FQ4 '19,Analyst_656238,Analyst_656238,0.44
+KO,FQ4 '19,Analyst_2278908,Analyst_2278908,0.44
+KO,FQ4 '19,Megaannum,Philip Mascherino,0.44
+KO,FQ4 '19,kerryburrell,kerry burrell,0.44
+KO,FQ4 '19,Old_Mayor,Rob Ford,0.44
+KO,FQ4 '19,JABOM_AM,JABOM_AM,0.44
+KO,FQ4 '19,lect,lect,0.44
+KO,FQ4 '19,Analyst_5113423,Analyst_5113423,0.44
+KO,FQ4 '19,Drogness,Drogness,0.44
+KO,FQ4 '19,Proximilar,Proximilar AI,0.44
+KO,FQ4 '19,Analyst_9676000,Analyst_9676000,0.44
+KO,FQ4 '19,dalton,dalton,0.44
+KO,FQ4 '19,New_Moon,New_Moon,0.44
+KO,FQ4 '19,SM_Georg,SM_Georg,0.44
+KSU,FQ1 '19,bsirirat,Bob S.,1.53
+KSU,FQ1 '19,AetCap,AetCap,1.51
+KSU,FQ1 '19,Sentinel,Sentinel,1.5
+KSU,FQ1 '19,Wx_Torn,Wx_Torn,1.5
+KSU,FQ1 '19,Gdonaldson,Gdonaldson,1.49
+KSU,FQ1 '19,BillB1210,Bill,1.48
+KSU,FQ1 '19,MTS_Insights,Jacob Hess,1.47
+KSU,FQ1 '19,MorgaTron,MorgaTron,1.46
+KSU,FQ1 '19,smiles18,Sean,1.62
+KSU,FQ1 '19,QuantTrader007,Frederick Tremblay,1.46
+KSU,FQ1 '19,GHS_5,Mark Levin,1.45
+KSU,FQ2 '19,GHS_5,Mark Levin,1.64
+KSU,FQ2 '19,kerryburrell,kerry burrell,1.64
+KSU,FQ2 '19,QuantTrader007,Frederick Tremblay,1.63
+KSU,FQ2 '19,BillB1210,Bill,1.62
+KSU,FQ2 '19,Analyst_908965,Analyst_908965,1.62
+KSU,FQ2 '19,JBBOEVE,JBBOEVE,1.6
+KSU,FQ2 '19,Jagator904,Jagator904,1.6
+KSU,FQ2 '19,Wx_Torn,Wx_Torn,1.68
+KSU,FQ2 '19,ShaunO,ShaunO,1.59
+KSU,FQ2 '19,Medic2525,Medic2525,1.57
+KSU,FQ2 '19,Sentinel,Sentinel,1.73
+KSU,FQ3 '19,bsears2386,bsears2386,1.81
+KSU,FQ3 '19,Medic2525,Medic2525,1.81
+KSU,FQ3 '19,BillB1210,Bill,1.8
+KSU,FQ3 '19,GHS_5,Mark Levin,1.79
+KSU,FQ3 '19,kerryburrell,kerry burrell,1.79
+KSU,FQ3 '19,savimiki,savimiki,1.79
+KSU,FQ3 '19,Analyst_908965,Analyst_908965,1.78
+KSU,FQ3 '19,R_C12R,Ron,1.78
+KSU,FQ3 '19,QuantTrader007,Frederick Tremblay,1.78
+KSU,FQ3 '19,Sentinel,Sentinel,1.77
+KSU,FQ3 '19,JBBOEVE,JBBOEVE,1.77
+KSU,FQ3 '19,bsirirat,Bob S.,1.77
+KSU,FQ4 '19,bsirirat,Bob S.,1.83
+KSU,FQ4 '19,Sentinel,Sentinel,1.84
+KSU,FQ4 '19,Analyst_4454048,Analyst_4454048,1.84
+KSU,FQ4 '19,BillB1210,Bill,1.85
+KSU,FQ4 '19,Analyst_umbi,Analyst_umbi,1.85
+KSU,FQ4 '19,kerryburrell,kerry burrell,1.85
+KSU,FQ4 '19,GHS_5,Mark Levin,1.78
+KSU,FQ4 '19,rama2050,Ram,1.86
+KSU,FQ4 '19,rsreina,rsreina,1.86
+KSU,FQ4 '19,MSS_3Q19,MSS_3Q19,1.86
+KSU,FQ4 '19,QuantTrader007,Frederick Tremblay,1.87
+KSU,FQ4 '19,R_C12R,Ron,1.88
+KSU,FQ4 '19,SmitandCo,SmitandCo,1.88
+KSU,FQ4 '19,Analyst_5727836,Analyst_5727836,1.9
+KSU,FQ4 '19,Proximilar,Proximilar AI,1.91
+KSU,FQ4 '19,jean_acciari,jean_acciari,1.95
+MTG,FQ1 '19,Analyst_5522138,Analyst_5522138,0.42
+MTG,FQ1 '19,Analyst_8030355,Analyst_8030355,0.42
+MTG,FQ1 '19,savimiki,savimiki,0.42
+MTG,FQ1 '19,Traders88,Traders88,0.41
+MTG,FQ1 '19,QuantTrader007,Frederick Tremblay,0.41
+MTG,FQ1 '19,Analyst_8442101,Analyst_8442101,0.4
+MTG,FQ1 '19,StockTurkey,StockTurkey,0.4
+MTG,FQ1 '19,BillB1210,Bill,0.39
+MTG,FQ1 '19,MatthewJH,MatthewJH,0.39
+MTG,FQ1 '19,AetCap,AetCap,0.38
+MTG,FQ1 '19,Sentinel,Sentinel,0.37
+MTG,FQ1 '19,omni,omni,0.37
+MTG,FQ1 '19,Analyst_6782465,Analyst_6782465,0.36
+MTG,FQ2 '19,QuantTrader007,Frederick Tremblay,0.45
+MTG,FQ2 '19,Analyst_5522138,Analyst_5522138,0.44
+MTG,FQ2 '19,smiles18,Sean,0.43
+MTG,FQ2 '19,matan6663,matan6663,0.5
+MTG,FQ2 '19,BillB1210,Bill,0.41
+MTG,FQ2 '19,Analyst_8442101,Analyst_8442101,0.4
+MTG,FQ2 '19,Traders88,Traders88,0.4
+MTG,FQ2 '19,Sentinel,Sentinel,0.39
+MTG,FQ3 '19,QuantTrader007,Frederick Tremblay,0.45
+MTG,FQ3 '19,Analyst_8059454,Analyst_8059454,0.44
+MTG,FQ3 '19,BillB1210,Bill,0.44
+MTG,FQ3 '19,Analyst_8442101,Analyst_8442101,0.4
+MTG,FQ3 '19,Traders88,Traders88,0.4
+MTG,FQ3 '19,Sentinel,Sentinel,0.39
+MTG,FQ4 '19,Proximilar,Proximilar AI,0.46
+MTG,FQ4 '19,BillB1210,Bill,0.45
+MTG,FQ4 '19,QuantTrader007,Frederick Tremblay,0.44
+MTG,FQ4 '19,Sentinel,Sentinel,0.42
+MTG,FQ4 '19,Analyst_3545686,Analyst_3545686,0.42
+MTG,FQ4 '19,bsirirat,Bob S.,0.42
+MTG,FQ4 '19,Traders88,Traders88,0.4
+ACTG,FQ1 '19,BillB1210,Bill,0.3
+ACTG,FQ1 '19,Trex_Securities,Trex_Securities,-0.51
+ACTG,FQ2 '19,BillB1210,Bill,0.09
+ACTG,FQ3 '19,BillB1210,Bill,-0.03
+ACTG,FQ4 '19,BillB1210,Bill,-0.02
